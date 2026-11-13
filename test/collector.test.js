@@ -228,6 +228,8 @@ test("a interface em português lista os nichos e o workflow cobra o segredo", (
   for (const niche of NICHE_OPTIONS) assert.match(html, new RegExp(niche.label));
   assert.match(workflow, /APIFY_TOKEN/);
   assert.match(workflow, /workflow_dispatch/);
+  assert.match(workflow, /GITHUB_REF/);
+  assert.doesNotMatch(workflow, /\$\{\{\s*github\.ref\s*\}\}/);
   assert.match(workflow, new RegExp(config.scheduleCron.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")));
   const readme = fs.readFileSync(path.join(root, "README.md"), "utf8");
   assert.match(readme, /https:\/\/lippaum\.github\.io\/tiktok-dashboard\//);

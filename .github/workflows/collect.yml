@@ -15,8 +15,9 @@ jobs:
     steps:
       - name: Só na branch main
         run: |
-          if [ "${{ github.ref }}" != "refs/heads/main" ]; then
-            echo "::error::Rode este workflow na branch main, depois do merge. Branch atual: ${{ github.ref }}"
+          ref="${GITHUB_REF//$'\n'/}"
+          if [ "$ref" != "refs/heads/main" ]; then
+            echo "::error::Rode este workflow na branch main, depois do merge. Branch atual: ${ref}"
             exit 1
           fi
 
