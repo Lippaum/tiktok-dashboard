@@ -1,0 +1,15 @@
+{
+  "name": "tiktok-dashboard",
+  "private": true,
+  "type": "module",
+  "description": "Radar estático dos TikToks que mais crescem no Brasil, com coleta via Apify.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "collect": "node collector/collect.js",
+    "collect:fixture": "node collector/collect.js --fixture",
+    "demo": "node collector/collect.js --fixture && node preview.js --data .demo-data/videos.json --port 4173"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "region": "BR",
+  "scheduleCron": "0 */4 * * *",
+  "intervalHours": 4,
+  "expectedRunsPerMonth": 180,
+  "pricePerThousandUsd": 0.25,
+  "monthlyBudgetUsd": 4,
+  "keepSnapshots": 42,
+  "maxHistoryPoints": 48,
+  "trending": {
+    "actorId": "kaitoeasyapi/tiktok-trending-feed-scraper",
+    "maxVideosPerRegion": 15
+  },
+  "search": {
+    "actorId": "kaitoeasyapi/tiktok-search-scraper",
+    "sortType": "1",
+    "publishTime": "7",
+    "maxResultsPerKeyword": 4,
+    "keywordsPerRun": 5,
+    "keywords": [
+      { "query": "ia", "niche": "ia" },
+      { "query": "inteligenciaartificial", "niche": "ia" },
+      { "query": "historiasdeterror", "niche": "terror" },
+      { "query": "terror", "niche": "terror" },
+      { "query": "misterio", "niche": "misterio" },
+      { "query": "curiosidades", "niche": "curiosidades" },
+      { "query": "fatoscuriosos", "niche": "curiosidades" },
+      { "query": "creepypasta", "niche": "terror" },
+      { "query": "historiareal", "niche": "terror" },
+      { "query": "conversasfakes", "niche": "conversas" },
+      { "query": "narracao", "niche": "narracao" }
+    ]
+  },
+  "notes": "Plano Free da Apify (checado em 13/11/2026): estes dois actors custam US$ 0,25 por 1.000 resultados. 180 coletas/mês × (15 em alta + 5 hashtags × 4 vídeos) = 6.300 resultados ≈ US$ 1,58/mês. O coletor recusa a config se a estimativa passar de monthlyBudgetUsd."
+}

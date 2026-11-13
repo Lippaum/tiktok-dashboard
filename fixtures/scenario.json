@@ -1,0 +1,185 @@
+{
+  "videos": [
+    {
+      "id": "7100000000000001001",
+      "shape": "kaito",
+      "sources": ["trending", "search"],
+      "author": "sombras.narradas",
+      "authorName": "Sombras Narradas",
+      "authorFollowers": 4200,
+      "durationSec": 27,
+      "postedHoursAgo": 30,
+      "cover": "covers/terror.svg",
+      "caption": "Você não deveria ter aberto essa porta. História de terror narrada por IA. #historiasdeterror #ia #narracao",
+      "hashtags": ["historiasdeterror", "ia", "narracao"],
+      "runs": [
+        { "hoursAgo": 8, "views": 80000, "likes": 9000, "comments": 280, "shares": 1400 },
+        { "hoursAgo": 4, "views": 140000, "likes": 16000, "comments": 520, "shares": 2600 },
+        { "hoursAgo": 0, "views": 260000, "likes": 28000, "comments": 900, "shares": 4100 }
+      ]
+    },
+    {
+      "id": "7100000000000001002",
+      "shape": "clockworks",
+      "sources": ["search"],
+      "author": "fatos.narrados",
+      "authorName": "Fatos Narrados",
+      "authorFollowers": 12800,
+      "durationSec": 42,
+      "postedHoursAgo": 80,
+      "cover": "covers/curiosidades.svg",
+      "caption": "3 fatos que a escola não conta. Voz de IA. #curiosidades #fatoscuriosos #narracao",
+      "hashtags": ["curiosidades", "fatoscuriosos", "narracao"],
+      "runs": [
+        { "hoursAgo": 8, "views": 500000, "likes": 41000, "comments": 800, "shares": 6000 },
+        { "hoursAgo": 4, "views": 540000, "likes": 45000, "comments": 900, "shares": 6800 },
+        { "hoursAgo": 0, "views": 590000, "likes": 51000, "comments": 1100, "shares": 7600 }
+      ]
+    },
+    {
+      "id": "7100000000000001003",
+      "shape": "aweme",
+      "sources": ["search"],
+      "author": "conversas.falsas",
+      "authorName": "Conversas Falsas",
+      "authorFollowers": 900,
+      "durationSec": 18,
+      "postedHoursAgo": 10,
+      "cover": "covers/chat.svg",
+      "caption": "A conversa que eu nunca respondi. #conversasfakes",
+      "hashtags": ["conversasfakes"],
+      "runs": [
+        { "hoursAgo": 8, "views": 20000, "likes": 2400, "comments": 180, "shares": 700 },
+        { "hoursAgo": 4, "views": 28000, "likes": 3200, "comments": 240, "shares": 900 },
+        { "hoursAgo": 0, "views": 35000, "likes": 4100, "comments": 310, "shares": 1200 }
+      ]
+    },
+    {
+      "id": "7100000000000001004",
+      "shape": "kaito",
+      "sources": ["search"],
+      "author": "corredor.quatro",
+      "authorName": "Corredor Quatro",
+      "authorFollowers": 23000,
+      "durationSec": 95,
+      "postedHoursAgo": 200,
+      "cover": "covers/creepypasta.svg",
+      "caption": "Creepypasta: o corredor do 4º andar. Narração completa. #creepypasta #terror #historiasdeterror",
+      "hashtags": ["creepypasta", "terror", "historiasdeterror"],
+      "runs": [
+        { "hoursAgo": 8, "views": 90000, "likes": 7000, "comments": 400, "shares": 900 },
+        { "hoursAgo": 4, "views": 92000, "likes": 7200, "comments": 420, "shares": 940 },
+        { "hoursAgo": 0, "views": 94000, "likes": 7400, "comments": 450, "shares": 980 }
+      ]
+    },
+    {
+      "id": "7100000000000001005",
+      "shape": "kaito",
+      "sources": ["search"],
+      "author": "ia.do.meme",
+      "authorName": "IA do Meme",
+      "authorFollowers": 3100,
+      "durationSec": 12,
+      "postedHoursAgo": 6,
+      "cover": "covers/meme.svg",
+      "caption": "O meme nasceu de uma imagem de IA e ninguém percebeu. #meme #ia",
+      "hashtags": ["meme", "ia"],
+      "runs": [
+        { "hoursAgo": 8, "views": 10000, "likes": 1800, "comments": 90, "shares": 400 },
+        { "hoursAgo": 4, "views": 40000, "likes": 6200, "comments": 300, "shares": 1500 },
+        { "hoursAgo": 0, "views": 110000, "likes": 16000, "comments": 700, "shares": 4200 }
+      ]
+    },
+    {
+      "id": "7100000000000001006",
+      "shape": "clockworks",
+      "sources": ["trending"],
+      "author": "ritmo.da.semana",
+      "authorName": "Ritmo da Semana",
+      "authorFollowers": 890000,
+      "durationSec": 14,
+      "postedHoursAgo": 50,
+      "cover": "covers/dance.svg",
+      "caption": "A trend da semana, aprende aí #dance #fyp",
+      "hashtags": ["dance", "fyp"],
+      "runs": [
+        { "hoursAgo": 8, "views": 2000000, "likes": 36000, "comments": 400, "shares": 1800 },
+        { "hoursAgo": 4, "views": 2050000, "likes": 38000, "comments": 450, "shares": 1900 },
+        { "hoursAgo": 0, "views": 2100000, "likes": 40000, "comments": 500, "shares": 2000 }
+      ]
+    },
+    {
+      "id": "7100000000000001007",
+      "shape": "kaito",
+      "sources": ["search"],
+      "author": "ilha.que.some",
+      "authorName": "Ilha que Some",
+      "authorFollowers": 6700,
+      "durationSec": 36,
+      "postedHoursAgo": 100,
+      "cover": "covers/ilha.svg",
+      "caption": "Você sabia que o Brasil tem uma ilha que some? Narração. #curiosidades #fatoscuriosos",
+      "hashtags": ["curiosidades", "fatoscuriosos"],
+      "runs": [
+        { "hoursAgo": 8, "views": 15000, "likes": 1800, "comments": 70, "shares": 300 },
+        { "hoursAgo": 4, "views": 60000, "likes": 7000, "comments": 240, "shares": 1100 },
+        { "hoursAgo": 0, "views": 95000, "likes": 11200, "comments": 380, "shares": 1900 }
+      ]
+    },
+    {
+      "id": "7100000000000001008",
+      "shape": "aweme",
+      "sources": ["search"],
+      "author": "farol.apagado",
+      "authorName": "Farol Apagado",
+      "authorFollowers": 15400,
+      "durationSec": 58,
+      "postedHoursAgo": 400,
+      "cover": "covers/farol.svg",
+      "caption": "O caso do farol apagado. Mistério narrado com voz sintética. #misterio #historiareal",
+      "hashtags": ["misterio", "historiareal"],
+      "runs": [
+        { "hoursAgo": 8, "views": 40000, "likes": 3600, "comments": 200, "shares": 500 },
+        { "hoursAgo": 4, "views": 55000, "likes": 4900, "comments": 260, "shares": 700 },
+        { "hoursAgo": 0, "views": 70000, "likes": 6400, "comments": 340, "shares": 980 }
+      ]
+    },
+    {
+      "id": "7100000000000001009",
+      "shape": "kaito",
+      "sources": ["trending"],
+      "author": "eu.na.camera",
+      "authorName": "Eu na Câmera",
+      "authorFollowers": 120000,
+      "durationSec": 21,
+      "postedHoursAgo": 20,
+      "cover": "covers/reacao.svg",
+      "caption": "Eu tentando fingir que não vi. #comedia #fyp",
+      "hashtags": ["comedia", "fyp"],
+      "runs": [
+        { "hoursAgo": 8, "views": 300000, "likes": 18000, "comments": 600, "shares": 900 },
+        { "hoursAgo": 4, "views": 310000, "likes": 18800, "comments": 640, "shares": 940 },
+        { "hoursAgo": 0, "views": 315000, "likes": 19200, "comments": 670, "shares": 980 }
+      ]
+    },
+    {
+      "id": "7100000000000001010",
+      "shape": "kaito",
+      "sources": ["trending"],
+      "author": "olha.isso.ai",
+      "authorName": "Olha Isso",
+      "authorFollowers": 800,
+      "durationSec": 24,
+      "postedHoursAgo": 5,
+      "cover": "covers/aigc.svg",
+      "caption": "olha isso",
+      "hashtags": [],
+      "aiMeta": true,
+      "runs": [
+        { "hoursAgo": 8, "views": 5000, "likes": 700, "comments": 40, "shares": 120 },
+        { "hoursAgo": 4, "views": 25000, "likes": 3100, "comments": 160, "shares": 600 },
+        { "hoursAgo": 0, "views": 80000, "likes": 9600, "comments": 420, "shares": 1800 }
+      ]
+    }
+  ]
+}

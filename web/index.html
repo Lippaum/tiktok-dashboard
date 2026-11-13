@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#12140e">
+    <meta name="description" content="Os TikToks que mais crescem no Brasil, com filtro para conteúdo sem rosto e feito com IA.">
+    <title>Radar Viral · TikTok Brasil</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,560;0,9..144,680;1,9..144,560&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip" href="#lista">Pular para os vídeos</a>
+    <header class="top">
+      <div class="brand">
+        <p class="kicker">TikTok · Brasil</p>
+        <h1>Radar <em>Viral</em></h1>
+        <p class="lede">
+          Os vídeos que mais sobem no Brasil, com um filtro para formatos sem rosto e feitos com IA:
+          narração, imagem, terror, curiosidade, voz sintética, chat fictício e meme.
+          Serve para escolher um formato parecido. A meta da conta é 10 mil seguidores e 100 mil visualizações em 30 dias.
+        </p>
+      </div>
+      <div class="status" aria-live="polite">
+        <p class="status-label">Última atualização</p>
+        <p class="status-value" id="updated">Carregando…</p>
+        <p class="status-sub" id="status-sub"></p>
+      </div>
+    </header>
+
+    <p id="banner" class="banner" hidden></p>
+
+    <section class="filters" aria-label="Filtros">
+      <label class="field">
+        <span>Nicho</span>
+        <select id="niche">
+          <option value="todos">Todos os nichos</option>
+          <option value="ia">IA</option>
+          <option value="terror">Terror</option>
+          <option value="misterio">Mistério</option>
+          <option value="curiosidades">Curiosidades</option>
+          <option value="narracao">Narração</option>
+          <option value="conversas">Conversas</option>
+          <option value="memes">Memes</option>
+          <option value="outros">Outros</option>
+        </select>
+      </label>
+      <label class="switch">
+        <input id="faceless" type="checkbox">
+        <span>Só sem rosto/IA</span>
+      </label>
+      <label class="field">
+        <span>Duração</span>
+        <select id="duration">
+          <option value="todas">Qualquer duração</option>
+          <option value="short">Até 30s</option>
+          <option value="mid">Entre 30 e 60s</option>
+          <option value="long">60s ou mais</option>
+        </select>
+      </label>
+      <label class="field">
+        <span>Publicado</span>
+        <select id="posted">
+          <option value="todas">Qualquer data</option>
+          <option value="7">Últimos 7 dias</option>
+          <option value="30">Últimos 30 dias</option>
+        </select>
+      </label>
+      <label class="field">
+        <span>Ordenar por</span>
+        <select id="sort">
+          <option value="growth">Crescimento</option>
+          <option value="vph">Visualizações/hora</option>
+          <option value="views">Visualizações</option>
+          <option value="engagement">Engajamento</option>
+        </select>
+      </label>
+      <div class="view-toggle" role="group" aria-label="Visualização">
+        <button type="button" data-view="cards" class="is-active" aria-pressed="true">Cards</button>
+        <button type="button" data-view="table" aria-pressed="false">Tabela</button>
+      </div>
+    </section>
+
+    <p class="count" id="count" aria-live="polite"></p>
+    <div id="lista" class="grid">
+      <p class="loading">Carregando os vídeos…</p>
+    </div>
+
+    <footer class="foot">
+      <p id="cost"></p>
+      <p>
+        Sem rosto/IA é uma heurística: olha a legenda, as hashtags e, quando a Apify manda, um metadado de conteúdo gerado.
+        Não confirma que o vídeo é sem rosto ou feito por IA.
+      </p>
+      <p>
+        Engajamento = (curtidas + comentários + compartilhamentos) ÷ visualizações.
+        Crescimento = visualizações a mais desde a coleta anterior.
+        Visualizações/hora = visualizações ÷ horas desde a publicação, medidas na hora da coleta.
+      </p>
+    </footer>
+    <noscript><p class="banner">Ative o JavaScript para ver o painel.</p></noscript>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>

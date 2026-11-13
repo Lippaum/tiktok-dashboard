@@ -1,0 +1,102 @@
+name: Coletar TikTok
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: collect-tiktok
+  cancel-in-progress: false
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Só na branch main
+        run: |
+          if [ "${{ github.ref }}" != "refs/heads/main" ]; then
+            echo "::error::Rode este workflow na branch main, depois do merge. Branch atual: ${{ github.ref }}"
+            exit 1
+          fi
+
+  collect:
+    needs: guard
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Exigir o segredo APIFY_TOKEN
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          if [ -z "${APIFY_TOKEN}" ]; then
+            echo "::error::Falta o segredo APIFY_TOKEN. No GitHub: Settings → Secrets and variables → Actions → New repository secret. Nome: APIFY_TOKEN. Valor: o token em https://console.apify.com/settings/integrations. Sem esse segredo a coleta não roda."
+            exit 1
+          fi
+
+      - name: Coletar
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: node collector/collect.js
+
+      - name: Salvar dados no repositório
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/videos.json data/snapshots
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Nenhuma mudança nos dados."
+            exit 0
+          fi
+          git commit -m "dados: atualiza o radar de vídeos em alta"
+          if ! git push origin HEAD:main; then
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Montar o site
+        if: steps.commit.outputs.changed == 'true'
+        run: bash scripts/assemble-site.sh
+
+      - name: Enviar o site
+        if: steps.commit.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: collect
+    if: needs.collect.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    concurrency:
+      group: pages
+      cancel-in-progress: true
+    steps:
+      - name: Publicar no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
