@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T17:52:37.821Z",
+  "updatedAt": "2026-11-14T23:48:05.565Z",
   "region": "BR",
   "source": "live",
-  "videoCount": 89,
+  "videoCount": 115,
   "videos": [
     {
       "id": "7705967476177112352",
@@ -19,7 +19,7 @@
       "shares": 600716,
       "durationSec": null,
       "postedAt": "2026-11-09T00:49:51.000Z",
-      "viewsPerHour": 157596.8,
+      "viewsPerHour": 151066.4,
       "growthViews": 453515,
       "growthHours": 6.54,
       "engagementRate": 0.0845,
@@ -60,6 +60,60 @@
       ]
     },
     {
+      "id": "7706315372856642868",
+      "url": "https://www.tiktok.com/@scopecurioso/video/7706315372856642868",
+      "caption": "As 4 pessoas mais protegidas do Mundo! #papa #curiosidades #fatoscuriosos #vaticano",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osAyEi5y6vYTBVBAUlqay2EAALFJDiLNAIivI~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=b1a648cd&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=xnSqjFtnJegkkidMgAck4Vmx3qo%3D",
+      "author": "scopecurioso",
+      "authorName": "Scope Curioso",
+      "authorFollowers": null,
+      "views": 2193365,
+      "likes": 57213,
+      "comments": 1597,
+      "shares": 923,
+      "durationSec": null,
+      "postedAt": "2026-11-09T23:19:53.000Z",
+      "viewsPerHour": 18206.7,
+      "growthViews": 324623,
+      "growthHours": 22.48,
+      "engagementRate": 0.0272,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "curiosidades",
+          "label": "Curiosidades"
+        }
+      ],
+      "hashtags": [
+        "papa",
+        "curiosidades",
+        "fatoscuriosos",
+        "vaticano"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T01:19:03.920Z",
+          "views": 1868742,
+          "likes": 47517,
+          "comments": 1339,
+          "shares": 810
+        },
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 2193365,
+          "likes": 57213,
+          "comments": 1597,
+          "shares": 923
+        }
+      ]
+    },
+    {
       "id": "7706604855976103186",
       "url": "https://www.tiktok.com/@itsvictoriahale/video/7706604855976103186",
       "caption": "O maior caso de exorcismo do Brasil #lendas #historias #fyp",
@@ -73,7 +127,7 @@
       "shares": 16946,
       "durationSec": null,
       "postedAt": "2026-11-10T18:03:05.000Z",
-      "viewsPerHour": 22766.7,
+      "viewsPerHour": 21441.1,
       "growthViews": 199877,
       "growthHours": 6.54,
       "engagementRate": 0.1535,
@@ -120,6 +174,65 @@
       ]
     },
     {
+      "id": "7705851342681623838",
+      "url": "https://www.tiktok.com/@dogs.videos4/video/7705851342681623838",
+      "caption": "##cartoon #kittensoftiktok #aitrend #cattok #cutecat #catsoftiktok #viral #trending #fyp",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/ooIDq8Bfl8bKEBTrbh6E3mNAErVwwQLEHAfFRr~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=a2706126&x-expires=1794783600&x-signature=pHwpBPAcD1o8Eqq1wA01rMLEA5I%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&bas=android_bas",
+      "author": "dogs.videos4",
+      "authorName": "Dogs videos",
+      "authorFollowers": null,
+      "views": 6456850,
+      "likes": 173325,
+      "comments": 2104,
+      "shares": 4253,
+      "durationSec": null,
+      "postedAt": "2026-11-08T17:19:06.000Z",
+      "viewsPerHour": 42907.4,
+      "growthViews": 165356,
+      "growthHours": 5.92,
+      "engagementRate": 0.0278,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "cartoon",
+        "kittensoftiktok",
+        "aitrend",
+        "cattok",
+        "cutecat",
+        "catsoftiktok",
+        "viral",
+        "trending",
+        "fyp"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 6291494,
+          "likes": 168692,
+          "comments": 2058,
+          "shares": 4157
+        },
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 6456850,
+          "likes": 173325,
+          "comments": 2104,
+          "shares": 4253
+        }
+      ]
+    },
+    {
       "id": "7707596977067855125",
       "url": "https://www.tiktok.com/@.wrzdjosesito/video/7707596977067855125",
       "caption": "yo y mi deslexia cuando me uno a lives y hablo 🥰💜 @Fede Vigevani #fedevigevani🛐💐✨️ #typ #clips #noflop #clubmisterio",
@@ -133,7 +246,7 @@
       "shares": 13013,
       "durationSec": null,
       "postedAt": "2026-11-13T10:12:51.000Z",
-      "viewsPerHour": 17516.8,
+      "viewsPerHour": 14755.9,
       "growthViews": 106091,
       "growthHours": 6.54,
       "engagementRate": 0.212,
@@ -175,57 +288,59 @@
       ]
     },
     {
-      "id": "7698452422385061152",
-      "url": "https://www.tiktok.com/@bannerverse/video/7698452422385061152",
-      "caption": "Gojo Banner🔥 How to Add a TikTok Banner 1. Open your profile → tap Edit profile 2. Look for \"Change background\" 3. Tap Upload photo → choose an image from your gallery 4. Adjust → tap Done/Save🔥 Can't find the menu? The feature is being rolled out gradually update TikTok to the latest version #animebanner #banners #tiktokbanner #gojobanner #tutorial",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oEXc7bsA0ZEBYBgtDAlwmIi2paibWztAEZDAP~tplv-tiktokx-origin.webp?dr=1370&refresh_token=cba6c577&x-expires=1794762000&x-signature=LBnAsuI6S7qQt5eJ5QY76aH4ScA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&item=7698452422385061152",
-      "author": "bannerverse",
-      "authorName": "Bannerverse",
+      "id": "7706253367684779270",
+      "url": "https://www.tiktok.com/@history_war01/video/7706253367684779270",
+      "caption": "Como são os animais com sindrome de Down #animais #sindromededown #curiosidades #fatoscuriosos #viral #fy #vocesabia",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oMIiXArEEDAeEIDyAVAA4IRxoELieH5GDVBRzf~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=efa7ec40&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=VBcCsVgGkgKvLz58I%2Fvt2z%2FnBpQ%3D",
+      "author": "history_war01",
+      "authorName": "History War",
       "authorFollowers": null,
-      "views": 2822643,
-      "likes": 344123,
-      "comments": 3482,
-      "shares": 33044,
+      "views": 718482,
+      "likes": 51604,
+      "comments": 1664,
+      "shares": 19101,
       "durationSec": null,
-      "postedAt": "2026-10-19T18:47:17.000Z",
-      "viewsPerHour": 4530.1,
-      "growthViews": 96460,
-      "growthHours": 16.56,
-      "engagementRate": 0.1349,
+      "postedAt": "2026-11-10T15:00:00.000Z",
+      "viewsPerHour": 6855.6,
+      "growthViews": 76939,
+      "growthHours": 22.48,
+      "engagementRate": 0.1007,
       "faceless": false,
       "facelessScore": 0,
       "facelessReasons": [],
       "niches": [
         {
-          "id": "outros",
-          "label": "Outros"
+          "id": "curiosidades",
+          "label": "Curiosidades"
         }
       ],
       "hashtags": [
-        "animebanner",
-        "banners",
-        "tiktokbanner",
-        "gojobanner",
-        "tutorial"
+        "animais",
+        "sindromededown",
+        "curiosidades",
+        "fatoscuriosos",
+        "viral",
+        "fy",
+        "vocesabia"
       ],
       "sources": [
-        "trending"
+        "search"
       ],
       "aiMeta": false,
       "history": [
         {
           "at": "2026-11-14T01:19:03.920Z",
-          "views": 2726183,
-          "likes": 331201,
-          "comments": 3367,
-          "shares": 31901
+          "views": 641543,
+          "likes": 45258,
+          "comments": 1418,
+          "shares": 17301
         },
         {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 2822643,
-          "likes": 344123,
-          "comments": 3482,
-          "shares": 33044
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 718482,
+          "likes": 51604,
+          "comments": 1664,
+          "shares": 19101
         }
       ]
     },
@@ -243,7 +358,7 @@
       "shares": 2833,
       "durationSec": null,
       "postedAt": "2026-11-13T22:00:00.000Z",
-      "viewsPerHour": 12919.4,
+      "viewsPerHour": 9953,
       "growthViews": 47258,
       "growthHours": 6.54,
       "engagementRate": 0.0948,
@@ -297,7 +412,7 @@
       "shares": 1637,
       "durationSec": null,
       "postedAt": "2026-11-13T01:00:00.000Z",
-      "viewsPerHour": 20260,
+      "viewsPerHour": 17695.4,
       "growthViews": 46241,
       "growthHours": 6.54,
       "engagementRate": 0.1071,
@@ -343,6 +458,136 @@
       ]
     },
     {
+      "id": "7698452422385061152",
+      "url": "https://www.tiktok.com/@bannerverse/video/7698452422385061152",
+      "caption": "Gojo Banner🔥 How to Add a TikTok Banner 1. Open your profile → tap Edit profile 2. Look for \"Change background\" 3. Tap Upload photo → choose an image from your gallery 4. Adjust → tap Done/Save🔥 Can't find the menu? The feature is being rolled out gradually update TikTok to the latest version #animebanner #banners #tiktokbanner #gojobanner #tutorial",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oEXc7bsA0ZEBYBgtDAlwmIi2paibWztAEZDAP~tplv-tiktokx-origin.webp?dr=1370&refresh_token=0a7e5b6b&x-expires=1794783600&x-signature=ZPuVRQOV5LCTzf3%2FWfQOK3pKdBI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&item=7698452422385061152&bas=android_sc_bas_bp",
+      "author": "bannerverse",
+      "authorName": "Bannerverse",
+      "authorFollowers": null,
+      "views": 2850091,
+      "likes": 348958,
+      "comments": 3519,
+      "shares": 33354,
+      "durationSec": null,
+      "postedAt": "2026-10-19T18:47:17.000Z",
+      "viewsPerHour": 4531,
+      "growthViews": 27448,
+      "growthHours": 5.92,
+      "engagementRate": 0.1354,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "animebanner",
+        "banners",
+        "tiktokbanner",
+        "gojobanner",
+        "tutorial"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T01:19:03.920Z",
+          "views": 2726183,
+          "likes": 331201,
+          "comments": 3367,
+          "shares": 31901
+        },
+        {
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 2822643,
+          "likes": 344123,
+          "comments": 3482,
+          "shares": 33044
+        },
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 2850091,
+          "likes": 348958,
+          "comments": 3519,
+          "shares": 33354
+        }
+      ]
+    },
+    {
+      "id": "7695240029358132511",
+      "url": "https://www.tiktok.com/@usafunny596/video/7695240029358132511",
+      "caption": "#BalliBotMagos #TredingReels #TredingReels #ForYouPage #FYP #FYP #ViralTikTok #MillionViews #TechMagic #SmartBot #AITrend #RobotVibes #Innovation",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/osWIefuBIiURUFKFQVTGeQWGghALAtfAnU6rQy~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=ac595f18&x-expires=1794783600&x-signature=ST0RaPkC21hP7mAbd5xvMsr%2FxfM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&bas=android_sc_bas_pb",
+      "author": "usafunny596",
+      "authorName": "usafunny",
+      "authorFollowers": null,
+      "views": 6639229,
+      "likes": 602765,
+      "comments": 5395,
+      "shares": 273701,
+      "durationSec": null,
+      "postedAt": "2026-10-11T03:01:41.000Z",
+      "viewsPerHour": 7934.3,
+      "growthViews": 24637,
+      "growthHours": 5.92,
+      "engagementRate": 0.1328,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "ballibotmagos",
+        "tredingreels",
+        "foryoupage",
+        "fyp",
+        "viraltiktok",
+        "millionviews",
+        "techmagic",
+        "smartbot",
+        "aitrend",
+        "robotvibes",
+        "innovation"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T11:19:59.148Z",
+          "views": 6594694,
+          "likes": 597365,
+          "comments": 5331,
+          "shares": 272064
+        },
+        {
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 6614592,
+          "likes": 599715,
+          "comments": 5357,
+          "shares": 272851
+        },
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 6639229,
+          "likes": 602765,
+          "comments": 5395,
+          "shares": 273701
+        }
+      ]
+    },
+    {
       "id": "7706292434992516373",
       "url": "https://www.tiktok.com/@damares.stories/video/7706292434992516373",
       "caption": "#frutas #historiadefrutas #inteligenciaartificial #ia #historia",
@@ -356,7 +601,7 @@
       "shares": 1157,
       "durationSec": null,
       "postedAt": "2026-11-09T21:50:42.000Z",
-      "viewsPerHour": 6605.4,
+      "viewsPerHour": 6284.6,
       "growthViews": 21243,
       "growthHours": 6.54,
       "engagementRate": 0.0884,
@@ -400,23 +645,23 @@
       ]
     },
     {
-      "id": "7695240029358132511",
-      "url": "https://www.tiktok.com/@usafunny596/video/7695240029358132511",
-      "caption": "#BalliBotMagos #TredingReels #TredingReels #ForYouPage #FYP #FYP #ViralTikTok #MillionViews #TechMagic #SmartBot #AITrend #RobotVibes #Innovation",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/osWIefuBIiURUFKFQVTGeQWGghALAtfAnU6rQy~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=dc83ef33&x-expires=1794762000&x-signature=ynJMXWkmpnQGtPPGjFy46%2BLW2fg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "usafunny596",
-      "authorName": "usafunny",
+      "id": "7681385009495706900",
+      "url": "https://www.tiktok.com/@star.blue.01/video/7681385009495706900",
+      "caption": "#fyp #paravoce",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okjaKZKEc8I6mJwqAfDIRwqF0fizLHEUBDsBgv~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=60421b46&x-expires=1794783600&x-signature=uXcUzgtlEZiXX634XSGT2Y3D4aY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&bas=android_bas",
+      "author": "star.blue.01",
+      "authorName": "𝐬𝐭𝐚𝐫.𝐛𝐥𝐮𝐞.𝟎𝟏",
       "authorFollowers": null,
-      "views": 6614592,
-      "likes": 599715,
-      "comments": 5357,
-      "shares": 272851,
+      "views": 1603532,
+      "likes": 221617,
+      "comments": 555,
+      "shares": 12951,
       "durationSec": null,
-      "postedAt": "2026-10-11T03:01:41.000Z",
-      "viewsPerHour": 7961.2,
-      "growthViews": 19898,
-      "growthHours": 6.54,
-      "engagementRate": 0.1327,
+      "postedAt": "2026-09-03T18:57:02.000Z",
+      "viewsPerHour": 925.4,
+      "growthViews": 18080,
+      "growthHours": 22.48,
+      "engagementRate": 0.1466,
       "faceless": false,
       "facelessScore": 0,
       "facelessReasons": [],
@@ -427,17 +672,8 @@
         }
       ],
       "hashtags": [
-        "ballibotmagos",
-        "tredingreels",
-        "foryoupage",
         "fyp",
-        "viraltiktok",
-        "millionviews",
-        "techmagic",
-        "smartbot",
-        "aitrend",
-        "robotvibes",
-        "innovation"
+        "paravoce"
       ],
       "sources": [
         "trending"
@@ -445,18 +681,18 @@
       "aiMeta": false,
       "history": [
         {
-          "at": "2026-11-14T11:19:59.148Z",
-          "views": 6594694,
-          "likes": 597365,
-          "comments": 5331,
-          "shares": 272064
+          "at": "2026-11-14T01:19:03.920Z",
+          "views": 1585452,
+          "likes": 219432,
+          "comments": 550,
+          "shares": 12842
         },
         {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 6614592,
-          "likes": 599715,
-          "comments": 5357,
-          "shares": 272851
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 1603532,
+          "likes": 221617,
+          "comments": 555,
+          "shares": 12951
         }
       ]
     },
@@ -474,7 +710,7 @@
       "shares": 15993,
       "durationSec": null,
       "postedAt": "2026-11-08T20:08:14.000Z",
-      "viewsPerHour": 54292.9,
+      "viewsPerHour": 52114.6,
       "growthViews": 14237,
       "growthHours": 6.54,
       "engagementRate": 0.0893,
@@ -536,7 +772,7 @@
       "shares": 940,
       "durationSec": null,
       "postedAt": "2026-11-10T22:30:00.000Z",
-      "viewsPerHour": 4626.4,
+      "viewsPerHour": 4344.7,
       "growthViews": 10932,
       "growthHours": 6.54,
       "engagementRate": 0.0957,
@@ -583,6 +819,118 @@
       ]
     },
     {
+      "id": "7706727342374325524",
+      "url": "https://www.tiktok.com/@curiosacami/video/7706727342374325524",
+      "caption": "Curiosidades sobre o corpo humano 🧠 #curiosidades #corpohumano #anatomia #olho",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/og8qCntAEw2FCHlAeg5I8obARuIGDBAsEfBQTc~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=5a980e8e&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=arbXeJ7tZA%2B7Sj8QJZGy5WozWNw%3D",
+      "author": "curiosacami",
+      "authorName": "Curiosa Cami",
+      "authorFollowers": null,
+      "views": 206919,
+      "likes": 25170,
+      "comments": 203,
+      "shares": 653,
+      "durationSec": null,
+      "postedAt": "2026-11-11T01:58:18.000Z",
+      "viewsPerHour": 2205.3,
+      "growthViews": 7189,
+      "growthHours": 12.47,
+      "engagementRate": 0.1258,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "curiosidades",
+          "label": "Curiosidades"
+        }
+      ],
+      "hashtags": [
+        "curiosidades",
+        "corpohumano",
+        "anatomia",
+        "olho"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T01:19:03.920Z",
+          "views": 195975,
+          "likes": 23732,
+          "comments": 196,
+          "shares": 623
+        },
+        {
+          "at": "2026-11-14T11:19:59.148Z",
+          "views": 199730,
+          "likes": 24227,
+          "comments": 198,
+          "shares": 629
+        },
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 206919,
+          "likes": 25170,
+          "comments": 203,
+          "shares": 653
+        }
+      ]
+    },
+    {
+      "id": "7678885576057031954",
+      "url": "https://www.tiktok.com/@enzodiasx1/video/7678885576057031954",
+      "caption": "#vidroviral",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okhOcvgwcEFtGGfqAKD4I4IQfGEuWBBcXD7RkF~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=4b0d1d75&x-expires=1794783600&x-signature=aFecGWNKXmP%2FCjywxHYtYzhuZMw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&bas=android_bas",
+      "author": "enzodiasx1",
+      "authorName": "愛",
+      "authorFollowers": null,
+      "views": 4006043,
+      "likes": 475037,
+      "comments": 3801,
+      "shares": 39374,
+      "durationSec": null,
+      "postedAt": "2026-08-28T01:18:00.000Z",
+      "viewsPerHour": 2114.6,
+      "growthViews": 6886,
+      "growthHours": 5.92,
+      "engagementRate": 0.1294,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "vidroviral"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 3999157,
+          "likes": 474104,
+          "comments": 3802,
+          "shares": 39324
+        },
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 4006043,
+          "likes": 475037,
+          "comments": 3801,
+          "shares": 39374
+        }
+      ]
+    },
+    {
       "id": "7706885378481081607",
       "url": "https://www.tiktok.com/@historiascomleo/video/7706885378481081607",
       "caption": "PARTE 4: Nesta sexta-feira, 13, às 15h, não olhe pra cima 😨 E se você tiver cachorro… presta atenção nele. PARTE 5 SAIUU!!#sextafeira13 #naoolhepracima #suspense #terror #historia",
@@ -596,7 +944,7 @@
       "shares": 27920,
       "durationSec": null,
       "postedAt": "2026-11-11T12:11:30.000Z",
-      "viewsPerHour": 10913,
+      "viewsPerHour": 10139.7,
       "growthViews": 6310,
       "growthHours": 10.02,
       "engagementRate": 0.1362,
@@ -638,56 +986,51 @@
       ]
     },
     {
-      "id": "7706727342374325524",
-      "url": "https://www.tiktok.com/@curiosacami/video/7706727342374325524",
-      "caption": "Curiosidades sobre o corpo humano 🧠 #curiosidades #corpohumano #anatomia #olho",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/og8qCntAEw2FCHlAeg5I8obARuIGDBAsEfBQTc~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/octl2AAEqHBfUkInChFEguDwE8ARqEAQI4fuc8.image?biz_tag=musically_video.video_cover&dr=16684&idc=my&ps=933b5bde&refresh_token=7c81188f&s=SEARCH&sc=cover&shcp=c1333099&shp=d05b14bd&t=bacd0480&x-expires=1794740400&x-signature=7REbcprS7%2BFBYIcTGCTNBfvYPgY%3D",
-      "author": "curiosacami",
-      "authorName": "Curiosa Cami",
+      "id": "7680061582151290126",
+      "url": "https://www.tiktok.com/@ivyiscoolandtuff/video/7680061582151290126",
+      "caption": "",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/o8gBBAIcUpjia3cBP4D2V14HIvTEVEzYIbWUi~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=f059146c&x-expires=1794783600&x-signature=GeqPpWwWQMm%2FCKfmEW0rWd5LoPY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&bas=android_sc_bas_bp",
+      "author": "ivyiscoolandtuff",
+      "authorName": "ivy?",
       "authorFollowers": null,
-      "views": 199730,
-      "likes": 24227,
-      "comments": 198,
-      "shares": 629,
+      "views": 8679157,
+      "likes": 1127831,
+      "comments": 7042,
+      "shares": 536533,
       "durationSec": null,
-      "postedAt": "2026-11-11T01:58:18.000Z",
-      "viewsPerHour": 2272.1,
-      "growthViews": 3755,
-      "growthHours": 10.02,
-      "engagementRate": 0.1254,
+      "postedAt": "2026-08-31T05:21:58.000Z",
+      "viewsPerHour": 4772.9,
+      "growthViews": 5569,
+      "growthHours": 5.92,
+      "engagementRate": 0.1926,
       "faceless": false,
       "facelessScore": 0,
       "facelessReasons": [],
       "niches": [
         {
-          "id": "curiosidades",
-          "label": "Curiosidades"
+          "id": "outros",
+          "label": "Outros"
         }
       ],
-      "hashtags": [
-        "curiosidades",
-        "corpohumano",
-        "anatomia",
-        "olho"
-      ],
+      "hashtags": [],
       "sources": [
-        "search"
+        "trending"
       ],
       "aiMeta": false,
       "history": [
         {
-          "at": "2026-11-14T01:19:03.920Z",
-          "views": 195975,
-          "likes": 23732,
-          "comments": 196,
-          "shares": 623
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 8673588,
+          "likes": 1127335,
+          "comments": 7033,
+          "shares": 536521
         },
         {
-          "at": "2026-11-14T11:19:59.148Z",
-          "views": 199730,
-          "likes": 24227,
-          "comments": 198,
-          "shares": 629
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 8679157,
+          "likes": 1127831,
+          "comments": 7042,
+          "shares": 536533
         }
       ]
     },
@@ -705,7 +1048,7 @@
       "shares": 707,
       "durationSec": null,
       "postedAt": "2026-11-09T02:11:25.000Z",
-      "viewsPerHour": 702.3,
+      "viewsPerHour": 672.9,
       "growthViews": 2573,
       "growthHours": 10.02,
       "engagementRate": 0.1873,
@@ -764,7 +1107,7 @@
       "shares": 469636,
       "durationSec": null,
       "postedAt": "2026-10-31T19:29:39.000Z",
-      "viewsPerHour": 283810.7,
+      "viewsPerHour": 278869.9,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0592,
@@ -812,7 +1155,7 @@
       "shares": 809005,
       "durationSec": null,
       "postedAt": "2026-09-27T23:02:54.000Z",
-      "viewsPerHour": 142922.4,
+      "viewsPerHour": 142187.9,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1379,
@@ -841,6 +1184,147 @@
       ]
     },
     {
+      "id": "7708070957352553741",
+      "url": "https://www.tiktok.com/@alexluvsmakeup/video/7708070957352553741",
+      "caption": "Replying to @𝓶𝓘𝓐 𝐫𝐀𝐍𝐓𝐒 🎀 Men go mad with watchin’ ‘em’! #russiansleepexperiment #creepypastas #creepypastamakeup #scarystories #makeupstorytime",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oQT2HQfDkIqrjXVIdIZIHeBJxE5AeEHAFAAKQA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=7cd49f93&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=eSd4rFNAearzgXEqaCn6fYpLwmw%3D",
+      "author": "alexluvsmakeup",
+      "authorName": "ALEXLUVSMAKEUP 🫧",
+      "authorFollowers": null,
+      "views": 921865,
+      "likes": 66715,
+      "comments": 711,
+      "shares": 2820,
+      "durationSec": null,
+      "postedAt": "2026-11-14T16:52:28.000Z",
+      "viewsPerHour": 133080.9,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0762,
+      "faceless": false,
+      "facelessScore": 1,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "terror",
+          "label": "Terror"
+        }
+      ],
+      "hashtags": [
+        "russiansleepexperiment",
+        "creepypastas",
+        "creepypastamakeup",
+        "scarystories",
+        "makeupstorytime"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 921865,
+          "likes": 66715,
+          "comments": 711,
+          "shares": 2820
+        }
+      ]
+    },
+    {
+      "id": "7707722319338212640",
+      "url": "https://www.tiktok.com/@rumorlux/video/7707722319338212640",
+      "caption": "Tus ojos marrones esconden un secreto que casi nadie sabe 👁️#ojosmarrones #curiosidades #ciencia #SabiasQue #ojos",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/o4oCEDAFWQ32fRGQgQE9nRQ1UAVmDfwBmKpqF3~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=9aea12e1&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=ksCn5klebB8FUq%2Bc0cdCuxrb7V8%3D",
+      "author": "rumorlux",
+      "authorName": "rumorlux",
+      "authorFollowers": null,
+      "views": 1768397,
+      "likes": 165209,
+      "comments": 5257,
+      "shares": 82881,
+      "durationSec": null,
+      "postedAt": "2026-11-13T18:19:14.000Z",
+      "viewsPerHour": 59984.3,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1433,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "curiosidades",
+          "label": "Curiosidades"
+        }
+      ],
+      "hashtags": [
+        "ojosmarrones",
+        "curiosidades",
+        "ciencia",
+        "sabiasque",
+        "ojos"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 1768397,
+          "likes": 165209,
+          "comments": 5257,
+          "shares": 82881
+        }
+      ]
+    },
+    {
+      "id": "7702878396086357269",
+      "url": "https://www.tiktok.com/@candace.corleone/video/7702878396086357269",
+      "caption": "#trabalho #vira correndo trabalhando de gari",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o43fhF73Ay5RrD6eI8HBt5FXzYEE5qNcgABmIb~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=415c0510&x-expires=1794762000&x-signature=p23arAmXL7c%2F5KVeUtEwcY26t88%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "candace.corleone",
+      "authorName": "candace corleone",
+      "authorFollowers": null,
+      "views": 16693824,
+      "likes": 1510859,
+      "comments": 21145,
+      "shares": 208291,
+      "durationSec": null,
+      "postedAt": "2026-10-31T17:02:27.000Z",
+      "viewsPerHour": 48704,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1042,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "trabalho",
+        "vira"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 16693824,
+          "likes": 1510859,
+          "comments": 21145,
+          "shares": 208291
+        }
+      ]
+    },
+    {
       "id": "7707386605090213141",
       "url": "https://www.tiktok.com/@futrikei/video/7707386605090213141",
       "caption": "🚨🔥 Filha trans de Elon Musk, Vivian Wilson, protagoniza campanha em que desafia e destrói robô criado para obedecer: “Ele foi feito para obedecer. Eu, não!” Vivian Jenna Wilson, filha do bilionário Elon Musk, chamou atenção ao protagonizar uma campanha da marca espanhola Desigual que mistura moda, ironia e críticas à inteligência artificial. Intitulada “Born to Disobey” (“Nascida para desobedecer”), a produção mostra a modelo de 22 anos desafiando um robô humanoide desenvolvido para cumprir ordens. Durante o vídeo, Vivian coloca a máquina em situações inusitadas, explora suas falhas e a arrasta pelo chão. A campanha é interpretada como uma possível provocação ao pai, que investe no desenvolvimento de robôs humanoides por meio da Tesla. A mensagem principal é a defesa da liberdade, da individualidade e do direito de não seguir padrões impostos pela sociedade. A história ganha ainda mais repercussão pelo relacionamento conturbado entre Vivian e Elon Musk. A jovem, que se assumiu transgênero aos 16 anos, já criticou publicamente o pai. Em março de 2025, ela sugeriu que Musk teria utilizado técnicas de seleção de sexo durante a fertilização in vitro para ter um menino. A alegação, entretanto, não foi comprovada de maneira independente. Para Vivian, a expectativa de masculinidade que enfrentou durante a infância representava uma imposição contra a qual precisou lutar. Agora, sua participação na campanha reforça uma mensagem de autonomia e liberdade para ser quem realmente é. 💬 O que você achou da campanha de Vivian Wilson? 👉 Siga a @futrikei para mais notícias e atualizações. 📸 Reprodução/Desigual 📰 Fontes: Euronews, Desigual e VEJA. #VivianWilson #ElonMusk #Desigual #Celebridades #Futrikei",
@@ -854,7 +1338,7 @@
       "shares": 5366,
       "durationSec": null,
       "postedAt": "2026-11-12T20:36:33.000Z",
-      "viewsPerHour": 50986,
+      "viewsPerHour": 45085.5,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.094,
@@ -891,23 +1375,23 @@
       ]
     },
     {
-      "id": "7702878396086357269",
-      "url": "https://www.tiktok.com/@candace.corleone/video/7702878396086357269",
-      "caption": "#trabalho #vira correndo trabalhando de gari",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o43fhF73Ay5RrD6eI8HBt5FXzYEE5qNcgABmIb~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=415c0510&x-expires=1794762000&x-signature=p23arAmXL7c%2F5KVeUtEwcY26t88%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&biz_tag=tt_video&s=FEED",
-      "author": "candace.corleone",
-      "authorName": "candace corleone",
+      "id": "7708041336494017812",
+      "url": "https://www.tiktok.com/@cinemalista/video/7708041336494017812",
+      "caption": "Limoneno se transformou e agora quer ficar rico com o cabelo da uvete. #frutinovelas #frutasfalantes",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQHEAVGfD4NVFDAzEbsvjdLDAEZI4YAfYwecIA~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=14cf8c74&x-expires=1794783600&x-signature=AHgIvhTguJVKu6oPDtKYJ2q8BCM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&bas=android_sc_bas_bp&biz_tag=tt_video&s=FEED",
+      "author": "cinemalista",
+      "authorName": "CinemaLista",
       "authorFollowers": null,
-      "views": 16693824,
-      "likes": 1510859,
-      "comments": 21145,
-      "shares": 208291,
+      "views": 353584,
+      "likes": 14080,
+      "comments": 217,
+      "shares": 227,
       "durationSec": null,
-      "postedAt": "2026-10-31T17:02:27.000Z",
-      "viewsPerHour": 49560.6,
+      "postedAt": "2026-11-14T14:57:12.000Z",
+      "viewsPerHour": 39961.1,
       "growthViews": null,
       "growthHours": null,
-      "engagementRate": 0.1042,
+      "engagementRate": 0.0411,
       "faceless": false,
       "facelessScore": 0,
       "facelessReasons": [],
@@ -918,8 +1402,8 @@
         }
       ],
       "hashtags": [
-        "trabalho",
-        "vira"
+        "frutinovelas",
+        "frutasfalantes"
       ],
       "sources": [
         "trending"
@@ -927,63 +1411,11 @@
       "aiMeta": false,
       "history": [
         {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 16693824,
-          "likes": 1510859,
-          "comments": 21145,
-          "shares": 208291
-        }
-      ]
-    },
-    {
-      "id": "7705851342681623838",
-      "url": "https://www.tiktok.com/@dogs.videos4/video/7705851342681623838",
-      "caption": "##cartoon #kittensoftiktok #aitrend #cattok #cutecat #catsoftiktok #viral #trending #fyp",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/ooIDq8Bfl8bKEBTrbh6E3mNAErVwwQLEHAfFRr~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=da0dfe91&x-expires=1794762000&x-signature=ou8HOLNqCC1CJ3y%2B%2FhDWIZD18hw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "dogs.videos4",
-      "authorName": "Dogs videos",
-      "authorFollowers": null,
-      "views": 6291494,
-      "likes": 168692,
-      "comments": 2058,
-      "shares": 4157,
-      "durationSec": null,
-      "postedAt": "2026-11-08T17:19:06.000Z",
-      "viewsPerHour": 43522,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.0278,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [
-        "cartoon",
-        "kittensoftiktok",
-        "aitrend",
-        "cattok",
-        "cutecat",
-        "catsoftiktok",
-        "viral",
-        "trending",
-        "fyp"
-      ],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 6291494,
-          "likes": 168692,
-          "comments": 2058,
-          "shares": 4157
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 353584,
+          "likes": 14080,
+          "comments": 217,
+          "shares": 227
         }
       ]
     },
@@ -1001,7 +1433,7 @@
       "shares": 2098,
       "durationSec": null,
       "postedAt": "2026-11-12T13:40:50.000Z",
-      "viewsPerHour": 42104.3,
+      "viewsPerHour": 37812.5,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1921,
@@ -1030,48 +1462,6 @@
       ]
     },
     {
-      "id": "7707767073132252424",
-      "url": "https://www.tiktok.com/@matheus.tattoo.oficial/video/7707767073132252424",
-      "caption": "Decalque colado já",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUAFuLLro7yWGfd9jejCvGIdA4IXDXtQlVK3Qe~tplv-tiktokx-origin.webp?dr=1370&refresh_token=e642a328&x-expires=1794758400&x-signature=SsMER5yh5cXhhaiHZYIFVti7DQ4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&s=FEED&sc=cover&biz_tag=tt_video",
-      "author": "matheus.tattoo.oficial",
-      "authorName": "Tatuador dos artistas 🥇",
-      "authorFollowers": null,
-      "views": 688321,
-      "likes": 74656,
-      "comments": 159,
-      "shares": 1193,
-      "durationSec": null,
-      "postedAt": "2026-11-13T21:12:58.000Z",
-      "viewsPerHour": 33314.9,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.1104,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 688321,
-          "likes": 74656,
-          "comments": 159,
-          "shares": 1193
-        }
-      ]
-    },
-    {
       "id": "7705186965234208008",
       "url": "https://www.tiktok.com/@vitororth/video/7705186965234208008",
       "caption": "qual matéria nunca falta? 🤡  ib: @Mateuzzynho",
@@ -1085,7 +1475,7 @@
       "shares": 117118,
       "durationSec": null,
       "postedAt": "2026-11-06T22:20:49.000Z",
-      "viewsPerHour": 31160.1,
+      "viewsPerHour": 30205.8,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1886,
@@ -1114,46 +1504,44 @@
       ]
     },
     {
-      "id": "7707818343490768129",
-      "url": "https://www.tiktok.com/@jornaldaeptvcampinas/video/7707818343490768129",
-      "caption": "O Provão Paulista aplicado na Escola Estadual Professor Elias de Mello Ayres, em Piracicaba, foi cancelado após imagens do sistema de segurança registrarem estudantes fotografando as provas e utilizando ferramentas de inteligência artificial. Segundo a Secretaria da Educação do Estado de São Paulo, o diretor e o vice diretor da unidade foram afastados das funções. Um fiscal da Fundação Vunesp também foi permanentemente inativado pela instituição. A Diretoria de Ensino instaurou uma apuração para identificar responsabilidades. Os estudantes flagrados utilizando celulares de forma irregular terão as provas canceladas. Já os alunos que não participaram das irregularidades poderão refazer a avaliação em uma nova data.",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-v-89e0aa-sg/o0efoeqveA62GRAQA3qIldTgVM3LI2OYr0fGAH~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=23f0acf5&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794697200&x-signature=kp2ZSyOaYScEnfSTD94GGycpNRo%3D",
-      "author": "jornaldaeptvcampinas",
-      "authorName": "jornaldaeptvcampinas",
+      "id": "7707767073132252424",
+      "url": "https://www.tiktok.com/@matheus.tattoo.oficial/video/7707767073132252424",
+      "caption": "Decalque colado já",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUAFuLLro7yWGfd9jejCvGIdA4IXDXtQlVK3Qe~tplv-tiktokx-origin.webp?dr=1370&refresh_token=e642a328&x-expires=1794758400&x-signature=SsMER5yh5cXhhaiHZYIFVti7DQ4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&s=FEED&sc=cover&biz_tag=tt_video",
+      "author": "matheus.tattoo.oficial",
+      "authorName": "Tatuador dos artistas 🥇",
       "authorFollowers": null,
-      "views": 449616,
-      "likes": 41645,
-      "comments": 729,
-      "shares": 13145,
+      "views": 688321,
+      "likes": 74656,
+      "comments": 159,
+      "shares": 1193,
       "durationSec": null,
-      "postedAt": "2026-11-14T00:31:42.000Z",
-      "viewsPerHour": 25916.2,
+      "postedAt": "2026-11-13T21:12:58.000Z",
+      "viewsPerHour": 25890.9,
       "growthViews": null,
       "growthHours": null,
-      "engagementRate": 0.1235,
-      "faceless": true,
-      "facelessScore": 2,
-      "facelessReasons": [
-        "IA na legenda ou hashtag"
-      ],
+      "engagementRate": 0.1104,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
       "niches": [
         {
-          "id": "ia",
-          "label": "IA"
+          "id": "outros",
+          "label": "Outros"
         }
       ],
       "hashtags": [],
       "sources": [
-        "search"
+        "trending"
       ],
       "aiMeta": false,
       "history": [
         {
           "at": "2026-11-14T17:52:37.821Z",
-          "views": 449616,
-          "likes": 41645,
-          "comments": 729,
-          "shares": 13145
+          "views": 688321,
+          "likes": 74656,
+          "comments": 159,
+          "shares": 1193
         }
       ]
     },
@@ -1171,7 +1559,7 @@
       "shares": 2775,
       "durationSec": null,
       "postedAt": "2026-11-11T02:10:37.000Z",
-      "viewsPerHour": 25390.4,
+      "viewsPerHour": 23783.7,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0853,
@@ -1208,6 +1596,190 @@
       ]
     },
     {
+      "id": "7707462147768421638",
+      "url": "https://www.tiktok.com/@mundodascuriozidades/video/7707462147768421638",
+      "caption": "#tiktok #mundo #videoviral #curiosidades #entreterimento @Planeta Curioso",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ogpTRAsIGQfetfHKzAAZsQA2IA4rmPGzl3fGLJ~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=e51950d2&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=aUqhmCwyKEJzC76tcyVwgb27vHs%3D",
+      "author": "mundodascuriozidades",
+      "authorName": "Planeta Curioso",
+      "authorFollowers": null,
+      "views": 1088343,
+      "likes": 253102,
+      "comments": 1424,
+      "shares": 10269,
+      "durationSec": null,
+      "postedAt": "2026-11-13T01:29:51.000Z",
+      "viewsPerHour": 23504.3,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.2433,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "curiosidades",
+          "label": "Curiosidades"
+        }
+      ],
+      "hashtags": [
+        "tiktok",
+        "mundo",
+        "videoviral",
+        "curiosidades",
+        "entreterimento"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 1088343,
+          "likes": 253102,
+          "comments": 1424,
+          "shares": 10269
+        }
+      ]
+    },
+    {
+      "id": "7696959172297903381",
+      "url": "https://www.tiktok.com/@andersontorrees/video/7696959172297903381",
+      "caption": "Pegaram mais uma visitante 😱 #hopihari #viral #horadohorror",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4MJIPEVDAAQfGjWAIAyeAuAiv2GoLf8i4hLzI~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=5b17ff9e&x-expires=1794704400&x-signature=WO2qCCwepqANsB6MEBa1adyRhvc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "andersontorrees",
+      "authorName": "Anderson Torres",
+      "authorFollowers": null,
+      "views": 15295625,
+      "likes": 297465,
+      "comments": 6219,
+      "shares": 19294,
+      "durationSec": null,
+      "postedAt": "2026-10-15T18:12:41.000Z",
+      "viewsPerHour": 21080.3,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0211,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "hopihari",
+        "viral",
+        "horadohorror"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T01:19:03.920Z",
+          "views": 15295625,
+          "likes": 297465,
+          "comments": 6219,
+          "shares": 19294
+        }
+      ]
+    },
+    {
+      "id": "7704920547376778516",
+      "url": "https://www.tiktok.com/@aphhqfvngv9/video/7704920547376778516",
+      "caption": "#tiktokshop #fyp #tiktok",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ooNAwVAHeAFfAjGbEBlaAfQAULrts2sAjSIIDY~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=e4d0b7d6&x-expires=1794704400&x-signature=aE2J8jkwd5homB2W1FZT8cpClkg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "aphhqfvngv9",
+      "authorName": "aphhqfvngv9",
+      "authorFollowers": null,
+      "views": 4333451,
+      "likes": 42291,
+      "comments": 261,
+      "shares": 10386,
+      "durationSec": null,
+      "postedAt": "2026-11-06T05:06:55.000Z",
+      "viewsPerHour": 20568.3,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0122,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "tiktokshop",
+        "fyp",
+        "tiktok"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T01:19:03.920Z",
+          "views": 4333451,
+          "likes": 42291,
+          "comments": 261,
+          "shares": 10386
+        }
+      ]
+    },
+    {
+      "id": "7707818343490768129",
+      "url": "https://www.tiktok.com/@jornaldaeptvcampinas/video/7707818343490768129",
+      "caption": "O Provão Paulista aplicado na Escola Estadual Professor Elias de Mello Ayres, em Piracicaba, foi cancelado após imagens do sistema de segurança registrarem estudantes fotografando as provas e utilizando ferramentas de inteligência artificial. Segundo a Secretaria da Educação do Estado de São Paulo, o diretor e o vice diretor da unidade foram afastados das funções. Um fiscal da Fundação Vunesp também foi permanentemente inativado pela instituição. A Diretoria de Ensino instaurou uma apuração para identificar responsabilidades. Os estudantes flagrados utilizando celulares de forma irregular terão as provas canceladas. Já os alunos que não participaram das irregularidades poderão refazer a avaliação em uma nova data.",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-v-89e0aa-sg/o0efoeqveA62GRAQA3qIldTgVM3LI2OYr0fGAH~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=23f0acf5&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794697200&x-signature=kp2ZSyOaYScEnfSTD94GGycpNRo%3D",
+      "author": "jornaldaeptvcampinas",
+      "authorName": "jornaldaeptvcampinas",
+      "authorFollowers": null,
+      "views": 449616,
+      "likes": 41645,
+      "comments": 729,
+      "shares": 13145,
+      "durationSec": null,
+      "postedAt": "2026-11-14T00:31:42.000Z",
+      "viewsPerHour": 19319,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1235,
+      "faceless": true,
+      "facelessScore": 2,
+      "facelessReasons": [
+        "IA na legenda ou hashtag"
+      ],
+      "niches": [
+        {
+          "id": "ia",
+          "label": "IA"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 449616,
+          "likes": 41645,
+          "comments": 729,
+          "shares": 13145
+        }
+      ]
+    },
+    {
       "id": "7707397461777714452",
       "url": "https://www.tiktok.com/@frutimania94/video/7707397461777714452",
       "caption": "#viral #lashistoriastiktok #frutas #novelinhasdasfrutas #frutastiktok",
@@ -1221,7 +1793,7 @@
       "shares": 969,
       "durationSec": null,
       "postedAt": "2026-11-12T21:18:39.000Z",
-      "viewsPerHour": 21713.1,
+      "viewsPerHour": 19165.4,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1002,
@@ -1269,7 +1841,7 @@
       "shares": 13401,
       "durationSec": null,
       "postedAt": "2026-11-12T23:07:34.000Z",
-      "viewsPerHour": 21522,
+      "viewsPerHour": 18902.6,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1114,
@@ -1302,98 +1874,6 @@
       ]
     },
     {
-      "id": "7696959172297903381",
-      "url": "https://www.tiktok.com/@andersontorrees/video/7696959172297903381",
-      "caption": "Pegaram mais uma visitante 😱 #hopihari #viral #horadohorror",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4MJIPEVDAAQfGjWAIAyeAuAiv2GoLf8i4hLzI~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=5b17ff9e&x-expires=1794704400&x-signature=WO2qCCwepqANsB6MEBa1adyRhvc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "andersontorrees",
-      "authorName": "Anderson Torres",
-      "authorFollowers": null,
-      "views": 15295625,
-      "likes": 297465,
-      "comments": 6219,
-      "shares": 19294,
-      "durationSec": null,
-      "postedAt": "2026-10-15T18:12:41.000Z",
-      "viewsPerHour": 21253.8,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.0211,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [
-        "hopihari",
-        "viral",
-        "horadohorror"
-      ],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T01:19:03.920Z",
-          "views": 15295625,
-          "likes": 297465,
-          "comments": 6219,
-          "shares": 19294
-        }
-      ]
-    },
-    {
-      "id": "7704920547376778516",
-      "url": "https://www.tiktok.com/@aphhqfvngv9/video/7704920547376778516",
-      "caption": "#tiktokshop #fyp #tiktok",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ooNAwVAHeAFfAjGbEBlaAfQAULrts2sAjSIIDY~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=e4d0b7d6&x-expires=1794704400&x-signature=aE2J8jkwd5homB2W1FZT8cpClkg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "aphhqfvngv9",
-      "authorName": "aphhqfvngv9",
-      "authorFollowers": null,
-      "views": 4333451,
-      "likes": 42291,
-      "comments": 261,
-      "shares": 10386,
-      "durationSec": null,
-      "postedAt": "2026-11-06T05:06:55.000Z",
-      "viewsPerHour": 21163.4,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.0122,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [
-        "tiktokshop",
-        "fyp",
-        "tiktok"
-      ],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T01:19:03.920Z",
-          "views": 4333451,
-          "likes": 42291,
-          "comments": 261,
-          "shares": 10386
-        }
-      ]
-    },
-    {
       "id": "7706956478040575253",
       "url": "https://www.tiktok.com/@frutti.iaa/video/7706956478040575253",
       "caption": "[a mimada] completo! #frutasia #IA #historiaemocionante #IA #fyp",
@@ -1407,7 +1887,7 @@
       "shares": 2416,
       "durationSec": null,
       "postedAt": "2026-11-11T16:47:23.000Z",
-      "viewsPerHour": 20196,
+      "viewsPerHour": 18681.7,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1216,
@@ -1456,7 +1936,7 @@
       "shares": 2947,
       "durationSec": null,
       "postedAt": "2026-11-08T18:26:54.000Z",
-      "viewsPerHour": 19050.8,
+      "viewsPerHour": 18295.2,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0934,
@@ -1493,23 +1973,23 @@
       ]
     },
     {
-      "id": "7706315372856642868",
-      "url": "https://www.tiktok.com/@scopecurioso/video/7706315372856642868",
-      "caption": "As 4 pessoas mais protegidas do Mundo! #papa #curiosidades #fatoscuriosos #vaticano",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osAyEi5y6vYTBVBAUlqay2EAALFJDiLNAIivI~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=63dee0ae&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794639600&x-signature=48ZkaeSw1noBxJJGbEAvVKYiIPQ%3D",
-      "author": "scopecurioso",
-      "authorName": "Scope Curioso",
+      "id": "7708110246560009492",
+      "url": "https://www.tiktok.com/@miih_pastorio/video/7708110246560009492",
+      "caption": "Já deixa a sua aí 🤯 ib @Capponi  #teorias #cristas #jesus #curiosidades",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0vxtYXaTBtJxEXBHiE1I4IrVqinHvAiCIrAi~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=6f6dd406&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=fijs57oVJcx2Og09GI2s7QUuWV8%3D",
+      "author": "miih_pastorio",
+      "authorName": "Miih_pastorio",
       "authorFollowers": null,
-      "views": 1868742,
-      "likes": 47517,
-      "comments": 1339,
-      "shares": 810,
+      "views": 71749,
+      "likes": 7933,
+      "comments": 305,
+      "shares": 579,
       "durationSec": null,
-      "postedAt": "2026-11-09T23:19:53.000Z",
-      "viewsPerHour": 16314.4,
+      "postedAt": "2026-11-14T19:24:40.000Z",
+      "viewsPerHour": 16342.1,
       "growthViews": null,
       "growthHours": null,
-      "engagementRate": 0.0266,
+      "engagementRate": 0.1229,
       "faceless": false,
       "facelessScore": 0,
       "facelessReasons": [],
@@ -1520,10 +2000,10 @@
         }
       ],
       "hashtags": [
-        "papa",
-        "curiosidades",
-        "fatoscuriosos",
-        "vaticano"
+        "teorias",
+        "cristas",
+        "jesus",
+        "curiosidades"
       ],
       "sources": [
         "search"
@@ -1531,11 +2011,11 @@
       "aiMeta": false,
       "history": [
         {
-          "at": "2026-11-14T01:19:03.920Z",
-          "views": 1868742,
-          "likes": 47517,
-          "comments": 1339,
-          "shares": 810
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 71749,
+          "likes": 7933,
+          "comments": 305,
+          "shares": 579
         }
       ]
     },
@@ -1553,7 +2033,7 @@
       "shares": 30995,
       "durationSec": null,
       "postedAt": "2026-10-02T13:15:54.000Z",
-      "viewsPerHour": 15900.8,
+      "viewsPerHour": 15810.4,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1026,
@@ -1588,6 +2068,60 @@
       ]
     },
     {
+      "id": "7707772786466442514",
+      "url": "https://www.tiktok.com/@marcanteshistorias/video/7707772786466442514",
+      "caption": "Esconderam ela por vergonha… sem saber que ele tinha vindo exclusivamente por ela...#historiareal #novelinha #novela #historiasemocionantes #contosmotivacionais #reflexao #familia #dramas #reflita #historias #novelas",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUDvrwULVI4AEADmAE7F1HNEQLDA6fAcfAfg37~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=22fa087f&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=hiLJRnfi6i4iEbalZOZEWK66PUo%3D",
+      "author": "marcanteshistorias",
+      "authorName": "Histórias Marcantes",
+      "authorFollowers": null,
+      "views": 411687,
+      "likes": 35247,
+      "comments": 2730,
+      "shares": 491,
+      "durationSec": null,
+      "postedAt": "2026-11-13T21:35:09.000Z",
+      "viewsPerHour": 15703.8,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0934,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "terror",
+          "label": "Terror"
+        }
+      ],
+      "hashtags": [
+        "historiareal",
+        "novelinha",
+        "novela",
+        "historiasemocionantes",
+        "contosmotivacionais",
+        "reflexao",
+        "familia",
+        "dramas",
+        "reflita",
+        "historias",
+        "novelas"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 411687,
+          "likes": 35247,
+          "comments": 2730,
+          "shares": 491
+        }
+      ]
+    },
+    {
       "id": "7707398506444524820",
       "url": "https://www.tiktok.com/@metropolesoficial/video/7707398506444524820",
       "caption": "🐂🧐  CURIOSIDADE BOVINA  O que acontece quando um peão resolve se deitar no meio do pasto, bem na frente de um rebanho? Eduardo, conhecido nas redes sociais como Peãozin Da Perobal, decidiu registrar essa experiência e acabou protagonizando uma cena curiosa que já ultrapassou 5 milhões de visualizações! Nas imagens, ele aparece deitado na grama enquanto várias vacas se aproximam lentamente. Em vez de se afastarem, os animais demonstram curiosidade, chegam bem pertinho do rapaz e começam a cheirá-lo, como se estivessem tentando entender o que ele estava fazendo ali. A reação tranquila e investigativa do rebanho chamou a atenção nas redes sociais. #Metrópoles 🤳 peaozindaperobal (ig) | @myhoodbr",
@@ -1601,7 +2135,7 @@
       "shares": 2032,
       "durationSec": null,
       "postedAt": "2026-11-12T21:22:40.000Z",
-      "viewsPerHour": 15781,
+      "viewsPerHour": 13926.8,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1177,
@@ -1645,7 +2179,7 @@
       "shares": 8910,
       "durationSec": null,
       "postedAt": "2026-11-10T21:25:47.000Z",
-      "viewsPerHour": 13847.6,
+      "viewsPerHour": 13013.6,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0622,
@@ -1692,7 +2226,7 @@
       "shares": 1042,
       "durationSec": null,
       "postedAt": "2026-11-12T22:45:24.000Z",
-      "viewsPerHour": 13826.2,
+      "viewsPerHour": 12156,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0966,
@@ -1731,6 +2265,93 @@
       ]
     },
     {
+      "id": "7699948343673261333",
+      "url": "https://www.tiktok.com/@reiifofinho/video/7699948343673261333",
+      "caption": "COMO É NA CABEÇA DO PESSOAL VENDO O NORDESTE #humor #nordeste",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/o42VEQK2gY0RAIepqBIHw6F9E9BbU7ftB5QaDd~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=3f905cfb&x-expires=1794704400&x-signature=G%2BT%2BpxClQxkyLPZAMEqw1M9LQus%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "reiifofinho",
+      "authorName": "fofis",
+      "authorFollowers": null,
+      "views": 6054657,
+      "likes": 1183415,
+      "comments": 12761,
+      "shares": 51195,
+      "durationSec": null,
+      "postedAt": "2026-10-23T19:32:26.000Z",
+      "viewsPerHour": 11375.4,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.206,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "humor",
+        "nordeste"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T01:19:03.920Z",
+          "views": 6054657,
+          "likes": 1183415,
+          "comments": 12761,
+          "shares": 51195
+        }
+      ]
+    },
+    {
+      "id": "7706983670208400653",
+      "url": "https://www.tiktok.com/@foll...girl7/video/7706983670208400653",
+      "caption": "#😘",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oANED9wSVIAL4VJKJltP0fA6hgEeTBDrqEgRLF~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=2b8298c0&x-expires=1794783600&x-signature=%2Fx2q%2BIgs2AOCh9it3FLPiB9NBVQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&bas=android_bas&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "foll...girl7",
+      "authorName": "pyari___girl91",
+      "authorFollowers": null,
+      "views": 856321,
+      "likes": 28753,
+      "comments": 503,
+      "shares": 8592,
+      "durationSec": null,
+      "postedAt": "2026-11-11T18:33:03.000Z",
+      "viewsPerHour": 11085,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0442,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 856321,
+          "likes": 28753,
+          "comments": 503,
+          "shares": 8592
+        }
+      ]
+    },
+    {
       "id": "7707392691251744021",
       "url": "https://www.tiktok.com/@filmeflixd/video/7707392691251744021",
       "caption": "O que você faz quando um assassino dá tchau pra câmera do seu portão? (sangue falso) #animação #terror #historiasdeterror #medo",
@@ -1744,7 +2365,7 @@
       "shares": 2517,
       "durationSec": null,
       "postedAt": "2026-11-12T21:00:07.000Z",
-      "viewsPerHour": 12531.2,
+      "viewsPerHour": 11069.8,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1358,
@@ -1778,6 +2399,53 @@
       ]
     },
     {
+      "id": "7703178744382377234",
+      "url": "https://www.tiktok.com/@beastboyedit1t/video/7703178744382377234",
+      "caption": "tom☠️🔥#foryoupage #viral #fypシ #🤯🔥💯22 #usa",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAAZ7lWfrVEfH4DCEEDOAfFlA8IzAA9IOrXAQE~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=8d6af659&x-expires=1794783600&x-signature=nI9svnWGFZTpktivVRmxlrIQka0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&s=FEED&sc=cover&bas=android_bas&biz_tag=tt_video",
+      "author": "beastboyedit1t",
+      "authorName": "BEAST BOY EDITS",
+      "authorFollowers": null,
+      "views": 3409654,
+      "likes": 342322,
+      "comments": 2617,
+      "shares": 11253,
+      "durationSec": null,
+      "postedAt": "2026-11-01T12:28:14.000Z",
+      "viewsPerHour": 10545.4,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1045,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "foryoupage",
+        "viral",
+        "fypシ",
+        "usa"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 3409654,
+          "likes": 342322,
+          "comments": 2617,
+          "shares": 11253
+        }
+      ]
+    },
+    {
       "id": "7707338607899462934",
       "url": "https://www.tiktok.com/@villaoyolo/video/7707338607899462934",
       "caption": "El papa que dio examen para ser peruano 🇵🇪 ¿Sabías esto de su vida en Chiclayo?                                                                                                                                                    #PapaLeónXIV #chiclayo #Perú#LeónXIV #Curiosidades #ParaTi #fyp #papaenperu #lambayeque #papa",
@@ -1791,7 +2459,7 @@
       "shares": 9270,
       "durationSec": null,
       "postedAt": "2026-11-12T17:30:12.000Z",
-      "viewsPerHour": 11785.5,
+      "viewsPerHour": 10499.6,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1694,
@@ -1831,51 +2499,6 @@
       ]
     },
     {
-      "id": "7699948343673261333",
-      "url": "https://www.tiktok.com/@reiifofinho/video/7699948343673261333",
-      "caption": "COMO É NA CABEÇA DO PESSOAL VENDO O NORDESTE #humor #nordeste",
-      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/o42VEQK2gY0RAIepqBIHw6F9E9BbU7ftB5QaDd~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=3f905cfb&x-expires=1794704400&x-signature=G%2BT%2BpxClQxkyLPZAMEqw1M9LQus%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "reiifofinho",
-      "authorName": "fofis",
-      "authorFollowers": null,
-      "views": 6054657,
-      "likes": 1183415,
-      "comments": 12761,
-      "shares": 51195,
-      "durationSec": null,
-      "postedAt": "2026-10-23T19:32:26.000Z",
-      "viewsPerHour": 11503.4,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.206,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [
-        "humor",
-        "nordeste"
-      ],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T01:19:03.920Z",
-          "views": 6054657,
-          "likes": 1183415,
-          "comments": 12761,
-          "shares": 51195
-        }
-      ]
-    },
-    {
       "id": "7705973025866304788",
       "url": "https://www.tiktok.com/@tomataogranito/video/7705973025866304788",
       "caption": "#historiasdasfrutas #historia #ia #frutasfalantes #grok",
@@ -1889,7 +2512,7 @@
       "shares": 1307,
       "durationSec": null,
       "postedAt": "2026-11-09T01:11:10.000Z",
-      "viewsPerHour": 10750.8,
+      "viewsPerHour": 10304.2,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0864,
@@ -1939,7 +2562,7 @@
       "shares": 14251,
       "durationSec": null,
       "postedAt": "2026-11-09T02:20:45.000Z",
-      "viewsPerHour": 10742.5,
+      "viewsPerHour": 10292.6,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1681,
@@ -1974,54 +2597,6 @@
       ]
     },
     {
-      "id": "7707431028113050881",
-      "url": "https://www.tiktok.com/@fruit_midiabr/video/7707431028113050881",
-      "caption": "O Conto de Azomira | ⚠️ SE VOCÊ OUVIR ALGUÉM GRITANDO SEU NOME NO MEIO DA NOITE, JAMAIS RESPONDA! 😨 Dizem que, no interior do Nordeste, existem vozes que imitam pessoas conhecidas para atrair suas vítimas. O pior é quando a voz parece vir de alguém da sua própria família... Mas e se essa pessoa estiver dormindo ao seu lado? 🌑👀 Você teria coragem de olhar pela janela? 😱 #animation #Novelas #humornordestino #boquenilce #foryourpage",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o82bAYi42AUZ0LBAilAvzSai8BDASICPgEEMn~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=4305d071&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794639600&x-signature=2UE%2Fx2ST06hR3MTvjKIHcbkexdc%3D",
-      "author": "fruit_midiabr",
-      "authorName": "Fruit Mídia Br",
-      "authorFollowers": null,
-      "views": 423843,
-      "likes": 55963,
-      "comments": 464,
-      "shares": 1726,
-      "durationSec": null,
-      "postedAt": "2026-11-12T23:28:59.000Z",
-      "viewsPerHour": 9997.7,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.1372,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [
-        "animation",
-        "novelas",
-        "humornordestino",
-        "boquenilce",
-        "foryourpage"
-      ],
-      "sources": [
-        "search"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T01:19:03.920Z",
-          "views": 423843,
-          "likes": 55963,
-          "comments": 464,
-          "shares": 1726
-        }
-      ]
-    },
-    {
       "id": "7698754260997033236",
       "url": "https://www.tiktok.com/@zeca_cebola/video/7698754260997033236",
       "caption": "Zeca Cebola só foi ajudar o vô… e acabou num campeonato de quebrar pedra! 🤠 | Parte 1 #foryoupage #historia #frutas #drama",
@@ -2035,7 +2610,7 @@
       "shares": 4133,
       "durationSec": null,
       "postedAt": "2026-10-20T15:00:00.000Z",
-      "viewsPerHour": 9766.4,
+      "viewsPerHour": 9671.3,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0605,
@@ -2082,7 +2657,7 @@
       "shares": 14781,
       "durationSec": null,
       "postedAt": "2026-09-17T06:43:58.000Z",
-      "viewsPerHour": 9607.7,
+      "viewsPerHour": 9567.3,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0422,
@@ -2116,6 +2691,138 @@
       ]
     },
     {
+      "id": "7682063875436481805",
+      "url": "https://www.tiktok.com/@arlene1ee/video/7682063875436481805",
+      "caption": "do you know these girls?? i think they are @Yemada @amina",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oILEOEfDgSjBxwNFfUqRDBAvI4cqInIICFLClS~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=27cb057e&x-expires=1794762000&x-signature=XUiFgB7hckbIFxlbLXUzkJrUt70%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "arlene1ee",
+      "authorName": "arlene lee",
+      "authorFollowers": null,
+      "views": 15529141,
+      "likes": 1832356,
+      "comments": 6036,
+      "shares": 38245,
+      "durationSec": null,
+      "postedAt": "2026-09-05T14:51:44.000Z",
+      "viewsPerHour": 9194.6,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1208,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 15529141,
+          "likes": 1832356,
+          "comments": 6036,
+          "shares": 38245
+        }
+      ]
+    },
+    {
+      "id": "7707431028113050881",
+      "url": "https://www.tiktok.com/@fruit_midiabr/video/7707431028113050881",
+      "caption": "O Conto de Azomira | ⚠️ SE VOCÊ OUVIR ALGUÉM GRITANDO SEU NOME NO MEIO DA NOITE, JAMAIS RESPONDA! 😨 Dizem que, no interior do Nordeste, existem vozes que imitam pessoas conhecidas para atrair suas vítimas. O pior é quando a voz parece vir de alguém da sua própria família... Mas e se essa pessoa estiver dormindo ao seu lado? 🌑👀 Você teria coragem de olhar pela janela? 😱 #animation #Novelas #humornordestino #boquenilce #foryourpage",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o82bAYi42AUZ0LBAilAvzSai8BDASICPgEEMn~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=4305d071&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794639600&x-signature=2UE%2Fx2ST06hR3MTvjKIHcbkexdc%3D",
+      "author": "fruit_midiabr",
+      "authorName": "Fruit Mídia Br",
+      "authorFollowers": null,
+      "views": 423843,
+      "likes": 55963,
+      "comments": 464,
+      "shares": 1726,
+      "durationSec": null,
+      "postedAt": "2026-11-12T23:28:59.000Z",
+      "viewsPerHour": 8771.9,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1372,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "animation",
+        "novelas",
+        "humornordestino",
+        "boquenilce",
+        "foryourpage"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T01:19:03.920Z",
+          "views": 423843,
+          "likes": 55963,
+          "comments": 464,
+          "shares": 1726
+        }
+      ]
+    },
+    {
+      "id": "7706844186967903496",
+      "url": "https://www.tiktok.com/@matztoon1/video/7706844186967903496",
+      "caption": "Ele não viu o buraco",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIDodUXGQB996IEiffRaEwiBtXBSDgq3DJAFFq~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=b6be501c&x-expires=1794762000&x-signature=Qtr7fyhR54pjK7uUmadaoiEtnFg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "matztoon1",
+      "authorName": "MatzToon",
+      "authorFollowers": null,
+      "views": 736283,
+      "likes": 14277,
+      "comments": 195,
+      "shares": 5857,
+      "durationSec": null,
+      "postedAt": "2026-11-11T09:31:40.000Z",
+      "viewsPerHour": 8534.3,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0276,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 736283,
+          "likes": 14277,
+          "comments": 195,
+          "shares": 5857
+        }
+      ]
+    },
+    {
       "id": "7707351053536120071",
       "url": "https://www.tiktok.com/@candresperedo/video/7707351053536120071",
       "caption": "Nuevas imágenes reavivan el misterio del arca de Noé! El equipo que investiga Durupinar, en Turquía, mostró fragmentos que identifica como madera carbonizada con posibles marcas de herramientas. Los análisis siguen pendientes y todavía no hay confirmación de que pertenezcan al arca. ¿Qué encontraron y qué falta por demostrar? #ArcaDeNoé #Turquía #Arqueología #Durupinar #Noticias",
@@ -2129,7 +2836,7 @@
       "shares": 3521,
       "durationSec": null,
       "postedAt": "2026-11-12T18:18:34.000Z",
-      "viewsPerHour": 9395.5,
+      "viewsPerHour": 8354.9,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1293,
@@ -2164,90 +2871,6 @@
       ]
     },
     {
-      "id": "7682063875436481805",
-      "url": "https://www.tiktok.com/@arlene1ee/video/7682063875436481805",
-      "caption": "do you know these girls?? i think they are @Yemada @amina",
-      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oILEOEfDgSjBxwNFfUqRDBAvI4cqInIICFLClS~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=27cb057e&x-expires=1794762000&x-signature=XUiFgB7hckbIFxlbLXUzkJrUt70%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "arlene1ee",
-      "authorName": "arlene lee",
-      "authorFollowers": null,
-      "views": 15529141,
-      "likes": 1832356,
-      "comments": 6036,
-      "shares": 38245,
-      "durationSec": null,
-      "postedAt": "2026-09-05T14:51:44.000Z",
-      "viewsPerHour": 9227,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.1208,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 15529141,
-          "likes": 1832356,
-          "comments": 6036,
-          "shares": 38245
-        }
-      ]
-    },
-    {
-      "id": "7706844186967903496",
-      "url": "https://www.tiktok.com/@matztoon1/video/7706844186967903496",
-      "caption": "Ele não viu o buraco",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIDodUXGQB996IEiffRaEwiBtXBSDgq3DJAFFq~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=b6be501c&x-expires=1794762000&x-signature=Qtr7fyhR54pjK7uUmadaoiEtnFg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "matztoon1",
-      "authorName": "MatzToon",
-      "authorFollowers": null,
-      "views": 736283,
-      "likes": 14277,
-      "comments": 195,
-      "shares": 5857,
-      "durationSec": null,
-      "postedAt": "2026-11-11T09:31:40.000Z",
-      "viewsPerHour": 9163.5,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.0276,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 736283,
-          "likes": 14277,
-          "comments": 195,
-          "shares": 5857
-        }
-      ]
-    },
-    {
       "id": "7707328566412725525",
       "url": "https://www.tiktok.com/@cid.verte/video/7707328566412725525",
       "caption": "E você: confiaria em quem todo mundo ama? Conta aqui nos comentários. #historias #storytelling #terror #misterio #reflexao",
@@ -2261,7 +2884,7 @@
       "shares": 613,
       "durationSec": null,
       "postedAt": "2026-11-12T16:51:17.000Z",
-      "viewsPerHour": 7669.3,
+      "viewsPerHour": 6842.4,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.134,
@@ -2300,6 +2923,184 @@
       ]
     },
     {
+      "id": "7705980015178976520",
+      "url": "https://www.tiktok.com/@reflexao2final/video/7705980015178976520",
+      "caption": "#Reflita #reflexão #históriasreais",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ogYBvBnHxvrCPjIajBIVPAiJEPAEI310XiCZB~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=f6e73a7c&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=Q18cJsY0prEasNrzEdZoCVOf4nY%3D",
+      "author": "reflexao2final",
+      "authorName": "Reflexão Final 2",
+      "authorFollowers": null,
+      "views": 910315,
+      "likes": 38535,
+      "comments": 6301,
+      "shares": 820,
+      "durationSec": null,
+      "postedAt": "2026-11-09T01:38:25.000Z",
+      "viewsPerHour": 6403.4,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0502,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "reflita",
+        "reflexão",
+        "históriasreais"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 910315,
+          "likes": 38535,
+          "comments": 6301,
+          "shares": 820
+        }
+      ]
+    },
+    {
+      "id": "7695451274480733454",
+      "url": "https://www.tiktok.com/@xxxxxtyt0/video/7695451274480733454",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oMRgQkogHGAGe9cZH3LgHjVAsIkAJCflgSeKuI~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=629faea8&x-expires=1794762000&x-signature=xv3gYGsCnOW4VE5%2FtAJFxvLx0FM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "xxxxxtyt0",
+      "authorName": "bravej",
+      "authorFollowers": null,
+      "views": 5255230,
+      "likes": 140703,
+      "comments": 1951,
+      "shares": 52203,
+      "durationSec": null,
+      "postedAt": "2026-10-11T16:41:24.000Z",
+      "viewsPerHour": 6384.6,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0371,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T17:52:37.821Z",
+          "views": 5255230,
+          "likes": 140703,
+          "comments": 1951,
+          "shares": 52203
+        }
+      ]
+    },
+    {
+      "id": "7691823239038766356",
+      "url": "https://www.tiktok.com/@ely0zz/video/7691823239038766356",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQQZeqOEVBtiOgRRsXQAVFEBh2DItvBkqf00Ic~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=d4f59b52&x-expires=1794783600&x-signature=iQPdSnmq38nBvju9nBw3t%2BsiHoM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&bas=android_bas&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "ely0zz",
+      "authorName": "Y",
+      "authorFollowers": null,
+      "views": 6438136,
+      "likes": 1488030,
+      "comments": 5927,
+      "shares": 119279,
+      "durationSec": null,
+      "postedAt": "2026-10-01T22:02:48.000Z",
+      "viewsPerHour": 6086.6,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.2506,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 6438136,
+          "likes": 1488030,
+          "comments": 5927,
+          "shares": 119279
+        }
+      ]
+    },
+    {
+      "id": "7707553169915579649",
+      "url": "https://www.tiktok.com/@bilmiyorumbilemiyorum/video/7707553169915579649",
+      "caption": "bu kuşu mangolu deren ice tea ile takaslamamak için sebebim yok #scary #creepypasta #budgie #pet #house",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okjCPWDvBgh8ft7OuVmgAeo2vRQIQnseMXuiQA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=7ed5e0ec&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=qv6RJoIAFZS19tkeQj%2FmO%2F1zsVM%3D",
+      "author": "bilmiyorumbilemiyorum",
+      "authorName": "ne bilim",
+      "authorFollowers": null,
+      "views": 242478,
+      "likes": 32442,
+      "comments": 402,
+      "shares": 13628,
+      "durationSec": null,
+      "postedAt": "2026-11-13T07:23:22.000Z",
+      "viewsPerHour": 6000.1,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1917,
+      "faceless": false,
+      "facelessScore": 1,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "terror",
+          "label": "Terror"
+        }
+      ],
+      "hashtags": [
+        "scary",
+        "creepypasta",
+        "budgie",
+        "pet",
+        "house"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 242478,
+          "likes": 32442,
+          "comments": 402,
+          "shares": 13628
+        }
+      ]
+    },
+    {
       "id": "7707702724644588820",
       "url": "https://www.tiktok.com/@como.funciona1000/video/7707702724644588820",
       "caption": "O Incidente de Bolonha #sallyface #terror #game #geek #historias",
@@ -2313,7 +3114,7 @@
       "shares": 9527,
       "durationSec": null,
       "postedAt": "2026-11-13T17:03:10.000Z",
-      "viewsPerHour": 7213.3,
+      "viewsPerHour": 5823.5,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.2683,
@@ -2361,7 +3162,7 @@
       "shares": 5005,
       "durationSec": null,
       "postedAt": "2026-11-13T01:54:40.000Z",
-      "viewsPerHour": 6599.4,
+      "viewsPerHour": 5747.4,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0766,
@@ -2398,56 +3199,6 @@
       ]
     },
     {
-      "id": "7706253367684779270",
-      "url": "https://www.tiktok.com/@history_war01/video/7706253367684779270",
-      "caption": "Como são os animais com sindrome de Down #animais #sindromededown #curiosidades #fatoscuriosos #viral #fy #vocesabia",
-      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oMIiXArEEDAeEIDyAVAA4IRxoELieH5GDVBRzf~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=eea97b00&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794639600&x-signature=V2eLA5YhNfILMdzfYeYIlaqn3as%3D",
-      "author": "history_war01",
-      "authorName": "History War",
-      "authorFollowers": null,
-      "views": 641543,
-      "likes": 45258,
-      "comments": 1418,
-      "shares": 17301,
-      "durationSec": null,
-      "postedAt": "2026-11-10T15:00:00.000Z",
-      "viewsPerHour": 6488.3,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.0997,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "curiosidades",
-          "label": "Curiosidades"
-        }
-      ],
-      "hashtags": [
-        "animais",
-        "sindromededown",
-        "curiosidades",
-        "fatoscuriosos",
-        "viral",
-        "fy",
-        "vocesabia"
-      ],
-      "sources": [
-        "search"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T01:19:03.920Z",
-          "views": 641543,
-          "likes": 45258,
-          "comments": 1418,
-          "shares": 17301
-        }
-      ]
-    },
-    {
       "id": "7707395666171022612",
       "url": "https://www.tiktok.com/@gael76882/video/7707395666171022612",
       "caption": "Cómo así?  #ciudadjuarez #misterio #pterodactilo #dinosaurio #pteranodon",
@@ -2461,7 +3212,7 @@
       "shares": 12434,
       "durationSec": null,
       "postedAt": "2026-11-12T21:11:41.000Z",
-      "viewsPerHour": 6487.2,
+      "viewsPerHour": 5727.8,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.2821,
@@ -2496,95 +3247,6 @@
       ]
     },
     {
-      "id": "7695451274480733454",
-      "url": "https://www.tiktok.com/@xxxxxtyt0/video/7695451274480733454",
-      "caption": "",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oMRgQkogHGAGe9cZH3LgHjVAsIkAJCflgSeKuI~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=629faea8&x-expires=1794762000&x-signature=xv3gYGsCnOW4VE5%2FtAJFxvLx0FM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&biz_tag=tt_video&s=FEED",
-      "author": "xxxxxtyt0",
-      "authorName": "bravej",
-      "authorFollowers": null,
-      "views": 5255230,
-      "likes": 140703,
-      "comments": 1951,
-      "shares": 52203,
-      "durationSec": null,
-      "postedAt": "2026-10-11T16:41:24.000Z",
-      "viewsPerHour": 6430.9,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.0371,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 5255230,
-          "likes": 140703,
-          "comments": 1951,
-          "shares": 52203
-        }
-      ]
-    },
-    {
-      "id": "7707666717668904210",
-      "url": "https://www.tiktok.com/@mirabolist/video/7707666717668904210",
-      "caption": "Especial de sexta-feira 13: na Vila Torta, toda criança que faz o passeio da mata volta comportada demais. Você deixaria o seu filho ir? #terror #sextafeira13 #historia #fyp",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQfVICHo080hHAEulXCQQ8qQgAFfBqAy9dDcAE~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=5ca1bb25&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794697200&x-signature=zsczGjo6hJSmpf2O44bbU480CLE%3D",
-      "author": "mirabolist",
-      "authorName": "Mirabolist",
-      "authorFollowers": null,
-      "views": 172777,
-      "likes": 19225,
-      "comments": 84,
-      "shares": 611,
-      "durationSec": null,
-      "postedAt": "2026-11-13T14:43:30.000Z",
-      "viewsPerHour": 6363.3,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.1153,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "terror",
-          "label": "Terror"
-        }
-      ],
-      "hashtags": [
-        "terror",
-        "sextafeira13",
-        "historia",
-        "fyp"
-      ],
-      "sources": [
-        "search"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 172777,
-          "likes": 19225,
-          "comments": 84,
-          "shares": 611
-        }
-      ]
-    },
-    {
       "id": "7705744442577194271",
       "url": "https://www.tiktok.com/@user35106272345947/video/7705744442577194271",
       "caption": "🤯 Dos misterios captados en video que nadie ha podido explicar #MisteriosDelAmazonas #CriaturasMisteriosas #Brasil #VideosInquietantes #MisteriosSinResolver",
@@ -2598,7 +3260,7 @@
       "shares": 440,
       "durationSec": null,
       "postedAt": "2026-11-08T10:25:17.000Z",
-      "viewsPerHour": 5931.6,
+      "viewsPerHour": 5708.3,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0138,
@@ -2633,6 +3295,52 @@
       ]
     },
     {
+      "id": "7707972006448352520",
+      "url": "https://www.tiktok.com/@fatos.oculto3/video/7707972006448352520",
+      "caption": "E SE O MUNDO TIVESSE APENAS MULHERES????#curiosidadesentiktok #fatoscuriosos#animacao",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ocWcUEEIIDAVtnefJNFo45To28dCLIAfDCDjB7~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=355d610a&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=gn7xl%2FroM7LHwObZanVSzFp6ltw%3D",
+      "author": "fatos.oculto3",
+      "authorName": "Fatos oculto",
+      "authorFollowers": null,
+      "views": 73089,
+      "likes": 5272,
+      "comments": 1121,
+      "shares": 169,
+      "durationSec": null,
+      "postedAt": "2026-11-14T10:28:14.000Z",
+      "viewsPerHour": 5482.6,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0898,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "curiosidades",
+          "label": "Curiosidades"
+        }
+      ],
+      "hashtags": [
+        "curiosidadesentiktok",
+        "fatoscuriosos",
+        "animacao"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 73089,
+          "likes": 5272,
+          "comments": 1121,
+          "shares": 169
+        }
+      ]
+    },
+    {
       "id": "7705878174202203413",
       "url": "https://www.tiktok.com/@giuliana_mafra/video/7705878174202203413",
       "caption": "PIORES coisas que crianças tiveram que AGUENTAR para interpretar personagens #curiosidades #memes",
@@ -2646,7 +3354,7 @@
       "shares": 518,
       "durationSec": null,
       "postedAt": "2026-11-08T19:02:52.000Z",
-      "viewsPerHour": 5569.3,
+      "viewsPerHour": 5347.5,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0634,
@@ -2682,44 +3390,49 @@
       ]
     },
     {
-      "id": "7680061582151290126",
-      "url": "https://www.tiktok.com/@ivyiscoolandtuff/video/7680061582151290126",
-      "caption": "",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/o8gBBAIcUpjia3cBP4D2V14HIvTEVEzYIbWUi~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=56d287ba&x-expires=1794762000&x-signature=VUe17FU7euqvvMZb3Wm7ys7lXyw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&biz_tag=tt_video&s=FEED",
-      "author": "ivyiscoolandtuff",
-      "authorName": "ivy?",
+      "id": "7707666717668904210",
+      "url": "https://www.tiktok.com/@mirabolist/video/7707666717668904210",
+      "caption": "Especial de sexta-feira 13: na Vila Torta, toda criança que faz o passeio da mata volta comportada demais. Você deixaria o seu filho ir? #terror #sextafeira13 #historia #fyp",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQfVICHo080hHAEulXCQQ8qQgAFfBqAy9dDcAE~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=5ca1bb25&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794697200&x-signature=zsczGjo6hJSmpf2O44bbU480CLE%3D",
+      "author": "mirabolist",
+      "authorName": "Mirabolist",
       "authorFollowers": null,
-      "views": 8673588,
-      "likes": 1127335,
-      "comments": 7033,
-      "shares": 536521,
+      "views": 172777,
+      "likes": 19225,
+      "comments": 84,
+      "shares": 611,
       "durationSec": null,
-      "postedAt": "2026-08-31T05:21:58.000Z",
-      "viewsPerHour": 4785.4,
+      "postedAt": "2026-11-13T14:43:30.000Z",
+      "viewsPerHour": 5223.6,
       "growthViews": null,
       "growthHours": null,
-      "engagementRate": 0.1926,
+      "engagementRate": 0.1153,
       "faceless": false,
       "facelessScore": 0,
       "facelessReasons": [],
       "niches": [
         {
-          "id": "outros",
-          "label": "Outros"
+          "id": "terror",
+          "label": "Terror"
         }
       ],
-      "hashtags": [],
+      "hashtags": [
+        "terror",
+        "sextafeira13",
+        "historia",
+        "fyp"
+      ],
       "sources": [
-        "trending"
+        "search"
       ],
       "aiMeta": false,
       "history": [
         {
           "at": "2026-11-14T17:52:37.821Z",
-          "views": 8673588,
-          "likes": 1127335,
-          "comments": 7033,
-          "shares": 536521
+          "views": 172777,
+          "likes": 19225,
+          "comments": 84,
+          "shares": 611
         }
       ]
     },
@@ -2737,7 +3450,7 @@
       "shares": 5047,
       "durationSec": null,
       "postedAt": "2026-11-02T06:05:37.000Z",
-      "viewsPerHour": 4747.3,
+      "viewsPerHour": 4655.3,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1684,
@@ -2771,6 +3484,48 @@
       ]
     },
     {
+      "id": "7687289048817306893",
+      "url": "https://www.tiktok.com/@megaamerican/video/7687289048817306893",
+      "caption": "behind the scenes",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oI0uRr4aqIS0EcDnvBrFFewEQpDFw9A8FgfLLc~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=1aefb38f&x-expires=1794783600&x-signature=qmavb2DCoyUzz3i85WXhuoLD874%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&bas=android_sc_bas_pb",
+      "author": "megaamerican",
+      "authorName": "mega",
+      "authorFollowers": null,
+      "views": 5802886,
+      "likes": 769334,
+      "comments": 9543,
+      "shares": 25036,
+      "durationSec": null,
+      "postedAt": "2026-09-19T16:47:59.000Z",
+      "viewsPerHour": 4295.2,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1385,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 5802886,
+          "likes": 769334,
+          "comments": 9543,
+          "shares": 25036
+        }
+      ]
+    },
+    {
       "id": "7707408173619039508",
       "url": "https://www.tiktok.com/@damares.stories/video/7707408173619039508",
       "caption": "#frutas #historiadefrutas #ia #inteligenciaartificial #novelinhas",
@@ -2784,7 +3539,7 @@
       "shares": 282,
       "durationSec": null,
       "postedAt": "2026-11-12T22:00:12.000Z",
-      "viewsPerHour": 4596.9,
+      "viewsPerHour": 4050,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.111,
@@ -2834,7 +3589,7 @@
       "shares": 2278,
       "durationSec": null,
       "postedAt": "2026-11-12T14:04:37.000Z",
-      "viewsPerHour": 4467.4,
+      "viewsPerHour": 4008.9,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0415,
@@ -2869,6 +3624,48 @@
       ]
     },
     {
+      "id": "7695219983122582804",
+      "url": "https://www.tiktok.com/@henrique.sabo.sab/video/7695219983122582804",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUQPtE0AVIYwnAVH1Irp4A8iBs8raB6diqNEK~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=c4cb675f&x-expires=1794740400&x-signature=KZ0QTshf%2BCMNyrHRaX3PQde%2Fp5I%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "henrique.sabo.sab",
+      "authorName": "Henrique sabão Sabão Henrique",
+      "authorFollowers": null,
+      "views": 3156899,
+      "likes": 125174,
+      "comments": 1407,
+      "shares": 46772,
+      "durationSec": null,
+      "postedAt": "2026-10-11T01:43:49.000Z",
+      "viewsPerHour": 3766.9,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0549,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T11:19:59.148Z",
+          "views": 3156899,
+          "likes": 125174,
+          "comments": 1407,
+          "shares": 46772
+        }
+      ]
+    },
+    {
       "id": "7706975736623615238",
       "url": "https://www.tiktok.com/@nadie.debia.saber/video/7706975736623615238",
       "caption": "El caso de el bebé en la cuna abandonado  . #miedo #terroranalogico #historiasdeterror",
@@ -2882,7 +3679,7 @@
       "shares": 2428,
       "durationSec": null,
       "postedAt": "2026-11-11T18:02:10.000Z",
-      "viewsPerHour": 3920.3,
+      "viewsPerHour": 3621.6,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0831,
@@ -2915,44 +3712,50 @@
       ]
     },
     {
-      "id": "7695219983122582804",
-      "url": "https://www.tiktok.com/@henrique.sabo.sab/video/7695219983122582804",
-      "caption": "",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUQPtE0AVIYwnAVH1Irp4A8iBs8raB6diqNEK~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=c4cb675f&x-expires=1794740400&x-signature=KZ0QTshf%2BCMNyrHRaX3PQde%2Fp5I%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "henrique.sabo.sab",
-      "authorName": "Henrique sabão Sabão Henrique",
+      "id": "7707596398706822406",
+      "url": "https://www.tiktok.com/@mark_6660880/video/7707596398706822406",
+      "caption": "«Eyes on me... 🌑✨» \"What would you do if, in the middle of a dark forest, a flashlight illuminated it? 👀🔪\" #recommendations #edit #creepypasta #JefftheKiller #Animation",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oASaYDniaPiEABQ7AGihQAII21vAEAbPB4igu~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=cce53b7f&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=VBcnLlluA0w4A8OJ88C%2FS7Kvje0%3D",
+      "author": "mark_6660880",
+      "authorName": "💊 ⦻0_CreepyPastas _0⦻ 💊",
       "authorFollowers": null,
-      "views": 3156899,
-      "likes": 125174,
-      "comments": 1407,
-      "shares": 46772,
+      "views": 130099,
+      "likes": 45135,
+      "comments": 244,
+      "shares": 3521,
       "durationSec": null,
-      "postedAt": "2026-10-11T01:43:49.000Z",
-      "viewsPerHour": 3793.7,
+      "postedAt": "2026-11-13T10:10:41.000Z",
+      "viewsPerHour": 3457.9,
       "growthViews": null,
       "growthHours": null,
-      "engagementRate": 0.0549,
+      "engagementRate": 0.3759,
       "faceless": false,
-      "facelessScore": 0,
+      "facelessScore": 1,
       "facelessReasons": [],
       "niches": [
         {
-          "id": "outros",
-          "label": "Outros"
+          "id": "terror",
+          "label": "Terror"
         }
       ],
-      "hashtags": [],
+      "hashtags": [
+        "recommendations",
+        "edit",
+        "creepypasta",
+        "jeffthekiller",
+        "animation"
+      ],
       "sources": [
-        "trending"
+        "search"
       ],
       "aiMeta": false,
       "history": [
         {
-          "at": "2026-11-14T11:19:59.148Z",
-          "views": 3156899,
-          "likes": 125174,
-          "comments": 1407,
-          "shares": 46772
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 130099,
+          "likes": 45135,
+          "comments": 244,
+          "shares": 3521
         }
       ]
     },
@@ -2970,7 +3773,7 @@
       "shares": 57371,
       "durationSec": null,
       "postedAt": "2026-09-30T01:35:45.000Z",
-      "viewsPerHour": 3396.2,
+      "viewsPerHour": 3377.9,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.2608,
@@ -3005,6 +3808,96 @@
       ]
     },
     {
+      "id": "7697799776850513165",
+      "url": "https://www.tiktok.com/@real_71121/video/7697799776850513165",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/o8rPIHALPIigfjCA5PIqegQCpQFVGeqCkDxVpU~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=a9b7602e&x-expires=1794783600&x-signature=zhSBDpfR4MbfH1Wx5J7%2B7jNvAck%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&bas=android_sc_bas_pb",
+      "author": "real_71121",
+      "authorName": "︎ ︎ ︎ ︎ ︎ ︎",
+      "authorFollowers": null,
+      "views": 2215990,
+      "likes": 478606,
+      "comments": 3148,
+      "shares": 40649,
+      "durationSec": null,
+      "postedAt": "2026-10-18T00:35:00.000Z",
+      "viewsPerHour": 3301.4,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.2357,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 2215990,
+          "likes": 478606,
+          "comments": 3148,
+          "shares": 40649
+        }
+      ]
+    },
+    {
+      "id": "7708020830432660742",
+      "url": "https://www.tiktok.com/@caiomodesto/video/7708020830432660742",
+      "caption": "Jim Caviezel, o ator que interpretou Jesus em A Paixão de Cristo, contou numa entrevista ao podcast de Benny Johnson que existe uma fatwa contra ele.  O motivo é outro filme, bem menos conhecido, que ele gravou em 2009 sobre a história real de Soraya M., uma mulher condenada pela lei islâmica numa pequena vila do Irã depois de ser acusada falsamente pelo próprio marido. #filme #paixaodecristo #jimcaviezel #religiao #cristianismo",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAcuEMEVDAAIdDjJAEVDfAlA43pDeFeQGoKZDI~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=22e55707&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=SaKdbjsO93uQBFJHvKwh8VMxJAk%3D",
+      "author": "caiomodesto",
+      "authorName": "Caio Modesto",
+      "authorFollowers": null,
+      "views": 33190,
+      "likes": 4089,
+      "comments": 87,
+      "shares": 262,
+      "durationSec": null,
+      "postedAt": "2026-11-14T13:38:02.000Z",
+      "viewsPerHour": 3264.3,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1337,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "terror",
+          "label": "Terror"
+        }
+      ],
+      "hashtags": [
+        "filme",
+        "paixaodecristo",
+        "jimcaviezel",
+        "religiao",
+        "cristianismo"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 33190,
+          "likes": 4089,
+          "comments": 87,
+          "shares": 262
+        }
+      ]
+    },
+    {
       "id": "7688076246584003847",
       "url": "https://www.tiktok.com/@cantiinho_das_receitas/video/7688076246584003847",
       "caption": "Cremoso, geladinho e simplesmente delicioso! 🤤🍋✨ #MaridoGelado #Sobremesa #SobremesaFácil #ReceitaFácil #DocesDeliciosos",
@@ -3018,7 +3911,7 @@
       "shares": 75643,
       "durationSec": null,
       "postedAt": "2026-09-21T19:42:29.000Z",
-      "viewsPerHour": 3167.3,
+      "viewsPerHour": 3152.8,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0423,
@@ -3066,7 +3959,7 @@
       "shares": 2206,
       "durationSec": null,
       "postedAt": "2026-11-08T00:49:08.000Z",
-      "viewsPerHour": 3043.4,
+      "viewsPerHour": 2935.4,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1025,
@@ -3113,7 +4006,7 @@
       "shares": 4222,
       "durationSec": null,
       "postedAt": "2026-08-27T12:41:31.000Z",
-      "viewsPerHour": 2829.4,
+      "viewsPerHour": 2820.6,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0284,
@@ -3148,6 +4041,54 @@
       ]
     },
     {
+      "id": "7684476624720366869",
+      "url": "https://www.tiktok.com/@ratobeto/video/7684476624720366869",
+      "caption": "Peteco Peteco Petecu #trend #musica #dança #rato #gmod",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0EkYMwUfAEGC9CCABK1brBSviAOiBAwPlAIk3~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=19d27b92&x-expires=1794783600&x-signature=JqA%2FSSrEH5PCoywWWrEM7EcryAY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&bas=android_sc_bas_pb&biz_tag=tt_video&s=FEED",
+      "author": "ratobeto",
+      "authorName": "ratobeto",
+      "authorFollowers": null,
+      "views": 4005659,
+      "likes": 374467,
+      "comments": 5456,
+      "shares": 147238,
+      "durationSec": null,
+      "postedAt": "2026-09-12T15:00:00.000Z",
+      "viewsPerHour": 2633.9,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1316,
+      "faceless": false,
+      "facelessScore": -2,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "trend",
+        "musica",
+        "dança",
+        "rato",
+        "gmod"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 4005659,
+          "likes": 374467,
+          "comments": 5456,
+          "shares": 147238
+        }
+      ]
+    },
+    {
       "id": "7701450431381261620",
       "url": "https://www.tiktok.com/@userrseven.com/video/7701450431381261620",
       "caption": "",
@@ -3161,7 +4102,7 @@
       "shares": 2404,
       "durationSec": null,
       "postedAt": "2026-10-27T20:41:12.000Z",
-      "viewsPerHour": 2571.5,
+      "viewsPerHour": 2536.5,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0761,
@@ -3203,7 +4144,7 @@
       "shares": 16250,
       "durationSec": null,
       "postedAt": "2026-08-24T00:22:23.000Z",
-      "viewsPerHour": 2361.1,
+      "viewsPerHour": 2354.1,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1135,
@@ -3232,23 +4173,23 @@
       ]
     },
     {
-      "id": "7678885576057031954",
-      "url": "https://www.tiktok.com/@enzodiasx1/video/7678885576057031954",
-      "caption": "#vidroviral",
-      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/okhOcvgwcEFtGGfqAKD4I4IQfGEuWBBcXD7RkF~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=1e124a8c&x-expires=1794762000&x-signature=R67AJDMcdKr5sBDxxyNfybq4oaw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "enzodiasx1",
-      "authorName": "愛",
+      "id": "7685902585903025429",
+      "url": "https://www.tiktok.com/@hevsecrett/video/7685902585903025429",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/44a4e0d3e7904ee2badb0b55589a1969~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=3953b1d8&x-expires=1795993200&x-signature=xy3EMruSmpsATYXVLUGOOy7HGEc%3D&t=5897f7ec&ps=d5b8ac02&shp=d05b14bd&shcp=1a816805&idc=my2&s=FEED&biz_tag=tt_photomode&sc=cover",
+      "author": "hevsecrett",
+      "authorName": "hevsecrett",
       "authorFollowers": null,
-      "views": 3999157,
-      "likes": 474104,
-      "comments": 3802,
-      "shares": 39324,
+      "views": 2545188,
+      "likes": 379525,
+      "comments": 1921,
+      "shares": 23715,
       "durationSec": null,
-      "postedAt": "2026-08-28T01:18:00.000Z",
-      "viewsPerHour": 2117.6,
+      "postedAt": "2026-09-15T23:07:38.000Z",
+      "viewsPerHour": 1766.7,
       "growthViews": null,
       "growthHours": null,
-      "engagementRate": 0.1293,
+      "engagementRate": 0.1592,
       "faceless": false,
       "facelessScore": 0,
       "facelessReasons": [],
@@ -3258,20 +4199,18 @@
           "label": "Outros"
         }
       ],
-      "hashtags": [
-        "vidroviral"
-      ],
+      "hashtags": [],
       "sources": [
         "trending"
       ],
       "aiMeta": false,
       "history": [
         {
-          "at": "2026-11-14T17:52:37.821Z",
-          "views": 3999157,
-          "likes": 474104,
-          "comments": 3802,
-          "shares": 39324
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 2545188,
+          "likes": 379525,
+          "comments": 1921,
+          "shares": 23715
         }
       ]
     },
@@ -3289,7 +4228,7 @@
       "shares": 13793,
       "durationSec": null,
       "postedAt": "2026-10-21T14:53:36.000Z",
-      "viewsPerHour": 1589,
+      "viewsPerHour": 1572.9,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0602,
@@ -3331,7 +4270,7 @@
       "shares": 76,
       "durationSec": null,
       "postedAt": "2026-11-13T11:17:05.000Z",
-      "viewsPerHour": 1435,
+      "viewsPerHour": 1202.2,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.072,
@@ -3380,7 +4319,7 @@
       "shares": 58,
       "durationSec": null,
       "postedAt": "2026-11-12T23:44:14.000Z",
-      "viewsPerHour": 1333.8,
+      "viewsPerHour": 1169.4,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0359,
@@ -3413,6 +4352,54 @@
       ]
     },
     {
+      "id": "7708088506567888135",
+      "url": "https://www.tiktok.com/@midia.bee/video/7708088506567888135",
+      "caption": "Meu marido não quer ficar comigo no parto, quer  que seja a mãe dele - PARTE 2 #conversasdewhats #familia #conversasdowhatsapp #entretenimento #novelinhas",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oMDDGaD7FAqueo4bAjCQAEoIpxfEI4AfAVK6iE~tplv-tiktokx-dmt-logom:tos-alisg-i-0068/o8AiAnIn6AB7hoYAAEvArKDavu6wiHABb4aEi.image?biz_tag=musically_video.video_cover&dr=16684&idc=my&ps=933b5bde&refresh_token=e0bb3113&s=SEARCH&sc=cover&shcp=c1333099&shp=d05b14bd&t=bacd0480&x-expires=1794783600&x-signature=S4xWO3ssshvkC6ip3e3pivzNEVM%3D",
+      "author": "midia.bee",
+      "authorName": "Mídia Bee",
+      "authorFollowers": null,
+      "views": 6352,
+      "likes": 423,
+      "comments": 10,
+      "shares": 3,
+      "durationSec": null,
+      "postedAt": "2026-11-14T18:00:21.000Z",
+      "viewsPerHour": 1096,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0686,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "conversasdewhats",
+        "familia",
+        "conversasdowhatsapp",
+        "entretenimento",
+        "novelinhas"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 6352,
+          "likes": 423,
+          "comments": 10,
+          "shares": 3
+        }
+      ]
+    },
+    {
       "id": "7705964076496637192",
       "url": "https://www.tiktok.com/@rick_sobrenatural/video/7705964076496637192",
       "caption": "fantasma aparece no corredor #terror #medo #assustador",
@@ -3426,7 +4413,7 @@
       "shares": 382,
       "durationSec": null,
       "postedAt": "2026-11-09T00:36:36.000Z",
-      "viewsPerHour": 1042.4,
+      "viewsPerHour": 999.2,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0334,
@@ -3472,7 +4459,7 @@
       "shares": 2962,
       "durationSec": null,
       "postedAt": "2026-08-21T10:19:38.000Z",
-      "viewsPerHour": 937.8,
+      "viewsPerHour": 935.1,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0669,
@@ -3505,23 +4492,71 @@
       ]
     },
     {
-      "id": "7681385009495706900",
-      "url": "https://www.tiktok.com/@star.blue.01/video/7681385009495706900",
-      "caption": "#fyp #paravoce",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okjaKZKEc8I6mJwqAfDIRwqF0fizLHEUBDsBgv~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=9ad8e7cc&x-expires=1794704400&x-signature=zYk5MTPauTuG5k%2FYTC9U7yzqkqY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&s=FEED&sc=cover&biz_tag=tt_video",
-      "author": "star.blue.01",
-      "authorName": "𝐬𝐭𝐚𝐫.𝐛𝐥𝐮𝐞.𝟎𝟏",
+      "id": "7705587320207985953",
+      "url": "https://www.tiktok.com/@sky278119/video/7705587320207985953",
+      "caption": "You can tell I was bored asf #creepypasta #jeffthekiller #creepypastaedit #ninathekiller #slenderverse BEXX IS NEXT ^3^",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/ooMI34ZjkhwpIf0GQV3gf2MhW38AAFbAdAseAX~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=76ab5937&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=W5g4H5fu7AvMrRLbNwAPCgVsfHg%3D",
+      "author": "sky278119",
+      "authorName": "⦻’sky’⦻",
       "authorFollowers": null,
-      "views": 1585452,
-      "likes": 219432,
-      "comments": 550,
-      "shares": 12842,
+      "views": 108099,
+      "likes": 24902,
+      "comments": 223,
+      "shares": 2161,
       "durationSec": null,
-      "postedAt": "2026-09-03T18:57:02.000Z",
-      "viewsPerHour": 918.1,
+      "postedAt": "2026-11-08T00:14:21.000Z",
+      "viewsPerHour": 645.1,
       "growthViews": null,
       "growthHours": null,
-      "engagementRate": 0.1469,
+      "engagementRate": 0.2524,
+      "faceless": false,
+      "facelessScore": 1,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "terror",
+          "label": "Terror"
+        }
+      ],
+      "hashtags": [
+        "creepypasta",
+        "jeffthekiller",
+        "creepypastaedit",
+        "ninathekiller",
+        "slenderverse"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 108099,
+          "likes": 24902,
+          "comments": 223,
+          "shares": 2161
+        }
+      ]
+    },
+    {
+      "id": "7705821773123603764",
+      "url": "https://www.tiktok.com/@itsvictoriahale/video/7705821773123603764",
+      "caption": "Ela forjou o próprio sequestro #casosreais #historiasreais #historias",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQYF7EBfI0RUjOTrRf2twIJMqDHlHDLw8DEgAB~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=2e600a28&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=AZu08IYG6tzdVaC98maUgYqTthY%3D",
+      "author": "itsvictoriahale",
+      "authorName": "itsvictoriahale",
+      "authorFollowers": null,
+      "views": 83824,
+      "likes": 8842,
+      "comments": 227,
+      "shares": 157,
+      "durationSec": null,
+      "postedAt": "2026-11-08T15:24:12.000Z",
+      "viewsPerHour": 550,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.1101,
       "faceless": false,
       "facelessScore": 0,
       "facelessReasons": [],
@@ -3532,20 +4567,67 @@
         }
       ],
       "hashtags": [
-        "fyp",
-        "paravoce"
+        "casosreais",
+        "historiasreais",
+        "historias"
       ],
       "sources": [
-        "trending"
+        "search"
       ],
       "aiMeta": false,
       "history": [
         {
-          "at": "2026-11-14T01:19:03.920Z",
-          "views": 1585452,
-          "likes": 219432,
-          "comments": 550,
-          "shares": 12842
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 83824,
+          "likes": 8842,
+          "comments": 227,
+          "shares": 157
+        }
+      ]
+    },
+    {
+      "id": "7707052779038100754",
+      "url": "https://www.tiktok.com/@curionauta_encucado/video/7707052779038100754",
+      "caption": "Descobertas que transformaram pessoas pobres em milionárias #curiosidades #fatoscuriosos #incrivel",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUnd2AfYceIAu8RDEUgZE4iiKkAxAq06BKBnCN~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=1e8fffd5&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=JExg7Ui7LnSiMRRYlOSGNFr%2FX1A%3D",
+      "author": "curionauta_encucado",
+      "authorName": "curionauta",
+      "authorFollowers": null,
+      "views": 34933,
+      "likes": 1400,
+      "comments": 5,
+      "shares": 28,
+      "durationSec": null,
+      "postedAt": "2026-11-11T23:01:18.000Z",
+      "viewsPerHour": 480,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.041,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "curiosidades",
+          "label": "Curiosidades"
+        }
+      ],
+      "hashtags": [
+        "curiosidades",
+        "fatoscuriosos",
+        "incrivel"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 34933,
+          "likes": 1400,
+          "comments": 5,
+          "shares": 28
         }
       ]
     },
@@ -3563,7 +4645,7 @@
       "shares": 1037,
       "durationSec": null,
       "postedAt": "2026-11-02T18:05:51.000Z",
-      "viewsPerHour": 431.7,
+      "viewsPerHour": 423,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1857,
@@ -3610,7 +4692,7 @@
       "shares": 8326,
       "durationSec": null,
       "postedAt": "2026-08-22T16:07:08.000Z",
-      "viewsPerHour": 404.4,
+      "viewsPerHour": 403.2,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.1923,
@@ -3657,7 +4739,7 @@
       "shares": 659,
       "durationSec": null,
       "postedAt": "2026-10-23T13:48:56.000Z",
-      "viewsPerHour": 374.2,
+      "viewsPerHour": 370,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0747,
@@ -3704,7 +4786,7 @@
       "shares": 108,
       "durationSec": null,
       "postedAt": "2026-11-04T16:37:55.000Z",
-      "viewsPerHour": 339,
+      "viewsPerHour": 330.9,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0136,
@@ -3733,6 +4815,149 @@
       ]
     },
     {
+      "id": "7694477844969262349",
+      "url": "https://www.tiktok.com/@tom.and.jerry5059/video/7694477844969262349",
+      "caption": "Aura tom❤️🔥 #edit #aura #tomandjerry #cartoon",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oEREqDQ1bADsgGAWItfEBqiI8SFuRyAEDu3Vf1~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=0446af20&x-expires=1794783600&x-signature=3HW%2BiPLO3qBRwGbHvI4j%2BE%2FgkqU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover&bas=android_bas",
+      "author": "tom.and.jerry5059",
+      "authorName": "Tom and Jerry",
+      "authorFollowers": null,
+      "views": 193296,
+      "likes": 9309,
+      "comments": 95,
+      "shares": 428,
+      "durationSec": null,
+      "postedAt": "2026-10-09T01:44:12.000Z",
+      "viewsPerHour": 218.2,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0509,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "edit",
+        "aura",
+        "tomandjerry",
+        "cartoon"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 193296,
+          "likes": 9309,
+          "comments": 95,
+          "shares": 428
+        }
+      ]
+    },
+    {
+      "id": "7707374519379381524",
+      "url": "https://www.tiktok.com/@historiasdocotidianobr/video/7707374519379381524",
+      "caption": "#vaiprafy #fypシ #fakechat #conversasdewhats #foryou",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ocaOBxgYExnLYvTIg7PA2GmF2iXALiCB36VIB~tplv-tiktokx-origin.image?biz_tag=musically_video.video_cover&dr=1370&idc=my&ps=933b5bde&refresh_token=e614d121&s=SEARCH&sc=cover&shcp=c1333099&shp=d05b14bd&t=bacd0480&x-expires=1794783600&x-signature=4ZjXU7LKU44ZgUhNZcwraCMddrs%3D",
+      "author": "historiasdocotidianobr",
+      "authorName": "HISTÓRIAS DO COTIDIANO",
+      "authorFollowers": null,
+      "views": 4345,
+      "likes": 97,
+      "comments": 1,
+      "shares": 3,
+      "durationSec": null,
+      "postedAt": "2026-11-12T19:49:37.000Z",
+      "viewsPerHour": 83.6,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0232,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "vaiprafy",
+        "fypシ",
+        "fakechat",
+        "conversasdewhats",
+        "foryou"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 4345,
+          "likes": 97,
+          "comments": 1,
+          "shares": 3
+        }
+      ]
+    },
+    {
+      "id": "7705634266012503314",
+      "url": "https://www.tiktok.com/@zap.das.fofocas/video/7705634266012503314",
+      "caption": "FINALLL🥳🥳🥳🥳 Gostaram? Já Já trago mais histórias. #conversasnowhatsapp #historinhastiktok #enteadaemadrasta #historiaswhatsapp #conversafake",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oop6rGArWAM7A5AfhedRJLBfgQXbGvdQeAcc8A~tplv-tiktokx-origin.image?biz_tag=musically_video.video_cover&dr=1370&idc=my&ps=933b5bde&refresh_token=af70b4d3&s=SEARCH&sc=cover&shcp=c1333099&shp=d05b14bd&t=bacd0480&x-expires=1794783600&x-signature=M376TBoNoQ97%2Bm%2FCwNrAEM4JHUk%3D",
+      "author": "zap.das.fofocas",
+      "authorName": "Zap das Fofocas",
+      "authorFollowers": null,
+      "views": 10860,
+      "likes": 471,
+      "comments": 7,
+      "shares": 7,
+      "durationSec": null,
+      "postedAt": "2026-11-08T03:16:39.000Z",
+      "viewsPerHour": 66,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0447,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "conversasnowhatsapp",
+        "historinhastiktok",
+        "enteadaemadrasta",
+        "historiaswhatsapp",
+        "conversafake"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 10860,
+          "likes": 471,
+          "comments": 7,
+          "shares": 7
+        }
+      ]
+    },
+    {
       "id": "7706300211924110612",
       "url": "https://www.tiktok.com/@historiasbymaikee/video/7706300211924110612",
       "caption": "¿Viste lo que se ocultaba en la oscuridad de este departamento? 💀👀#terrorparanormal #misterio #creatorsearchinsights #cosasdemiedo #horror",
@@ -3746,7 +4971,7 @@
       "shares": 12,
       "durationSec": null,
       "postedAt": "2026-11-09T22:20:46.000Z",
-      "viewsPerHour": 15.3,
+      "viewsPerHour": 14.5,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0929,
@@ -3794,7 +5019,7 @@
       "shares": 1,
       "durationSec": null,
       "postedAt": "2026-11-10T14:00:12.000Z",
-      "viewsPerHour": 7.6,
+      "viewsPerHour": 7.2,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0555,
@@ -3846,7 +5071,7 @@
       "shares": 0,
       "durationSec": null,
       "postedAt": "2026-11-13T17:15:19.000Z",
-      "viewsPerHour": 6.9,
+      "viewsPerHour": 5.6,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0176,
@@ -3875,23 +5100,23 @@
       ]
     },
     {
-      "id": "7707779957396606228",
-      "url": "https://www.tiktok.com/@user345518456757/video/7707779957396606228",
-      "caption": "",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUQDIRBqZ93ijFFjumnDRgFEc9BfAvXq5QevE4~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=47ee8975&x-expires=1794740400&x-signature=w722v4jCJvv4TBWseL%2FbhxplQf4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "user345518456757",
-      "authorName": "user345518456757",
+      "id": "7707339548857994517",
+      "url": "https://www.tiktok.com/@lohhgacha_/video/7707339548857994517",
+      "caption": "#whatsapfake #conversasdowhatsapp #historia #fyp #vaiprafycaramba",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oMmeguFrGAKgvfG4cQ3I8MWArHpM1WkCfwoeLR~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=491ccd49&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794718800&x-signature=OPrv%2Blsq2xqaXMFc0RMXFUIeFoA%3D",
+      "author": "lohhgacha_",
+      "authorName": "lohhgacha_",
       "authorFollowers": null,
-      "views": 93,
-      "likes": 1,
+      "views": 290,
+      "likes": 13,
       "comments": 0,
-      "shares": 0,
+      "shares": 1,
       "durationSec": null,
-      "postedAt": "2026-11-13T22:02:57.000Z",
-      "viewsPerHour": 4.7,
+      "postedAt": "2026-11-12T17:33:52.000Z",
+      "viewsPerHour": 5.3,
       "growthViews": null,
       "growthHours": null,
-      "engagementRate": 0.0108,
+      "engagementRate": 0.0483,
       "faceless": false,
       "facelessScore": 0,
       "facelessReasons": [],
@@ -3901,18 +5126,24 @@
           "label": "Outros"
         }
       ],
-      "hashtags": [],
+      "hashtags": [
+        "whatsapfake",
+        "conversasdowhatsapp",
+        "historia",
+        "fyp",
+        "vaiprafycaramba"
+      ],
       "sources": [
-        "trending"
+        "search"
       ],
       "aiMeta": false,
       "history": [
         {
-          "at": "2026-11-14T11:19:59.148Z",
-          "views": 93,
-          "likes": 1,
+          "at": "2026-11-14T23:48:05.565Z",
+          "views": 290,
+          "likes": 13,
           "comments": 0,
-          "shares": 0
+          "shares": 1
         }
       ]
     },
@@ -3930,7 +5161,7 @@
       "shares": 0,
       "durationSec": null,
       "postedAt": "2026-11-13T13:25:43.000Z",
-      "viewsPerHour": 4.5,
+      "viewsPerHour": 3.7,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0,
@@ -3965,6 +5196,48 @@
       ]
     },
     {
+      "id": "7707779957396606228",
+      "url": "https://www.tiktok.com/@user345518456757/video/7707779957396606228",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUQDIRBqZ93ijFFjumnDRgFEc9BfAvXq5QevE4~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=47ee8975&x-expires=1794740400&x-signature=w722v4jCJvv4TBWseL%2FbhxplQf4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "user345518456757",
+      "authorName": "user345518456757",
+      "authorFollowers": null,
+      "views": 93,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "durationSec": null,
+      "postedAt": "2026-11-13T22:02:57.000Z",
+      "viewsPerHour": 3.6,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0108,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T11:19:59.148Z",
+          "views": 93,
+          "likes": 1,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
       "id": "7707477133647547656",
       "url": "https://www.tiktok.com/@thjvjzvdtgz/video/7707477133647547656",
       "caption": "",
@@ -3978,7 +5251,7 @@
       "shares": 0,
       "durationSec": null,
       "postedAt": "2026-11-13T02:27:59.000Z",
-      "viewsPerHour": 3.4,
+      "viewsPerHour": 3,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0224,
@@ -4020,7 +5293,7 @@
       "shares": 0,
       "durationSec": null,
       "postedAt": "2026-11-12T12:03:41.000Z",
-      "viewsPerHour": 3,
+      "viewsPerHour": 2.7,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.0813,
@@ -4055,48 +5328,6 @@
       ]
     },
     {
-      "id": "7707943601753427220",
-      "url": "https://www.tiktok.com/@emerson.gomes146/video/7707943601753427220",
-      "caption": "",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAPBAeXeGDPVLmAIDwIODWIe8CoQaS5A0Nj8vA~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=42781277&x-expires=1794740400&x-signature=HktZ4TMHhtCm%2BYDkTOJSv6TXl0I%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "emerson.gomes146",
-      "authorName": "Emerson Gomes",
-      "authorFollowers": null,
-      "views": 26,
-      "likes": 1,
-      "comments": 0,
-      "shares": 0,
-      "durationSec": null,
-      "postedAt": "2026-11-14T08:37:57.000Z",
-      "viewsPerHour": 2.8,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.0385,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T11:19:59.148Z",
-          "views": 26,
-          "likes": 1,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
-    },
-    {
       "id": "7707180448639700231",
       "url": "https://www.tiktok.com/@user5540847848186/video/7707180448639700231",
       "caption": "Produto Original — Design Prático, Durável, Envio Rápido Disponível",
@@ -4110,7 +5341,7 @@
       "shares": 0,
       "durationSec": null,
       "postedAt": "2026-11-13T07:35:00.000Z",
-      "viewsPerHour": 2.7,
+      "viewsPerHour": 2.3,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.011,
@@ -4139,6 +5370,48 @@
       ]
     },
     {
+      "id": "7707943601753427220",
+      "url": "https://www.tiktok.com/@emerson.gomes146/video/7707943601753427220",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAPBAeXeGDPVLmAIDwIODWIe8CoQaS5A0Nj8vA~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=42781277&x-expires=1794740400&x-signature=HktZ4TMHhtCm%2BYDkTOJSv6TXl0I%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "emerson.gomes146",
+      "authorName": "Emerson Gomes",
+      "authorFollowers": null,
+      "views": 26,
+      "likes": 1,
+      "comments": 0,
+      "shares": 0,
+      "durationSec": null,
+      "postedAt": "2026-11-14T08:37:57.000Z",
+      "viewsPerHour": 1.7,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0385,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T11:19:59.148Z",
+          "views": 26,
+          "likes": 1,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
       "id": "7707829007294713095",
       "url": "https://www.tiktok.com/@sinobe13/video/7707829007294713095",
       "caption": "",
@@ -4152,7 +5425,7 @@
       "shares": 0,
       "durationSec": null,
       "postedAt": "2026-11-14T01:13:21.000Z",
-      "viewsPerHour": 1.3,
+      "viewsPerHour": 0.9,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0,
@@ -4181,6 +5454,53 @@
       ]
     },
     {
+      "id": "7706163426673823028",
+      "url": "https://www.tiktok.com/@xanda9645/video/7706163426673823028",
+      "caption": "#CapCutMotivacional #Motivacional #reflexaododia #CapCut",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ooEmDwREQBAfbQnjFqTgXK2McBFr6l8DckfM8y~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=e574f5bc&x-expires=1794740400&x-signature=a7YE8ZJhC9lJ8jVqZDDErPtaJx8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "xanda9645",
+      "authorName": "Xanda",
+      "authorFollowers": null,
+      "views": 120,
+      "likes": 5,
+      "comments": 0,
+      "shares": 0,
+      "durationSec": null,
+      "postedAt": "2026-11-09T13:29:54.000Z",
+      "viewsPerHour": 0.9,
+      "growthViews": null,
+      "growthHours": null,
+      "engagementRate": 0.0417,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "capcutmotivacional",
+        "motivacional",
+        "reflexaododia",
+        "capcut"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-14T11:19:59.148Z",
+          "views": 120,
+          "likes": 5,
+          "comments": 0,
+          "shares": 0
+        }
+      ]
+    },
+    {
       "id": "7707847788511399176",
       "url": "https://www.tiktok.com/@achadosmasculinos2026/video/7707847788511399176",
       "caption": "A camiseta perfeita para responder muita coisa sem precisar abrir a boca! 😂🔥 Modelagem oversized super confortável, malha 100% algodão encorpada e estampa de respeito. Garante a tua no carrinho laranja antes que acabe! 👇🛒 ​#seumadruga #chaves #camisetaoversized #modamasculina #tiktokshop",
@@ -4194,7 +5514,7 @@
       "shares": 2,
       "durationSec": null,
       "postedAt": "2026-11-14T02:26:15.000Z",
-      "viewsPerHour": 1.2,
+      "viewsPerHour": 0.8,
       "growthViews": null,
       "growthHours": null,
       "engagementRate": 0.2222,
@@ -4227,66 +5547,19 @@
           "shares": 2
         }
       ]
-    },
-    {
-      "id": "7706163426673823028",
-      "url": "https://www.tiktok.com/@xanda9645/video/7706163426673823028",
-      "caption": "#CapCutMotivacional #Motivacional #reflexaododia #CapCut",
-      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ooEmDwREQBAfbQnjFqTgXK2McBFr6l8DckfM8y~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=e574f5bc&x-expires=1794740400&x-signature=a7YE8ZJhC9lJ8jVqZDDErPtaJx8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
-      "author": "xanda9645",
-      "authorName": "Xanda",
-      "authorFollowers": null,
-      "views": 120,
-      "likes": 5,
-      "comments": 0,
-      "shares": 0,
-      "durationSec": null,
-      "postedAt": "2026-11-09T13:29:54.000Z",
-      "viewsPerHour": 1,
-      "growthViews": null,
-      "growthHours": null,
-      "engagementRate": 0.0417,
-      "faceless": false,
-      "facelessScore": 0,
-      "facelessReasons": [],
-      "niches": [
-        {
-          "id": "outros",
-          "label": "Outros"
-        }
-      ],
-      "hashtags": [
-        "capcutmotivacional",
-        "motivacional",
-        "reflexaododia",
-        "capcut"
-      ],
-      "sources": [
-        "trending"
-      ],
-      "aiMeta": false,
-      "history": [
-        {
-          "at": "2026-11-14T11:19:59.148Z",
-          "views": 120,
-          "likes": 5,
-          "comments": 0,
-          "shares": 0
-        }
-      ]
     }
   ],
   "run": {
-    "collectedAt": "2026-11-14T17:52:37.821Z",
+    "collectedAt": "2026-11-14T23:48:05.565Z",
     "mode": "live",
     "itemsReceived": 35,
     "estimatedUsd": 0.0088,
     "keywords": [
-      "ia",
-      "inteligenciaartificial",
-      "historiasdeterror",
-      "terror",
-      "misterio"
+      "curiosidades",
+      "fatoscuriosos",
+      "creepypasta",
+      "historiareal",
+      "conversasfakes"
     ]
   }
 }
