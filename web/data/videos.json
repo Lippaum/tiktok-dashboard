@@ -1,0 +1,663 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-14T00:56:37.039Z",
+  "region": "BR",
+  "source": "fixture",
+  "videoCount": 10,
+  "videos": [
+    {
+      "id": "7100000000000001001",
+      "url": "https://www.tiktok.com/@sombras.narradas/video/7100000000000001001",
+      "caption": "Você não deveria ter aberto essa porta. História de terror narrada por IA. #historiasdeterror #ia #narracao",
+      "coverUrl": "covers/terror.svg",
+      "author": "sombras.narradas",
+      "authorName": "Sombras Narradas",
+      "authorFollowers": 4200,
+      "views": 260000,
+      "likes": 28000,
+      "comments": 900,
+      "shares": 4100,
+      "durationSec": 27,
+      "postedAt": "2026-11-12T18:56:37.039Z",
+      "viewsPerHour": 8666.7,
+      "growthViews": 120000,
+      "growthHours": 4,
+      "engagementRate": 0.1269,
+      "faceless": true,
+      "facelessScore": 5,
+      "facelessReasons": [
+        "IA na legenda ou hashtag",
+        "narração ou voz sintética",
+        "história de terror"
+      ],
+      "niches": [
+        {
+          "id": "ia",
+          "label": "IA"
+        },
+        {
+          "id": "terror",
+          "label": "Terror"
+        },
+        {
+          "id": "narracao",
+          "label": "Narração"
+        }
+      ],
+      "hashtags": [
+        "historiasdeterror",
+        "ia",
+        "narracao"
+      ],
+      "sources": [
+        "trending",
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 80000,
+          "likes": 9000,
+          "comments": 280,
+          "shares": 1400
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 140000,
+          "likes": 16000,
+          "comments": 520,
+          "shares": 2600
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 260000,
+          "likes": 28000,
+          "comments": 900,
+          "shares": 4100
+        }
+      ]
+    },
+    {
+      "id": "7100000000000001005",
+      "url": "https://www.tiktok.com/@ia.do.meme/video/7100000000000001005",
+      "caption": "O meme nasceu de uma imagem de IA e ninguém percebeu. #meme #ia",
+      "coverUrl": "covers/meme.svg",
+      "author": "ia.do.meme",
+      "authorName": "IA do Meme",
+      "authorFollowers": 3100,
+      "views": 110000,
+      "likes": 16000,
+      "comments": 700,
+      "shares": 4200,
+      "durationSec": 12,
+      "postedAt": "2026-11-13T18:56:37.039Z",
+      "viewsPerHour": 18333.3,
+      "growthViews": 70000,
+      "growthHours": 4,
+      "engagementRate": 0.19,
+      "faceless": true,
+      "facelessScore": 4,
+      "facelessReasons": [
+        "IA na legenda ou hashtag",
+        "imagem ou animação de IA"
+      ],
+      "niches": [
+        {
+          "id": "ia",
+          "label": "IA"
+        },
+        {
+          "id": "memes",
+          "label": "Memes"
+        }
+      ],
+      "hashtags": [
+        "meme",
+        "ia"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 10000,
+          "likes": 1800,
+          "comments": 90,
+          "shares": 400
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 40000,
+          "likes": 6200,
+          "comments": 300,
+          "shares": 1500
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 110000,
+          "likes": 16000,
+          "comments": 700,
+          "shares": 4200
+        }
+      ]
+    },
+    {
+      "id": "7100000000000001010",
+      "url": "https://www.tiktok.com/@olha.isso.ai/video/7100000000000001010",
+      "caption": "olha isso",
+      "coverUrl": "covers/aigc.svg",
+      "author": "olha.isso.ai",
+      "authorName": "Olha Isso",
+      "authorFollowers": 800,
+      "views": 80000,
+      "likes": 9600,
+      "comments": 420,
+      "shares": 1800,
+      "durationSec": 24,
+      "postedAt": "2026-11-13T19:56:37.039Z",
+      "viewsPerHour": 16000,
+      "growthViews": 55000,
+      "growthHours": 4,
+      "engagementRate": 0.1478,
+      "faceless": true,
+      "facelessScore": 4,
+      "facelessReasons": [
+        "metadado de IA"
+      ],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": true,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 5000,
+          "likes": 700,
+          "comments": 40,
+          "shares": 120
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 25000,
+          "likes": 3100,
+          "comments": 160,
+          "shares": 600
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 80000,
+          "likes": 9600,
+          "comments": 420,
+          "shares": 1800
+        }
+      ]
+    },
+    {
+      "id": "7100000000000001006",
+      "url": "https://www.tiktok.com/@ritmo.da.semana/video/7100000000000001006",
+      "caption": "A trend da semana, aprende aí #dance #fyp",
+      "coverUrl": "covers/dance.svg",
+      "author": "ritmo.da.semana",
+      "authorName": "Ritmo da Semana",
+      "authorFollowers": 890000,
+      "views": 2100000,
+      "likes": 40000,
+      "comments": 500,
+      "shares": 2000,
+      "durationSec": 14,
+      "postedAt": "2026-11-11T22:56:37.039Z",
+      "viewsPerHour": 42000,
+      "growthViews": 50000,
+      "growthHours": 4,
+      "engagementRate": 0.0202,
+      "faceless": false,
+      "facelessScore": -2,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "dance",
+        "fyp"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 2000000,
+          "likes": 36000,
+          "comments": 400,
+          "shares": 1800
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 2050000,
+          "likes": 38000,
+          "comments": 450,
+          "shares": 1900
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 2100000,
+          "likes": 40000,
+          "comments": 500,
+          "shares": 2000
+        }
+      ]
+    },
+    {
+      "id": "7100000000000001002",
+      "url": "https://www.tiktok.com/@fatos.narrados/video/7100000000000001002",
+      "caption": "3 fatos que a escola não conta. Voz de IA. #curiosidades #fatoscuriosos #narracao",
+      "coverUrl": "covers/curiosidades.svg",
+      "author": "fatos.narrados",
+      "authorName": "Fatos Narrados",
+      "authorFollowers": 12800,
+      "views": 590000,
+      "likes": 51000,
+      "comments": 1100,
+      "shares": 7600,
+      "durationSec": 42,
+      "postedAt": "2026-11-10T16:56:37.039Z",
+      "viewsPerHour": 7375,
+      "growthViews": 50000,
+      "growthHours": 4,
+      "engagementRate": 0.1012,
+      "faceless": true,
+      "facelessScore": 4,
+      "facelessReasons": [
+        "IA na legenda ou hashtag",
+        "narração ou voz sintética"
+      ],
+      "niches": [
+        {
+          "id": "ia",
+          "label": "IA"
+        },
+        {
+          "id": "curiosidades",
+          "label": "Curiosidades"
+        },
+        {
+          "id": "narracao",
+          "label": "Narração"
+        }
+      ],
+      "hashtags": [
+        "curiosidades",
+        "fatoscuriosos",
+        "narracao"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 500000,
+          "likes": 41000,
+          "comments": 800,
+          "shares": 6000
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 540000,
+          "likes": 45000,
+          "comments": 900,
+          "shares": 6800
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 590000,
+          "likes": 51000,
+          "comments": 1100,
+          "shares": 7600
+        }
+      ]
+    },
+    {
+      "id": "7100000000000001007",
+      "url": "https://www.tiktok.com/@ilha.que.some/video/7100000000000001007",
+      "caption": "Você sabia que o Brasil tem uma ilha que some? Narração. #curiosidades #fatoscuriosos",
+      "coverUrl": "covers/ilha.svg",
+      "author": "ilha.que.some",
+      "authorName": "Ilha que Some",
+      "authorFollowers": 6700,
+      "views": 95000,
+      "likes": 11200,
+      "comments": 380,
+      "shares": 1900,
+      "durationSec": 36,
+      "postedAt": "2026-11-09T20:56:37.039Z",
+      "viewsPerHour": 950,
+      "growthViews": 35000,
+      "growthHours": 4,
+      "engagementRate": 0.1419,
+      "faceless": true,
+      "facelessScore": 2,
+      "facelessReasons": [
+        "narração ou voz sintética"
+      ],
+      "niches": [
+        {
+          "id": "curiosidades",
+          "label": "Curiosidades"
+        },
+        {
+          "id": "narracao",
+          "label": "Narração"
+        }
+      ],
+      "hashtags": [
+        "curiosidades",
+        "fatoscuriosos"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 15000,
+          "likes": 1800,
+          "comments": 70,
+          "shares": 300
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 60000,
+          "likes": 7000,
+          "comments": 240,
+          "shares": 1100
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 95000,
+          "likes": 11200,
+          "comments": 380,
+          "shares": 1900
+        }
+      ]
+    },
+    {
+      "id": "7100000000000001008",
+      "url": "https://www.tiktok.com/@farol.apagado/video/7100000000000001008",
+      "caption": "O caso do farol apagado. Mistério narrado com voz sintética. #misterio #historiareal",
+      "coverUrl": "covers/farol.svg",
+      "author": "farol.apagado",
+      "authorName": "Farol Apagado",
+      "authorFollowers": 15400,
+      "views": 70000,
+      "likes": 6400,
+      "comments": 340,
+      "shares": 980,
+      "durationSec": 58,
+      "postedAt": "2026-10-28T08:56:37.000Z",
+      "viewsPerHour": 175,
+      "growthViews": 15000,
+      "growthHours": 4,
+      "engagementRate": 0.1103,
+      "faceless": true,
+      "facelessScore": 2,
+      "facelessReasons": [
+        "narração ou voz sintética"
+      ],
+      "niches": [
+        {
+          "id": "terror",
+          "label": "Terror"
+        },
+        {
+          "id": "misterio",
+          "label": "Mistério"
+        },
+        {
+          "id": "narracao",
+          "label": "Narração"
+        }
+      ],
+      "hashtags": [
+        "misterio",
+        "historiareal"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 40000,
+          "likes": 3600,
+          "comments": 200,
+          "shares": 500
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 55000,
+          "likes": 4900,
+          "comments": 260,
+          "shares": 700
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 70000,
+          "likes": 6400,
+          "comments": 340,
+          "shares": 980
+        }
+      ]
+    },
+    {
+      "id": "7100000000000001003",
+      "url": "https://www.tiktok.com/@conversas.falsas/video/7100000000000001003",
+      "caption": "A conversa que eu nunca respondi. #conversasfakes",
+      "coverUrl": "covers/chat.svg",
+      "author": "conversas.falsas",
+      "authorName": "Conversas Falsas",
+      "authorFollowers": 900,
+      "views": 35000,
+      "likes": 4100,
+      "comments": 310,
+      "shares": 1200,
+      "durationSec": 18,
+      "postedAt": "2026-11-13T14:56:37.000Z",
+      "viewsPerHour": 3500,
+      "growthViews": 7000,
+      "growthHours": 4,
+      "engagementRate": 0.1603,
+      "faceless": true,
+      "facelessScore": 2,
+      "facelessReasons": [
+        "chat fictício"
+      ],
+      "niches": [
+        {
+          "id": "conversas",
+          "label": "Conversas"
+        }
+      ],
+      "hashtags": [
+        "conversasfakes"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 20000,
+          "likes": 2400,
+          "comments": 180,
+          "shares": 700
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 28000,
+          "likes": 3200,
+          "comments": 240,
+          "shares": 900
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 35000,
+          "likes": 4100,
+          "comments": 310,
+          "shares": 1200
+        }
+      ]
+    },
+    {
+      "id": "7100000000000001009",
+      "url": "https://www.tiktok.com/@eu.na.camera/video/7100000000000001009",
+      "caption": "Eu tentando fingir que não vi. #comedia #fyp",
+      "coverUrl": "covers/reacao.svg",
+      "author": "eu.na.camera",
+      "authorName": "Eu na Câmera",
+      "authorFollowers": 120000,
+      "views": 315000,
+      "likes": 19200,
+      "comments": 670,
+      "shares": 980,
+      "durationSec": 21,
+      "postedAt": "2026-11-13T04:56:37.039Z",
+      "viewsPerHour": 15750,
+      "growthViews": 5000,
+      "growthHours": 4,
+      "engagementRate": 0.0662,
+      "faceless": false,
+      "facelessScore": 0,
+      "facelessReasons": [],
+      "niches": [
+        {
+          "id": "outros",
+          "label": "Outros"
+        }
+      ],
+      "hashtags": [
+        "comedia",
+        "fyp"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 300000,
+          "likes": 18000,
+          "comments": 600,
+          "shares": 900
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 310000,
+          "likes": 18800,
+          "comments": 640,
+          "shares": 940
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 315000,
+          "likes": 19200,
+          "comments": 670,
+          "shares": 980
+        }
+      ]
+    },
+    {
+      "id": "7100000000000001004",
+      "url": "https://www.tiktok.com/@corredor.quatro/video/7100000000000001004",
+      "caption": "Creepypasta: o corredor do 4º andar. Narração completa. #creepypasta #terror #historiasdeterror",
+      "coverUrl": "covers/creepypasta.svg",
+      "author": "corredor.quatro",
+      "authorName": "Corredor Quatro",
+      "authorFollowers": 23000,
+      "views": 94000,
+      "likes": 7400,
+      "comments": 450,
+      "shares": 980,
+      "durationSec": 95,
+      "postedAt": "2026-11-05T16:56:37.039Z",
+      "viewsPerHour": 470,
+      "growthViews": 2000,
+      "growthHours": 4,
+      "engagementRate": 0.0939,
+      "faceless": true,
+      "facelessScore": 3,
+      "facelessReasons": [
+        "narração ou voz sintética",
+        "história de terror"
+      ],
+      "niches": [
+        {
+          "id": "terror",
+          "label": "Terror"
+        },
+        {
+          "id": "narracao",
+          "label": "Narração"
+        }
+      ],
+      "hashtags": [
+        "creepypasta",
+        "terror",
+        "historiasdeterror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false,
+      "history": [
+        {
+          "at": "2026-11-13T16:56:37.039Z",
+          "views": 90000,
+          "likes": 7000,
+          "comments": 400,
+          "shares": 900
+        },
+        {
+          "at": "2026-11-13T20:56:37.039Z",
+          "views": 92000,
+          "likes": 7200,
+          "comments": 420,
+          "shares": 940
+        },
+        {
+          "at": "2026-11-14T00:56:37.039Z",
+          "views": 94000,
+          "likes": 7400,
+          "comments": 450,
+          "shares": 980
+        }
+      ]
+    }
+  ],
+  "run": {
+    "collectedAt": "2026-11-14T00:56:37.039Z",
+    "mode": "fixture",
+    "itemsReceived": 11,
+    "estimatedUsd": 0,
+    "keywords": []
+  }
+}
