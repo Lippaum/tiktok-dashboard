@@ -1,0 +1,896 @@
+{
+  "collectedAt": "2026-11-17T02:51:12.824Z",
+  "region": "BR",
+  "mode": "live",
+  "itemsReceived": 35,
+  "estimatedUsd": 0.0088,
+  "keywords": [
+    "misterio",
+    "curiosidades",
+    "fatoscuriosos",
+    "creepypasta",
+    "historiareal"
+  ],
+  "actors": {
+    "trending": {
+      "id": "kaitoeasyapi/tiktok-trending-feed-scraper",
+      "input": {
+        "regions": [
+          "BR"
+        ],
+        "maxVideosPerRegion": 15
+      },
+      "returned": 15
+    },
+    "search": {
+      "id": "kaitoeasyapi/tiktok-search-scraper",
+      "input": {
+        "keywords": [
+          "misterio",
+          "curiosidades",
+          "fatoscuriosos",
+          "creepypasta",
+          "historiareal"
+        ],
+        "region": "BR",
+        "sortType": "1",
+        "publishTime": "7",
+        "maxResultsPerKeyword": 4
+      },
+      "returned": 20
+    }
+  },
+  "items": [
+    {
+      "id": "7695240029358132511",
+      "url": "https://www.tiktok.com/@usafunny596/video/7695240029358132511",
+      "caption": "#BalliBotMagos #TredingReels #TredingReels #ForYouPage #FYP #FYP #ViralTikTok #MillionViews #TechMagic #SmartBot #AITrend #RobotVibes #Innovation",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/osWIefuBIiURUFKFQVTGeQWGghALAtfAnU6rQy~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=2e0278bb&x-expires=1794967200&x-signature=BSpIKr5UDelMn3rRkJ6ks8YZuNM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "usafunny596",
+      "authorName": "usafunny",
+      "authorFollowers": null,
+      "views": 6997183,
+      "likes": 636645,
+      "comments": 5727,
+      "shares": 285912,
+      "durationSec": null,
+      "postedAt": "2026-10-11T03:01:41.000Z",
+      "hashtags": [
+        "ballibotmagos",
+        "tredingreels",
+        "foryoupage",
+        "fyp",
+        "viraltiktok",
+        "millionviews",
+        "techmagic",
+        "smartbot",
+        "aitrend",
+        "robotvibes",
+        "innovation"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7703899673983028512",
+      "url": "https://www.tiktok.com/@lass_vitton/video/7703899673983028512",
+      "caption": "#lifehacks #lassvitton #viral #fyp",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oo49fvrYpGNsft5BjAv1iTAv9llAfrQdYRGmge~tplv-tiktokx-origin.webp?dr=1370&refresh_token=ccd89c6c&x-expires=1794967200&x-signature=PQGhkrX5W%2BAuO3nzwMoK3CHAM6Y%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover&item=7703899673983028512",
+      "author": "lass_vitton",
+      "authorName": "Lass Vitton",
+      "authorFollowers": null,
+      "views": 71798594,
+      "likes": 1560368,
+      "comments": 25091,
+      "shares": 42250,
+      "durationSec": null,
+      "postedAt": "2026-11-03T11:05:28.000Z",
+      "hashtags": [
+        "lifehacks",
+        "lassvitton",
+        "viral",
+        "fyp"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7688532166455610646",
+      "url": "https://www.tiktok.com/@seenbymii/video/7688532166455610646",
+      "caption": "Always 🥹",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/oUGOIyiBr6fCs61BJ1ZzC26I2pidRIAWJBATAw~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=ce6c15dc&x-expires=1794967200&x-signature=0Ax9Vm1hPnJ9SZ98wgd6Xak%2FdrE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "seenbymii",
+      "authorName": "Seen By Mii",
+      "authorFollowers": null,
+      "views": 1593551,
+      "likes": 129321,
+      "comments": 1538,
+      "shares": 30932,
+      "durationSec": null,
+      "postedAt": "2026-09-23T01:12:10.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7706308155499695373",
+      "url": "https://www.tiktok.com/@gatorade.br/video/7706308155499695373",
+      "caption": "Acesse o link da bio e saiba o que tem por trás da perfomance do Kimi #InsideFormula #GatoradeF1 #BrazilGP @lacteameufii",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/okZeI4Q5A0AjAg0SVngfEbLaIjHkkJenC3KIGE~tplv-tiktokx-origin.webp?dr=1370&refresh_token=c710937b&x-expires=1794960000&x-signature=QYnrQjhTvB8ucIjk0Fan6t7VeQM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "gatorade.br",
+      "authorName": "Gatorade Brasil",
+      "authorFollowers": null,
+      "views": 6430636,
+      "likes": 12195,
+      "comments": 20,
+      "shares": 554,
+      "durationSec": null,
+      "postedAt": "2026-11-09T22:52:01.000Z",
+      "hashtags": [
+        "insideformula",
+        "gatoradef1",
+        "brazilgp"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708599354776456469",
+      "url": "https://www.tiktok.com/@juliadantt_/video/7708599354776456469",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o86fSNTIjQ7AloHe5fQHF7GV2XALIDvOCAJRc9~tplv-tiktokx-origin.webp?dr=1370&refresh_token=df194358&x-expires=1794960000&x-signature=IXXMDKJUiAfweAuwT2iwvt7DFLA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "juliadantt_",
+      "authorName": "Julia Dantt",
+      "authorFollowers": null,
+      "views": 798871,
+      "likes": 76461,
+      "comments": 128,
+      "shares": 614,
+      "durationSec": null,
+      "postedAt": "2026-11-16T03:02:35.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708152968905821461",
+      "url": "https://www.tiktok.com/@sabordecasabrasil/video/7708152968905821461",
+      "caption": "Pão no leite fervente o segredo que as padarias escondem! #pao #leite #pudim #fy",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4C5A39eCFfW9INEQVED7IfyQcmYAxE0Do4KAj~tplv-tiktokx-origin.webp?dr=1370&refresh_token=19793b44&x-expires=1794960000&x-signature=Km%2BqNshT3JO2h1j81u76NDTyVhw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "sabordecasabrasil",
+      "authorName": "Sabor de Casa Brasil Oficial",
+      "authorFollowers": null,
+      "views": 1845362,
+      "likes": 45522,
+      "comments": 459,
+      "shares": 40048,
+      "durationSec": null,
+      "postedAt": "2026-11-14T22:10:27.000Z",
+      "hashtags": [
+        "pao",
+        "leite",
+        "pudim",
+        "fy"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7696877970190798087",
+      "url": "https://www.tiktok.com/@kfcbrasil/video/7696877970190798087",
+      "caption": "bom dia turma hj vcs vão  aprender a adquirir 2 crunch salad por apenas R$19,90",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osEqAzNoVLDAuIZAEVIGlbefIA6bAtadD4Q9fj~tplv-tiktokx-origin.webp?dr=1370&refresh_token=cf8769fd&x-expires=1794960000&x-signature=esvFRj6YHR0NX54QSP7iBXgSak4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "kfcbrasil",
+      "authorName": "KFC Brasil",
+      "authorFollowers": null,
+      "views": 5123787,
+      "likes": 4007,
+      "comments": 105,
+      "shares": 366,
+      "durationSec": null,
+      "postedAt": "2026-10-15T12:57:37.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708506851356216583",
+      "url": "https://www.tiktok.com/@costta062/video/7708506851356216583",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIXIcIHZgAe2Bs7QRiPMQqBBAFfAPiEQjBFIB6~tplv-tiktokx-origin.webp?dr=1370&refresh_token=c30db68c&x-expires=1794960000&x-signature=8ct4oDep7%2F5d01osHWnZ0bga%2Bh8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&s=FEED&sc=cover&biz_tag=tt_video",
+      "author": "costta062",
+      "authorName": "costta Silva",
+      "authorFollowers": null,
+      "views": 944929,
+      "likes": 228708,
+      "comments": 340,
+      "shares": 41542,
+      "durationSec": null,
+      "postedAt": "2026-11-15T21:03:42.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7706299729843375367",
+      "url": "https://www.tiktok.com/@bia_dell/video/7706299729843375367",
+      "caption": "#ad Hoje foi dia de Formula 1 no GP de São Paulo 🏁 Um dia tão importante como esse precisa ser vivido com toda intensidade! Por isso colei no stand da @Doritos e garanti meu DORITOS® Loaded ❤️😮‍💨 #publicidade",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8ABNbqYARRgEZXEFkADJEIDygEU8AgC7lfxte~tplv-tiktokx-origin.webp?dr=1370&refresh_token=31a7d994&x-expires=1794960000&x-signature=JpPDPDItQFUgWTHC4ucKPrrKvrw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "bia_dell",
+      "authorName": "Beatriz Del Cistia",
+      "authorFollowers": null,
+      "views": 6131459,
+      "likes": 11190,
+      "comments": 89,
+      "shares": 253,
+      "durationSec": null,
+      "postedAt": "2026-11-09T22:19:08.000Z",
+      "hashtags": [
+        "ad",
+        "publicidade"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7704988559840857364",
+      "url": "https://www.tiktok.com/@pedropiresrj/video/7704988559840857364",
+      "caption": "@sedaoficial #ProtocoloSedaMegaCrescimento",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ocftjzRSVI4vICDgnC2L1nsII4GFstAeBAeolk~tplv-tiktokx-origin.webp?dr=1370&refresh_token=f68c9749&x-expires=1794960000&x-signature=VJhnGabmNHTZHS770KMDcvtHdFA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "pedropiresrj",
+      "authorName": "Pedro Pires",
+      "authorFollowers": null,
+      "views": 6839230,
+      "likes": 4426,
+      "comments": 34,
+      "shares": 7355,
+      "durationSec": null,
+      "postedAt": "2026-11-06T09:30:53.000Z",
+      "hashtags": [
+        "protocolosedamegacrescimento"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708595841358941447",
+      "url": "https://www.tiktok.com/@desocupadodosfamosos/video/7708595841358941447",
+      "caption": "Blogueirinha surge irreconhecível, fora do personagem, e se surpreende ao ser filmada. Veja o que aconteceu! #famosos #fyp #blogueirinha",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUaAhIbkAr7Imn4VjsgCDRluzEQpQKF6nfYefD~tplv-tiktokx-origin.webp?dr=1370&refresh_token=7f5f03db&x-expires=1794960000&x-signature=RxdUEeC1uY6nQ5WxDdVV3MWoS%2B8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "desocupadodosfamosos",
+      "authorName": "John | Desocupado dos Famosos",
+      "authorFollowers": null,
+      "views": 838630,
+      "likes": 66402,
+      "comments": 474,
+      "shares": 684,
+      "durationSec": null,
+      "postedAt": "2026-11-16T02:49:01.000Z",
+      "hashtags": [
+        "famosos",
+        "fyp",
+        "blogueirinha"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7698401874046684437",
+      "url": "https://www.tiktok.com/@viniisousa___/video/7698401874046684437",
+      "caption": "#ad Quem me conhece e me acompanha sabe da minha história com a música brasileira, mas ver Jorge Ben Jor de pertinho é uma sensação difícil de explicar… Viver essa experiência foi especial demais! E com o Itaú Live, cada detalhe tornou esse momento ainda mais inesquecível!! E você, quer continuar curtindo seus artistas favoritos onde estiver? 🎶 Se você é cliente Itaú, acesse o Minhas Vantagens e resgate 3 meses de YouTube Premium para não deixar a música parar! 🧡 #publi",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUBAANdaSiDAJCxAE1iB77fUIAvswvhgAOWd9I~tplv-tiktokx-origin.webp?dr=1370&refresh_token=6afc1456&x-expires=1794960000&x-signature=BnkOS9exe%2BGs39NpF34hQKPGaXw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "viniisousa___",
+      "authorName": "Vinicius Sousa",
+      "authorFollowers": null,
+      "views": 37434397,
+      "likes": 167010,
+      "comments": 304,
+      "shares": 1862,
+      "durationSec": null,
+      "postedAt": "2026-10-19T15:31:10.000Z",
+      "hashtags": [
+        "ad",
+        "publi"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708087628196859157",
+      "url": "https://www.tiktok.com/@jenny.mrqs/video/7708087628196859157",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYv6IoEDllfD9saDoVJ4If4IOyFUnjAe3aCmsA~tplv-tiktokx-origin.webp?dr=1370&refresh_token=a9579d70&x-expires=1794960000&x-signature=Jv6S8KhHhO2YDgfMZZ3B07lUwNU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "jenny.mrqs",
+      "authorName": "🌊BATALHA OFC 20/11 18h 🌊",
+      "authorFollowers": null,
+      "views": 1891800,
+      "likes": 193517,
+      "comments": 2484,
+      "shares": 9290,
+      "durationSec": null,
+      "postedAt": "2026-11-14T17:56:52.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7696914940979957008",
+      "url": "https://www.tiktok.com/@babi_/video/7696914940979957008",
+      "caption": "#ad Novo Alienware 15: eu revezo entre jogos favoritos e campeonatos sem perder ritmo. Com processadores Intel® Core ™M, tela 165Hz e placa NVIDIA® GeForce RTX™M para otimizar a sua rotina. @Intel Corporation  *publi",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8XBYCaQAQc02O64AOiBIttuEoBb7DyIEPiRn~tplv-tiktokx-origin.webp?dr=1370&refresh_token=6e38e3de&x-expires=1794960000&x-signature=PNtQ2rQs1KD5UJpMGy%2BErtwuaaY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "babi_",
+      "authorName": "Babi Passos",
+      "authorFollowers": null,
+      "views": 19710352,
+      "likes": 41904,
+      "comments": 138,
+      "shares": 694,
+      "durationSec": null,
+      "postedAt": "2026-10-15T15:21:08.000Z",
+      "hashtags": [
+        "ad"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708555222314110211",
+      "url": "https://www.tiktok.com/@jorginho/video/7708555222314110211",
+      "caption": "Eu e a Ada! ♥️   @ada 🎀  #viral #jorginho #flamengo #fffffffyyyyypppp #xycba",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/okGGVLWeEpfefR6SGr36AwQ0GpgRg478GSlYIA~tplv-tiktokx-origin.webp?dr=1370&refresh_token=eb676d81&x-expires=1794960000&x-signature=mHZ6%2FqpI3xZBvsGvnUMOU74zOvg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "jorginho",
+      "authorName": "Jorginho",
+      "authorFollowers": null,
+      "views": 911717,
+      "likes": 132169,
+      "comments": 2114,
+      "shares": 6182,
+      "durationSec": null,
+      "postedAt": "2026-11-16T00:11:33.000Z",
+      "hashtags": [
+        "viral",
+        "jorginho",
+        "flamengo",
+        "fffffffyyyyypppp",
+        "xycba"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708541308188593429",
+      "url": "https://www.tiktok.com/@joseluistz/video/7708541308188593429",
+      "caption": "📰Desapareció en 1981, nadie la buscó en 11 años y, cuando la policía interrogó a sus padres...parecía que se hallaban frente a unos monstruos.  Hasta que alguien apareció. Esta es la historia de Mary Louise Day. #Suspenso #crimen #misterio #terror",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oseAJEEjzSDAr6ArslAqFz6Dfq4ADVIEOfE8hU~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=86fb93a6&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=MiFASgMnHyHk0Uh6F8bRPVZDn1Y%3D",
+      "author": "joseluistz",
+      "authorName": "Jos TZ",
+      "authorFollowers": null,
+      "views": 1976678,
+      "likes": 409148,
+      "comments": 457,
+      "shares": 23429,
+      "durationSec": null,
+      "postedAt": "2026-11-15T23:17:21.000Z",
+      "hashtags": [
+        "suspenso",
+        "crimen",
+        "misterio",
+        "terror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708265860145646855",
+      "url": "https://www.tiktok.com/@elchicharoo/video/7708265860145646855",
+      "caption": "Ya salieron y ya comenzo!💀🛸#criatura #juarez #misterio #pterodactyl #teoria",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUE3I4yfUy3IpMIj0QeV2CFJ4bwDcPADAf2T5C~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=5d53a7f6&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=9cFGEdAkzSIdxID2cZmIlHycrA0%3D",
+      "author": "elchicharoo",
+      "authorName": "ElChicharoo",
+      "authorFollowers": null,
+      "views": 2781698,
+      "likes": 326468,
+      "comments": 4626,
+      "shares": 47057,
+      "durationSec": null,
+      "postedAt": "2026-11-15T05:28:34.000Z",
+      "hashtags": [
+        "criatura",
+        "juarez",
+        "misterio",
+        "pterodactyl",
+        "teoria"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708553956779314465",
+      "url": "https://www.tiktok.com/@abyssnulo/video/7708553956779314465",
+      "caption": "Esta inquietante pintura de tres misteriosas figuras danzantes, creada por un artista desconocido, es uno de los enigmas más fascinantes dentro de la historia del arte clásico. Kai Cenat baile diabólico. Al realizar el análisis de esta obra, observamos a estas tres entidades sombrías bailando en una escena hipnótica que, según el simbolismo del lienzo, tiene el poder de envolver y poseer la voluntad de las personas que caen bajo su influjo. Si te apasiona descubrir el significado de los cuadros y sumergirte en los misterios del arte, esta pieza demuestra cómo la pintura puede retratar lo inexplicable y lo sobrenatural con una fuerza visual que atrapa al espectador. #pintura #artes #historiadelarte #diablo",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oQLSHAAyVDG8P6Q6F3FEghD2IeAjBYAIErfeMk~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=6c2b959b&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=sGjtjnhTp9HC7gd9T62DBBLQqO4%3D",
+      "author": "abyssnulo",
+      "authorName": "Abyss",
+      "authorFollowers": null,
+      "views": 800035,
+      "likes": 117994,
+      "comments": 398,
+      "shares": 6070,
+      "durationSec": null,
+      "postedAt": "2026-11-16T00:06:31.000Z",
+      "hashtags": [
+        "pintura",
+        "artes",
+        "historiadelarte",
+        "diablo"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708483534347963656",
+      "url": "https://www.tiktok.com/@nessemundo_br/video/7708483534347963656",
+      "caption": "Na entrada da minha cidade tem uma placa: \"População: 4.312... +1\". Todo mundo aqui é ator. Só uma pessoa é de verdade. 🎬 Assiste até o fim e me diz: você descobriu quem é o +1? #nessemundo #animação #misterio #plottwist #historias",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIDfUEeIBOURQCC0givPAqAAPipCAqBER0WRL6~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=3888e169&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=OGPqopwPuyjq1kIsJPsjB6CkmEk%3D",
+      "author": "nessemundo_br",
+      "authorName": "Nesse Mundo 🌎",
+      "authorFollowers": null,
+      "views": 379310,
+      "likes": 76982,
+      "comments": 448,
+      "shares": 5427,
+      "durationSec": null,
+      "postedAt": "2026-11-15T19:33:17.000Z",
+      "hashtags": [
+        "nessemundo",
+        "animação",
+        "misterio",
+        "plottwist",
+        "historias"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7707286866567040264",
+      "url": "https://www.tiktok.com/@tudoem608/video/7707286866567040264",
+      "caption": "De onde veio o nosso hábito de tomar tanto banho? #curiosidade #historia #animacao #banho #fypシ",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4g0tiurqBYjyTI9ABBt3GceiCRIUIfRJEmK18~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=fce69664&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=5OEmJsIovljaBFRAhLs4B46DMuc%3D",
+      "author": "tudoem608",
+      "authorName": "TudoEm60",
+      "authorFollowers": null,
+      "views": 1070647,
+      "likes": 145503,
+      "comments": 1592,
+      "shares": 5988,
+      "durationSec": null,
+      "postedAt": "2026-11-12T14:09:27.000Z",
+      "hashtags": [
+        "curiosidade",
+        "historia",
+        "animacao",
+        "banho",
+        "fypシ"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7707806793426013461",
+      "url": "https://www.tiktok.com/@construindo3d/video/7707806793426013461",
+      "caption": "Você deita pra dormir sem tomar banho? 😳 Olha o que vai parar no seu lençol... Manda pra quem faz isso também! 👇 #banho #dormir #higiene #lencol #pele",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ocBPAq6CfIFEEwFRWAIA3gAUZogfQ403AD9EXD~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=850f25d0&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=LChPUtscT%2FtyRxRDyYeS68XuuXo%3D",
+      "author": "construindo3d",
+      "authorName": "Curiosidades do Dia a Dia",
+      "authorFollowers": null,
+      "views": 2581634,
+      "likes": 105802,
+      "comments": 1038,
+      "shares": 44258,
+      "durationSec": null,
+      "postedAt": "2026-11-13T23:47:06.000Z",
+      "hashtags": [
+        "banho",
+        "dormir",
+        "higiene",
+        "lencol",
+        "pele"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7706727342374325524",
+      "url": "https://www.tiktok.com/@curiosacami/video/7706727342374325524",
+      "caption": "Curiosidades sobre o corpo humano 🧠 #curiosidades #corpohumano #anatomia #olho",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/og8qCntAEw2FCHlAeg5I8obARuIGDBAsEfBQTc~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=a7cbb804&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=lif9tts%2BNglA46r3ZbOuA3X56K4%3D",
+      "author": "curiosacami",
+      "authorName": "Curiosa Cami",
+      "authorFollowers": null,
+      "views": 225464,
+      "likes": 27550,
+      "comments": 221,
+      "shares": 695,
+      "durationSec": null,
+      "postedAt": "2026-11-11T01:58:18.000Z",
+      "hashtags": [
+        "curiosidades",
+        "corpohumano",
+        "anatomia",
+        "olho"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708525492856524053",
+      "url": "https://www.tiktok.com/@construindo3d/video/7708525492856524053",
+      "caption": "Você chega da rua e já se joga na cama? 😳 Olha o que vai parar no seu lençol... Manda pra quem faz isso! 👇 #cama #lencol #higiene #alergia #roupa",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okEA6VbIOEiAvAjM3XIADiiDeLBqOeANWfSRyo~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=a6d55d5f&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=gIb3xrCibiYsFYZ63pjPXkrNmmk%3D",
+      "author": "construindo3d",
+      "authorName": "Curiosidades do Dia a Dia",
+      "authorFollowers": null,
+      "views": 1522165,
+      "likes": 27221,
+      "comments": 382,
+      "shares": 30998,
+      "durationSec": null,
+      "postedAt": "2026-11-15T22:16:06.000Z",
+      "hashtags": [
+        "cama",
+        "lencol",
+        "higiene",
+        "alergia",
+        "roupa"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7707434937716051208",
+      "url": "https://www.tiktok.com/@curiosiclips/video/7707434937716051208",
+      "caption": "#fatoscuriosos #curiosidades #animais",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAsEA7GGPgVZLfj2woeCjMBZvP4fnJIZAID0Og~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=60dadc76&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=efdFyPKDZUjP2CDO03ACYkGva9s%3D",
+      "author": "curiosiclips",
+      "authorName": "Fatos e Curiosidades 🧠",
+      "authorFollowers": null,
+      "views": 93585,
+      "likes": 3281,
+      "comments": 10,
+      "shares": 91,
+      "durationSec": null,
+      "postedAt": "2026-11-12T23:44:14.000Z",
+      "hashtags": [
+        "fatoscuriosos",
+        "curiosidades",
+        "animais"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708397355686481172",
+      "url": "https://www.tiktok.com/@piluladesabedoria_/video/7708397355686481172",
+      "caption": "Um relógio diferente de tudo que você já viu! No aeroporto de Schiphol, em Amsterdã, existe uma instalação artística criada por Maarten Baas, na qual um homem desenha os ponteiros manualmente para representar a passagem do tempo. Uma das obras de arte mais curiosas do mundo! #curiosidades #relogio #fatoscuriosos",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIiuDA4iApvi62aBEnLYkjPdwAIBAmA5O0E2A~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=c28b1eba&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=2I1t8zQZtBhkle6jvPwctymKCyU%3D",
+      "author": "piluladesabedoria_",
+      "authorName": "Pilula de sabedoria",
+      "authorFollowers": null,
+      "views": 172424,
+      "likes": 3247,
+      "comments": 115,
+      "shares": 444,
+      "durationSec": null,
+      "postedAt": "2026-11-15T13:58:44.000Z",
+      "hashtags": [
+        "curiosidades",
+        "relogio",
+        "fatoscuriosos"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708912358776720648",
+      "url": "https://www.tiktok.com/@oladobda.historia/video/7708912358776720648",
+      "caption": "#curiosidades #historia #fatos #fatoscuriosos #eikebatista",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osW3EiMeA65rAEepVAIDuYFvEWD7o4fjEsAKDA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=78ab3610&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=OMxMhxWf3aXsN%2F9eAK2S%2BRb6lbo%3D",
+      "author": "oladobda.historia",
+      "authorName": "O lado B da história",
+      "authorFollowers": null,
+      "views": 66613,
+      "likes": 2583,
+      "comments": 25,
+      "shares": 43,
+      "durationSec": null,
+      "postedAt": "2026-11-16T23:17:16.000Z",
+      "hashtags": [
+        "curiosidades",
+        "historia",
+        "fatos",
+        "fatoscuriosos",
+        "eikebatista"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708035625424801025",
+      "url": "https://www.tiktok.com/@tvagostelo/video/7708035625424801025",
+      "caption": "O sistema secreto que monitora a pressão do seu pneu #vagostelo #vamoentender #carros #curiosidades #mundoautomotivo #fatoscuriosos",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUEa4vcAiPmihABIA6YKAlADwYb6AYJjjGyAl~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=59a2fce1&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=T%2F8Pe5e9Gu1jS2toB4z3B7IOJsY%3D",
+      "author": "tvagostelo",
+      "authorName": "Vagostelo",
+      "authorFollowers": null,
+      "views": 22007,
+      "likes": 1592,
+      "comments": 8,
+      "shares": 23,
+      "durationSec": null,
+      "postedAt": "2026-11-16T21:00:00.000Z",
+      "hashtags": [
+        "vagostelo",
+        "vamoentender",
+        "carros",
+        "curiosidades",
+        "mundoautomotivo",
+        "fatoscuriosos"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7706975496403176737",
+      "url": "https://www.tiktok.com/@talkin_guy/video/7706975496403176737",
+      "caption": "She says she won't hurt you. 👀 Trust her or drive? 👇 #horrortok #creepypasta #pov",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oIVqENFnAamZuFv0DADAI19fRAqQrCDEAKE6fa~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=7e0dc90e&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=pRayZSnnO%2FrVaTO8rznO48r4i3M%3D",
+      "author": "talkin_guy",
+      "authorName": "TalkinGuy",
+      "authorFollowers": null,
+      "views": 5709935,
+      "likes": 439586,
+      "comments": 17151,
+      "shares": 16879,
+      "durationSec": null,
+      "postedAt": "2026-11-11T18:01:09.000Z",
+      "hashtags": [
+        "horrortok",
+        "creepypasta",
+        "pov"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7707703490054720800",
+      "url": "https://www.tiktok.com/@talkin_guy/video/7707703490054720800",
+      "caption": "The Second Mom - Part 7 It's not chasing you. It's going for her. 👀 Go with her or run it over? 👇 #horrortok #creepypasta #pov",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/ocfqZDRDEwD9Q3XEVQFMlEAyD2A5IQC20gAmeA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=6f1dde90&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=4Os7snwMiM5ExcqgfpFQTXpLqkQ%3D",
+      "author": "talkin_guy",
+      "authorName": "TalkinGuy",
+      "authorFollowers": null,
+      "views": 2536833,
+      "likes": 234064,
+      "comments": 9200,
+      "shares": 8351,
+      "durationSec": null,
+      "postedAt": "2026-11-13T17:06:10.000Z",
+      "hashtags": [
+        "horrortok",
+        "creepypasta",
+        "pov"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708431116876647713",
+      "url": "https://www.tiktok.com/@talkin_guy/video/7708431116876647713",
+      "caption": "That's Not Mom - Part 8 FINAL It healed your broken leg… so it could take your skin. #horrortok #creepypasta #pov",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oUHIIAfYEFAPceAgQjoDM70wd3sAkyVzFGOfFn~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=bdd5fb76&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=OMe4mXXd0sefIpn6tFJwPSyc%2B4k%3D",
+      "author": "talkin_guy",
+      "authorName": "TalkinGuy",
+      "authorFollowers": null,
+      "views": 1918661,
+      "likes": 199875,
+      "comments": 3943,
+      "shares": 7966,
+      "durationSec": null,
+      "postedAt": "2026-11-15T16:09:43.000Z",
+      "hashtags": [
+        "horrortok",
+        "creepypasta",
+        "pov"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708070957352553741",
+      "url": "https://www.tiktok.com/@alexluvsmakeup/video/7708070957352553741",
+      "caption": "Replying to @𝓶𝓘𝓐 𝐫𝐀𝐍𝐓𝐒 🎀 Men go mad with watchin’ ‘em’! #russiansleepexperiment #creepypastas #creepypastamakeup #scarystories #makeupstorytime",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oQT2HQfDkIqrjXVIdIZIHeBJxE5AeEHAFAAKQA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=3756705c&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=V8WqE4Q2cKwG7%2BcwNwJPD8xJirU%3D",
+      "author": "alexluvsmakeup",
+      "authorName": "ALEXLUVSMAKEUP 🫧",
+      "authorFollowers": null,
+      "views": 1223637,
+      "likes": 88768,
+      "comments": 927,
+      "shares": 3867,
+      "durationSec": null,
+      "postedAt": "2026-11-14T16:52:28.000Z",
+      "hashtags": [
+        "russiansleepexperiment",
+        "creepypastas",
+        "creepypastamakeup",
+        "scarystories",
+        "makeupstorytime"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7706397723158678804",
+      "url": "https://www.tiktok.com/@lennondalsasso7/video/7706397723158678804",
+      "caption": "El Portero Que Despidieron Por Darle Una Torta A Un Niño Pobre… 10 Años Después Volvió El Muchacho 😢 Don Chuy llevaba 30 años abriendo el portón de una escuela privada. Un día vio a un muchacho humilde que no había comido nada y le regaló su torta… y por eso lo despidieron. Diez años después, ese mismo muchacho regresó con una sorpresa que nadie esperaba. 🙏 Porque nunca se sabe a quién estás ayudando. 👉 ¿Qué hubieras hecho tú en el lugar de Don Chuy? Cuéntanos en los comentarios. ❤️ Si esta historia te tocó el corazón, compártela y síguenos para más historias. #HistoriasReales #reflexiones #HistoriasQueTocanElCorazon #karma #HistoriasDeVida #mexico",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIerajfFAAA9AWP0AILwyPwGNeFtDenIGJJHlQ~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=85987ab8&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=O4eaZjttTLKnkq%2BO%2Bio3RNb0BTI%3D",
+      "author": "lennondalsasso7",
+      "authorName": "Lecciones de Vida",
+      "authorFollowers": null,
+      "views": 2750987,
+      "likes": 231915,
+      "comments": 11113,
+      "shares": 12282,
+      "durationSec": null,
+      "postedAt": "2026-11-10T04:39:09.000Z",
+      "hashtags": [
+        "historiasreales",
+        "reflexiones",
+        "historiasquetocanelcorazon",
+        "karma",
+        "historiasdevida",
+        "mexico"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7706948326616288520",
+      "url": "https://www.tiktok.com/@itsvictoriahale/video/7706948326616288520",
+      "caption": "Caso Beth Thomás, a ira de um anjo. #historiasreais #casosreais #historias",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUSIoLGGjIDi5QUt40IQfbCAlFYANz8p6Ve2jf~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=f4700a22&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=RWJjHZf0HEHXiOy2705Tx%2F9s%2F3Q%3D",
+      "author": "itsvictoriahale",
+      "authorName": "itsvictoriahale",
+      "authorFollowers": null,
+      "views": 1097905,
+      "likes": 182328,
+      "comments": 2570,
+      "shares": 3102,
+      "durationSec": null,
+      "postedAt": "2026-11-11T16:15:49.000Z",
+      "hashtags": [
+        "historiasreais",
+        "casosreais",
+        "historias"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708785048111287573",
+      "url": "https://www.tiktok.com/@luz.de.cristo.02/video/7708785048111287573",
+      "caption": "#historiareal #novelas #contos",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQfUBoQMO38DQ3fbNVj2IapAleXBbjA9tTCkkA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=d85b6aa5&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=WvbM1HnR7cotlt0syjSFlV2kwVA%3D",
+      "author": "luz.de.cristo.02",
+      "authorName": "Luz de Cristo 02",
+      "authorFollowers": null,
+      "views": 469209,
+      "likes": 34066,
+      "comments": 1985,
+      "shares": 381,
+      "durationSec": null,
+      "postedAt": "2026-11-16T15:03:09.000Z",
+      "hashtags": [
+        "historiareal",
+        "novelas",
+        "contos"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708920771879406854",
+      "url": "https://www.tiktok.com/@mundo.contrucao/video/7708920771879406854",
+      "caption": "Transformei esse córrego no meu terreno em minha praia particular #casa #obra #construção #historiareal #timelapse",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0QI7FVF5CC8DjDOQfhbE4MAEXlKMegubfWAjr~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=48ed436d&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1794902400&x-signature=y1va21sL%2Fad9T6OrO0fpNl5gsVA%3D",
+      "author": "mundo.contrucao",
+      "authorName": "Mundo Em Construção 🌎",
+      "authorFollowers": null,
+      "views": 366446,
+      "likes": 18559,
+      "comments": 198,
+      "shares": 623,
+      "durationSec": null,
+      "postedAt": "2026-11-16T23:49:53.000Z",
+      "hashtags": [
+        "casa",
+        "obra",
+        "construção",
+        "historiareal",
+        "timelapse"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    }
+  ]
+}
