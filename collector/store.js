@@ -1,6 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
 
+import { mergeItems } from "./aggregate.js";
+
 const SNAPSHOT_NAME = /^(\d{4}-\d{2}-\d{2}T\d{2})\.json$/;
 
 export function snapshotFileName(iso) {
@@ -22,7 +24,26 @@ function writeJson(file, value) {
 
 export function writeSnapshot(outDir, snapshot) {
   const file = path.join(snapshotDir(outDir), snapshotFileName(snapshot.collectedAt));
-  writeJson(file, snapshot);
+  let finalSnapshot = snapshot;
+  if (fs.existsSync(file)) {
+    try {
+      const existing = JSON.parse(fs.readFileSync(file, "utf8"));
+      if (existing && Array.isArray(existing.items) && existing.collectedAt !== snapshot.collectedAt) {
+        const keywords = new Set([...(existing.keywords || []), ...(snapshot.keywords || [])]);
+        finalSnapshot = {
+          ...existing,
+          ...snapshot,
+          itemsReceived: (existing.itemsReceived ?? 0) + (snapshot.itemsReceived ?? 0),
+          estimatedUsd: Number(((existing.estimatedUsd ?? 0) + (snapshot.estimatedUsd ?? 0)).toFixed(4)),
+          keywords: [...keywords],
+          items: mergeItems([...existing.items, ...(snapshot.items || [])]),
+        };
+      }
+    } catch {
+      // Se o snapshot anterior estiver corrompido, sobrescreve com o novo.
+    }
+  }
+  writeJson(file, finalSnapshot);
   return file;
 }
 

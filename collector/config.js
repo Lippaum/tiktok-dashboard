@@ -35,6 +35,15 @@ export function loadConfig(file) {
   if (!PUBLISH_TIMES.has(publishTime)) {
     throw new Error("search.publishTime precisa ser 0, 1, 7, 30, 90 ou 180.");
   }
+  let publishTimes = null;
+  if (Array.isArray(raw.search?.publishTimes) && raw.search.publishTimes.length > 0) {
+    publishTimes = raw.search.publishTimes.map((entry) => String(entry));
+    for (const entry of publishTimes) {
+      if (!PUBLISH_TIMES.has(entry)) {
+        throw new Error("Cada item em search.publishTimes precisa ser 0, 1, 7, 30, 90 ou 180.");
+      }
+    }
+  }
   const keywords = raw.search?.keywords;
   if (!Array.isArray(keywords) || keywords.length === 0) {
     throw new Error("search.keywords precisa ter pelo menos uma busca.");
@@ -62,6 +71,7 @@ export function loadConfig(file) {
       actorId: raw.search.actorId,
       sortType,
       publishTime,
+      publishTimes,
       maxResultsPerKeyword: requireInteger(raw.search.maxResultsPerKeyword, "maxResultsPerKeyword", 1, 20),
       keywordsPerRun: requireInteger(raw.search.keywordsPerRun, "keywordsPerRun", 1, keywords.length),
       keywords: keywords.map((keyword) => ({
@@ -72,11 +82,26 @@ export function loadConfig(file) {
   };
 }
 
-export function selectKeywords(keywords, perRun, now, intervalHours) {
+function findNextStartFromSnapshots(keywords, previousSnapshots) {
+  if (!Array.isArray(previousSnapshots) || previousSnapshots.length === 0) return null;
+  const indexByQuery = new Map(keywords.map((entry, idx) => [entry.query.toLowerCase(), idx]));
+  for (let i = previousSnapshots.length - 1; i >= 0; i -= 1) {
+    const used = previousSnapshots[i]?.keywords;
+    if (!Array.isArray(used) || used.length === 0) continue;
+    for (let j = used.length - 1; j >= 0; j -= 1) {
+      const idx = indexByQuery.get(String(used[j] || "").trim().toLowerCase());
+      if (idx != null) return (idx + 1) % keywords.length;
+    }
+  }
+  return null;
+}
+
+export function selectKeywords(keywords, perRun, now, intervalHours, previousSnapshots = null) {
   const take = Math.min(perRun, keywords.length);
   if (take >= keywords.length) return keywords.slice();
+  const cursorStart = findNextStartFromSnapshots(keywords, previousSnapshots);
   const slot = Math.floor(now.getTime() / (intervalHours * 3_600_000));
-  const start = (slot * take) % keywords.length;
+  const start = cursorStart != null ? cursorStart : (slot * take) % keywords.length;
   const chosen = [];
   for (let index = 0; index < take; index += 1) {
     chosen.push(keywords[(start + index) % keywords.length]);
@@ -124,12 +149,18 @@ export function buildTrendingInput(config) {
   };
 }
 
-export function buildSearchInput(config, keywords) {
+export function buildSearchInput(config, keywords, options = {}) {
+  const runIndex = Number.isInteger(options.runIndex) && options.runIndex >= 0 ? options.runIndex : 0;
+  const publishTimes = config.search.publishTimes;
+  const publishTime =
+    Array.isArray(publishTimes) && publishTimes.length > 0
+      ? publishTimes[runIndex % publishTimes.length]
+      : config.search.publishTime;
   return {
     keywords: keywords.map((keyword) => keyword.query),
     region: config.region,
     sortType: config.search.sortType,
-    publishTime: config.search.publishTime,
+    publishTime,
     maxResultsPerKeyword: config.search.maxResultsPerKeyword,
   };
 }
