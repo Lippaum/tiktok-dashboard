@@ -42,6 +42,14 @@ jobs:
         with:
           node-version: 22
 
+      - name: Cache de capas
+        uses: actions/cache@v4
+        with:
+          path: .cover-cache
+          key: cover-cache-v1-${{ github.run_id }}
+          restore-keys: |
+            cover-cache-v1-
+
       - name: Exigir o segredo APIFY_TOKEN
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
@@ -54,7 +62,7 @@ jobs:
       - name: Coletar
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
-        run: node collector/collect.js
+        run: node collector/collect.js --cover-cache .cover-cache
 
       - name: Salvar dados no repositório
         id: commit
@@ -76,7 +84,7 @@ jobs:
 
       - name: Montar o site
         if: steps.commit.outputs.changed == 'true'
-        run: bash scripts/assemble-site.sh
+        run: node scripts/assemble-site.js --cover-cache .cover-cache
 
       - name: Enviar o site
         if: steps.commit.outputs.changed == 'true'

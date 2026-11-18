@@ -1,5 +1,6 @@
 node_modules/
 .demo-data/
+.cover-cache/
 _site/
 dist/
 .env

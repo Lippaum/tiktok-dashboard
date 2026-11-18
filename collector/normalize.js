@@ -70,21 +70,48 @@ function aiMetaFrom(raw) {
   return false;
 }
 
-function durationSeconds(raw) {
-  const meta = toNumber(readPath(raw, ["videoMeta", "duration"]));
-  if (meta != null && meta >= 0 && meta < 1000) return Math.round(meta);
-  if (meta != null && meta >= 1000) return Math.round(meta / 1000);
+function normalizeDurationValue(value) {
+  if (value == null || value <= 0) return null;
+  if (value >= 1000) return Math.round(value / 1000);
+  return Math.round(value);
+}
 
-  const explicitMs = toNumber(firstDefined([raw.durationMs, readPath(raw, ["video", "durationMs"])]));
-  if (explicitMs != null) return Math.round(explicitMs / 1000);
+function durationSeconds(raw) {
+  const meta = toNumber(
+    firstDefined([
+      readPath(raw, ["videoMeta", "duration"]),
+      readPath(raw, ["videoMeta", "durationSeconds"]),
+      readPath(raw, ["itemStruct", "video", "duration"]),
+    ]),
+  );
+  const fromMeta = normalizeDurationValue(meta);
+  if (fromMeta != null) return fromMeta;
+
+  const explicitMs = toNumber(
+    firstDefined([
+      raw.durationMs,
+      raw.duration_ms,
+      readPath(raw, ["video", "durationMs"]),
+      readPath(raw, ["video", "duration_ms"]),
+    ]),
+  );
+  if (explicitMs != null && explicitMs > 0) return Math.round(explicitMs / 1000);
 
   const rawVideo = toNumber(readPath(raw, ["video", "duration"]));
-  if (rawVideo != null) return rawVideo >= 1000 ? Math.round(rawVideo / 1000) : Math.round(rawVideo);
+  const fromVideo = normalizeDurationValue(rawVideo);
+  if (fromVideo != null) return fromVideo;
 
-  const top = toNumber(firstDefined([raw.duration, raw.durationSec, raw.videoDuration]));
-  if (top == null) return null;
-  if (top >= 1000) return Math.round(top / 1000);
-  return Math.round(top);
+  const top = toNumber(
+    firstDefined([
+      raw.duration,
+      raw.durationSec,
+      raw.durationSeconds,
+      raw.duration_seconds,
+      raw.videoDuration,
+      raw.videoDurationSeconds,
+    ]),
+  );
+  return normalizeDurationValue(top);
 }
 
 function postedAtFrom(raw) {
@@ -124,7 +151,7 @@ function coverFrom(raw) {
     const url = asUrl(candidate);
     if (!url) continue;
     if (/^https:\/\//i.test(url)) return url;
-    if (/^covers\/[\w.\-]+\.svg$/.test(url)) return url;
+    if (/^covers\/(?:cache\/)?[\w.\-]+\.(?:svg|webp|jpg|png|avif)$/i.test(url)) return url;
   }
   return null;
 }
@@ -158,11 +185,6 @@ function idFromAnywhere(raw) {
   return null;
 }
 
-/**
- * Aceita o formato descrito pela Kaito (playCount, authorMeta, videoMeta,
- * videoUrlNoWatermark), o formato achatado do clockworks e o JSON cru do TikTok.
- * Devolve null quando não há id ou visualizações — a coleta falha se nada sobrar.
- */
 export function normalizeItem(raw, source) {
   if (!raw || typeof raw !== "object" || Array.isArray(raw)) return null;
 
@@ -198,6 +220,10 @@ export function normalizeItem(raw, source) {
     raw.authorNickname,
     raw.nickname,
   ]);
+  const cleanNick =
+    typeof authorNameRaw === "string"
+      ? authorNameRaw.replace(/[\uFFA0\u3164\u200B-\u200D\uFEFF]/g, "").trim() || null
+      : null;
 
   return {
     id,
@@ -205,13 +231,17 @@ export function normalizeItem(raw, source) {
     caption: captionText,
     coverUrl: coverFrom(raw),
     author,
-    authorName: typeof authorNameRaw === "string" ? authorNameRaw.trim() : null,
+    authorName: cleanNick,
     authorFollowers: toNumber(firstDefined([
       readPath(raw, ["authorMeta", "fans"]),
+      readPath(raw, ["authorMeta", "followerCount"]),
       readPath(raw, ["authorStats", "followerCount"]),
+      readPath(raw, ["authorStats", "fans"]),
       readPath(raw, ["author", "followerCount"]),
       readPath(raw, ["author", "follower_count"]),
       raw.followerCount,
+      raw.followers,
+      raw.authorFans,
       raw.fans,
       raw.authorFollowers,
     ])),
@@ -237,6 +267,15 @@ export function normalizeItem(raw, source) {
       readPath(raw, ["statistics", "share_count"]),
       readPath(raw, ["statistics", "shareCount"]),
       raw.shares,
+    ])) ?? 0,
+    saves: toNumber(firstDefined([
+      raw.collectCount,
+      raw.saveCount,
+      raw.favoritesCount,
+      readPath(raw, ["stats", "collectCount"]),
+      readPath(raw, ["statistics", "collect_count"]),
+      readPath(raw, ["statistics", "collectCount"]),
+      raw.saves,
     ])) ?? 0,
     durationSec: durationSeconds(raw),
     postedAt: postedAtFrom(raw),

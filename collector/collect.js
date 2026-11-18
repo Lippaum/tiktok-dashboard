@@ -12,6 +12,7 @@ import {
   loadConfig,
   selectKeywords,
 } from "./config.js";
+import { cacheCovers } from "./covers.js";
 import { loadFixtureSnapshots } from "./fixtures.js";
 import { normalizeItem } from "./normalize.js";
 import { pruneSnapshots, readSnapshots, writeCatalog, writeSnapshot } from "./store.js";
@@ -20,9 +21,11 @@ import { redact, round, sampleKeys } from "./util.js";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
 const HELP = `Uso:
-  node collector/collect.js              coleta ao vivo (exige APIFY_TOKEN)
-  node collector/collect.js --fixture    gera dados de exemplo em .demo-data/
-  node collector/collect.js --out <dir>  pasta de saída (padrão: data/)
+  node collector/collect.js                       coleta ao vivo (exige APIFY_TOKEN)
+  node collector/collect.js --fixture             gera dados de exemplo em .demo-data/
+  node collector/collect.js --rebuild             recalcula videos.json a partir dos snapshots existentes
+  node collector/collect.js --out <dir>           pasta de saída (padrão: data/)
+  node collector/collect.js --cover-cache <dir>   baixa capas ativas para cache local
   node collector/collect.js --config <arquivo>
 `;
 
@@ -43,13 +46,22 @@ function loadDotEnv(file, env) {
 }
 
 function parseArgs(argv) {
-  const options = { fixture: false, out: null, config: null, fixtureFile: null };
+  const options = {
+    fixture: false,
+    rebuild: false,
+    out: null,
+    config: null,
+    fixtureFile: null,
+    coverCache: null,
+  };
   for (let index = 0; index < argv.length; index += 1) {
     const arg = argv[index];
     if (arg === "--fixture") options.fixture = true;
+    else if (arg === "--rebuild") options.rebuild = true;
     else if (arg === "--out") options.out = path.resolve(argv[++index] || "");
     else if (arg === "--config") options.config = path.resolve(argv[++index] || "");
     else if (arg === "--fixture-file") options.fixtureFile = path.resolve(argv[++index] || "");
+    else if (arg === "--cover-cache") options.coverCache = path.resolve(argv[++index] || "");
     else if (arg === "--help" || arg === "-h") {
       console.log(HELP);
       process.exit(0);
@@ -79,7 +91,7 @@ function takeItems(rawItems, source, limit) {
   return { items, skipped };
 }
 
-async function collectLive(config, env, now, estimate) {
+async function collectLive(config, env, now, estimate, previousSnapshots) {
   const token = String(env.APIFY_TOKEN || "").trim();
   if (!token) throw new Error(MISSING_TOKEN_MESSAGE);
 
@@ -100,9 +112,11 @@ async function collectLive(config, env, now, estimate) {
     config.search.keywordsPerRun,
     now,
     config.intervalHours,
+    previousSnapshots,
   );
+  const runIndex = Array.isArray(previousSnapshots) ? previousSnapshots.length : 0;
   const trendingInput = buildTrendingInput(config);
-  const searchInput = buildSearchInput(config, keywords);
+  const searchInput = buildSearchInput(config, keywords, { runIndex });
   console.log(
     `Teto deste run: ${estimate.perRun} resultados, cerca de US$ ${estimate.perRunUsd.toFixed(4)}. ` +
       `Teto do mês: US$ ${estimate.monthlyUsd.toFixed(2)}.`,
@@ -125,6 +139,11 @@ async function collectLive(config, env, now, estimate) {
     throw new Error(
       `Nenhum vídeo identificável. A Apify devolveu ${received} itens e ${skipped} foram ignorados. ` +
         "Os dados antigos foram mantidos. Se o formato do actor mudou, ajuste collector/normalize.js.",
+    );
+  }
+  if (items.every((item) => item.durationSec == null) && (trending.items[0] || search.items[0])) {
+    console.log(
+      `Nota: nenhum item trouxe duração. Chaves brutas da amostra: ${sampleKeys(trending.items[0] || search.items[0])}`,
     );
   }
   if (received > estimate.perRun) {
@@ -165,20 +184,33 @@ export async function main(argv = process.argv.slice(2), env = process.env) {
     );
   }
   const now = new Date();
-  const snapshots = options.fixture
-    ? loadFixtureSnapshots(options.fixtureFile || path.join(root, "fixtures/scenario.json"), now)
-    : await collectLive(config, env, now, estimate);
+  if (!options.rebuild) {
+    const existingSnapshots = options.fixture ? [] : readSnapshots(outDir);
+    const snapshots = options.fixture
+      ? loadFixtureSnapshots(options.fixtureFile || path.join(root, "fixtures/scenario.json"), now)
+      : await collectLive(config, env, now, estimate, existingSnapshots);
 
-  if (options.fixture) fs.rmSync(path.join(outDir, "snapshots"), { recursive: true, force: true });
-  fs.mkdirSync(path.join(outDir, "snapshots"), { recursive: true });
-  for (const snapshot of snapshots) writeSnapshot(outDir, snapshot);
-  const removed = pruneSnapshots(outDir, config.keepSnapshots);
-  if (removed.length) console.log(`Snapshots antigos removidos: ${removed.length}.`);
+    if (options.fixture) fs.rmSync(path.join(outDir, "snapshots"), { recursive: true, force: true });
+    fs.mkdirSync(path.join(outDir, "snapshots"), { recursive: true });
+    for (const snapshot of snapshots) writeSnapshot(outDir, snapshot);
+    const removed = pruneSnapshots(outDir, config.keepSnapshots);
+    if (removed.length) console.log(`Snapshots antigos removidos: ${removed.length}.`);
+  }
+
   const all = readSnapshots(outDir);
   const catalog = buildCatalog(all, {
+    now,
     region: config.region,
     maxHistoryPoints: config.maxHistoryPoints,
   });
+
+  if (options.coverCache && catalog.videos.length > 0) {
+    const cached = await cacheCovers(catalog.videos, options.coverCache, { now });
+    if (cached.size > 0) {
+      console.log(`Capas em cache local: ${cached.size}.`);
+    }
+  }
+
   writeCatalog(outDir, catalog);
   const faceless = catalog.videos.filter((video) => video.faceless).length;
   console.log(

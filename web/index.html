@@ -19,9 +19,9 @@
         <p class="kicker">TikTok · Brasil</p>
         <h1>Radar <em>Viral</em></h1>
         <p class="lede">
-          Os vídeos que mais sobem no Brasil, com um filtro para formatos sem rosto e feitos com IA:
-          narração, imagem, terror, curiosidade, voz sintética, chat fictício e meme.
-          Serve para escolher um formato parecido. A meta da conta é 10 mil seguidores e 100 mil visualizações em 30 dias.
+          Os vídeos que mais sobem no Brasil, com foco em formatos replicáveis sem rosto e feitos com IA:
+          narração, imagem, animação 3D, terror, curiosidade, chat fictício, histórias e meme.
+          A meta da conta é 10 mil seguidores e 100 mil visualizações em 30 dias.
         </p>
       </div>
       <div class="status" aria-live="polite">
@@ -34,6 +34,10 @@
     <p id="banner" class="banner" hidden></p>
 
     <section class="filters" aria-label="Filtros">
+      <label class="field field-search">
+        <span>Buscar gancho, #tag ou @autor</span>
+        <input id="search" type="search" placeholder="Ex.: você sabia, #frutinovelas, @autor… (atalho /)" autocomplete="off">
+      </label>
       <label class="field">
         <span>Nicho</span>
         <select id="niche">
@@ -44,16 +48,29 @@
           <option value="curiosidades">Curiosidades</option>
           <option value="narracao">Narração</option>
           <option value="conversas">Conversas</option>
+          <option value="historias">Histórias</option>
           <option value="memes">Memes</option>
           <option value="outros">Outros</option>
         </select>
       </label>
-      <label class="switch">
-        <input id="faceless" type="checkbox">
-        <span>Só sem rosto/IA</span>
+      <label class="field">
+        <span>Idioma</span>
+        <select id="lang">
+          <option value="br">Foco Brasil</option>
+          <option value="pt">Só Português</option>
+          <option value="todos">Todos os idiomas</option>
+        </select>
       </label>
       <label class="field">
-        <span>Duração</span>
+        <span>Atividade</span>
+        <select id="fresh">
+          <option value="todas">Todo o radar (7 dias)</option>
+          <option value="36">Ativos nas últimas 36h</option>
+          <option value="12">Última coleta (12h)</option>
+        </select>
+      </label>
+      <label class="field">
+        <span id="duration-label">Duração</span>
         <select id="duration">
           <option value="todas">Qualquer duração</option>
           <option value="short">Até 30s</option>
@@ -65,6 +82,7 @@
         <span>Publicado</span>
         <select id="posted">
           <option value="todas">Qualquer data</option>
+          <option value="1">Últimas 24 horas</option>
           <option value="7">Últimos 7 dias</option>
           <option value="30">Últimos 30 dias</option>
         </select>
@@ -72,33 +90,52 @@
       <label class="field">
         <span>Ordenar por</span>
         <select id="sort">
-          <option value="growth">Crescimento</option>
+          <option value="breakout">Explosão recente</option>
+          <option value="growth">Crescimento/hora</option>
+          <option value="growthRaw">Crescimento bruto</option>
           <option value="vph">Visualizações/hora</option>
           <option value="views">Visualizações</option>
           <option value="engagement">Engajamento</option>
         </select>
       </label>
-      <div class="view-toggle" role="group" aria-label="Visualização">
-        <button type="button" data-view="cards" class="is-active" aria-pressed="true">Cards</button>
-        <button type="button" data-view="table" aria-pressed="false">Tabela</button>
+      <div class="toolbar-row">
+        <label class="switch">
+          <input id="faceless" type="checkbox">
+          <span>Só sem rosto/IA</span>
+        </label>
+        <button type="button" class="chip-btn" id="saved-only" aria-pressed="false">★ Salvos (0)</button>
+        <button type="button" class="chip-btn" id="export-csv" title="Baixar planilha CSV dos vídeos filtrados">Exportar CSV</button>
+        <div class="view-toggle" role="group" aria-label="Visualização">
+          <button type="button" data-view="cards" class="is-active" aria-pressed="true">Cards</button>
+          <button type="button" data-view="table" aria-pressed="false">Tabela</button>
+        </div>
       </div>
     </section>
 
-    <p class="count" id="count" aria-live="polite"></p>
+    <section id="summary" class="summary" aria-label="Resumo do recorte" hidden></section>
+
+    <div class="count-bar">
+      <p class="count" id="count" aria-live="polite"></p>
+      <button type="button" class="link-reset" id="reset-inline" hidden>Restaurar filtros padrão</button>
+    </div>
+
     <div id="lista" class="grid">
       <p class="loading">Carregando os vídeos…</p>
+    </div>
+    <div id="more-wrap" class="more-wrap" hidden>
+      <button type="button" class="more-btn" id="load-more">Mostrar mais vídeos</button>
     </div>
 
     <footer class="foot">
       <p id="cost"></p>
       <p>
-        Sem rosto/IA é uma heurística: olha a legenda, as hashtags e, quando a Apify manda, um metadado de conteúdo gerado.
-        Não confirma que o vídeo é sem rosto ou feito por IA.
+        Sem rosto/IA é uma heurística: cruza legenda, hashtags, sinais do perfil e, quando a Apify manda, metadado de conteúdo gerado.
+        Não confirma sozinha que o vídeo é sem rosto ou feito por IA.
       </p>
       <p>
-        Engajamento = (curtidas + comentários + compartilhamentos) ÷ visualizações.
-        Crescimento = visualizações a mais desde a coleta anterior.
-        Visualizações/hora = visualizações ÷ horas desde a publicação, medidas na hora da coleta.
+        Explosão prioriza velocidade recente em vídeos novos no Brasil.
+        Engajamento = (curtidas + comentários + compartilhamentos + salvamentos) ÷ visualizações.
+        Crescimento/hora = visualizações ganhas ÷ horas entre as duas últimas coletas do vídeo.
       </p>
     </footer>
     <noscript><p class="banner">Ative o JavaScript para ver o painel.</p></noscript>

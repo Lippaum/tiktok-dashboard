@@ -10,6 +10,8 @@
     "test": "node --test",
     "collect": "node collector/collect.js",
     "collect:fixture": "node collector/collect.js --fixture",
+    "rebuild": "node collector/collect.js --rebuild",
+    "build": "node scripts/assemble-site.js",
     "demo": "node collector/collect.js --fixture && node preview.js --data .demo-data/videos.json --port 4173"
   }
 }
