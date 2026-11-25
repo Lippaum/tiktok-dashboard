@@ -1,0 +1,905 @@
+{
+  "collectedAt": "2026-11-25T00:31:01.194Z",
+  "region": "BR",
+  "mode": "live",
+  "itemsReceived": 35,
+  "estimatedUsd": 0.0088,
+  "keywords": [
+    "historiasdeterror",
+    "terror",
+    "misterio",
+    "curiosidades",
+    "fatoscuriosos"
+  ],
+  "actors": {
+    "trending": {
+      "id": "kaitoeasyapi/tiktok-trending-feed-scraper",
+      "input": {
+        "regions": [
+          "BR"
+        ],
+        "maxVideosPerRegion": 15
+      },
+      "returned": 15
+    },
+    "search": {
+      "id": "kaitoeasyapi/tiktok-search-scraper",
+      "input": {
+        "keywords": [
+          "historiasdeterror",
+          "terror",
+          "misterio",
+          "curiosidades",
+          "fatoscuriosos"
+        ],
+        "region": "BR",
+        "sortType": "1",
+        "publishTime": "7",
+        "maxResultsPerKeyword": 4
+      },
+      "returned": 20
+    }
+  },
+  "items": [
+    {
+      "id": "7711432108677319937",
+      "url": "https://www.tiktok.com/@omelete/video/7711432108677319937",
+      "caption": "SINUCA, MOTOCROSS E MAIS! 🎮 GTA 6 chegou com uma lista incrível de atividades secundárias, e claro que a gente já jogou uma sinuquinha.  Qual a sua atividade favorita até agora? Conta pra gente nos comentários! #GTAVI #GrandTheftAutoVI",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQVJRIoNrIUAEAB5BCBFeAKEQyDA24A2vgfaVo~tplv-tiktokx-origin.webp?dr=1370&refresh_token=04afb9b6&x-expires=1795647600&x-signature=p5nbrzdJTTd5qHLlHTw0%2BTWJ9mg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&s=FEED&sc=cover&biz_tag=tt_video",
+      "author": "omelete",
+      "authorName": "Omelete",
+      "authorFollowers": null,
+      "views": 1085480,
+      "likes": 12274,
+      "comments": 74,
+      "shares": 150,
+      "durationSec": null,
+      "postedAt": "2026-11-23T18:15:15.000Z",
+      "hashtags": [
+        "gtavi",
+        "grandtheftautovi"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710971632277310728",
+      "url": "https://www.tiktok.com/@novafogooficial/video/7710971632277310728",
+      "caption": "Um vídeo impressionante voltou a viralizar nas redes e mostra um tubarão enorme passando colado em um submarino, centenas de metros abaixo da superfície. O animal é um tubarão de seis guelras, também conhecido como tubarão albafar. Ele é um dos maiores predadores do fundo do mar e pertence a uma espécie tão antiga que já existia antes da maioria dos dinossauros. As imagens foram feitas em 2019, durante uma expedição científica nas Bahamas. O tubarão filmado tinha cerca de 6 metros e, segundo a equipe, era quase do tamanho do próprio submarino. Dentro da cabine, os pesquisadores ficaram de boca aberta com a largura do bicho. O objetivo da missão era colocar um rastreador no tubarão para estudar como ele vive, já que quase não se sabe nada sobre essa espécie. E deu certo: foi a primeira vez na história que um tubarão foi marcado a partir de um submarino. Apesar do tamanho, esse tubarão não é considerado uma ameaça para humanos, a não ser que seja provocado. Siga o Nova Fogo e acompanhe para mais notícias.",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/osEfdEoDWCvs73wFEHlbQAQ8IDmFfBQAJjQeAM~tplv-tiktokx-origin.webp?dr=1370&refresh_token=2fcae545&x-expires=1795647600&x-signature=Tm4Wj6Bx2XlQ8T%2FtIl%2BPEU197Ns%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "novafogooficial",
+      "authorName": "Nova Fogo",
+      "authorFollowers": null,
+      "views": 2356023,
+      "likes": 217934,
+      "comments": 1956,
+      "shares": 18212,
+      "durationSec": null,
+      "postedAt": "2026-11-22T12:28:16.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711516046531775764",
+      "url": "https://www.tiktok.com/@geglobo/video/7711516046531775764",
+      "caption": "Neymar, Coutinho, Gabigol, Rodinei, Bontempo, Arthur, Cebolinha... o time do Santos tá de cabelo loiro! 👱🏼‍♂️✅ #futebol #santos #brasileirão #ge",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ownyElCrBgAI9AVAAibvfAdAEfyBBi27McYz1C~tplv-tiktokx-origin.webp?dr=1370&refresh_token=0bfcb152&x-expires=1795647600&x-signature=YkET%2FHQklUbfxrznZ%2B0H6tY28eA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&s=FEED&sc=cover&biz_tag=tt_video",
+      "author": "geglobo",
+      "authorName": "geglobo",
+      "authorFollowers": null,
+      "views": 2668834,
+      "likes": 620316,
+      "comments": 2658,
+      "shares": 36472,
+      "durationSec": null,
+      "postedAt": "2026-11-23T23:40:54.000Z",
+      "hashtags": [
+        "futebol",
+        "santos",
+        "brasileirão",
+        "ge"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711560162770717960",
+      "url": "https://www.tiktok.com/@macedinhuh/video/7711560162770717960",
+      "caption": "Tadinho! ☹️ #fofoca #gabrielfelix #luto",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYYHEpJERUjfccom7gKPeQlBQAbrroDGmZlBFB~tplv-tiktokx-origin.webp?dr=1370&refresh_token=0c8b334d&x-expires=1795647600&x-signature=Ia7DCAUkxljSmdWp5%2FOX%2FyI2K2s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "macedinhuh",
+      "authorName": "+cedinho",
+      "authorFollowers": null,
+      "views": 617486,
+      "likes": 70137,
+      "comments": 1566,
+      "shares": 350,
+      "durationSec": null,
+      "postedAt": "2026-11-24T02:32:11.000Z",
+      "hashtags": [
+        "fofoca",
+        "gabrielfelix",
+        "luto"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711109756584299783",
+      "url": "https://www.tiktok.com/@big.indica/video/7711109756584299783",
+      "caption": "#cr7 #natal #tiktokshopbr1212",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYI46RBrZADX0FAEwJgDYgAEceBfA4lp1Im8E1~tplv-tiktokx-origin.webp?dr=1370&refresh_token=e1e3d20c&x-expires=1795647600&x-signature=sHesKx%2FI9RXB3xa%2BFtMQA8%2F1k8A%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "big.indica",
+      "authorName": "big.indica",
+      "authorFollowers": null,
+      "views": 1090788,
+      "likes": 51649,
+      "comments": 174,
+      "shares": 4041,
+      "durationSec": null,
+      "postedAt": "2026-11-22T21:24:23.000Z",
+      "hashtags": [
+        "cr7",
+        "natal",
+        "tiktokshopbr1212"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711565492787481862",
+      "url": "https://www.tiktok.com/@tntsportsbr/video/7711565492787481862",
+      "caption": "RIVAIS SIM, INIMIGOS JAMAIS! ♾️♾️ Já foram companheiros de Seleçao Brasileira e agora estão se enfrentando pelo #brasileirão. #FBR",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okZJVkxEAdVcAQUIHCFrAfADgscEABwFfPBCj4~tplv-tiktokx-origin.webp?dr=1370&refresh_token=11f76f83&x-expires=1795647600&x-signature=vbdyFaOFO1JKmAib2Z3uD%2FeTZlc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "tntsportsbr",
+      "authorName": "TNT Sports Brasil",
+      "authorFollowers": null,
+      "views": 1043942,
+      "likes": 33210,
+      "comments": 87,
+      "shares": 177,
+      "durationSec": null,
+      "postedAt": "2026-11-24T02:54:21.000Z",
+      "hashtags": [
+        "brasileirão",
+        "fbr"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710969354220817682",
+      "url": "https://www.tiktok.com/@garottoanonimo/video/7710969354220817682",
+      "caption": "#viral #viralizando",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0YRDEg2IVrBlRE5QBFo0UFpkAYCuBftvfA83K~tplv-tiktokx-origin.webp?dr=1370&refresh_token=v3_f645b4b1&x-expires=1795647600&x-signature=KBl7SvNxt8XT53%2Btt7V8CLBeEdE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "garottoanonimo",
+      "authorName": "Garoto Anônimo",
+      "authorFollowers": null,
+      "views": 1263824,
+      "likes": 384582,
+      "comments": 806,
+      "shares": 14976,
+      "durationSec": null,
+      "postedAt": "2026-11-22T12:19:29.000Z",
+      "hashtags": [
+        "viral",
+        "viralizando"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711476069039082760",
+      "url": "https://www.tiktok.com/@andercarservice/video/7711476069039082760",
+      "caption": "Já fazem 8 anos que eu trabalho de porta fechada… #andercarservice #oficinapeugeot #oficinacitroen #oficinaespecializada #oficinajeep",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ooPEZqaHBqA3EYlAoSASb1qBiiAAwBqiIEqA2~tplv-tiktokx-origin.webp?dr=1370&refresh_token=e5e48f3c&x-expires=1795647600&x-signature=4qn9PApxVpAfdKL3xv7jdvCiXQw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "andercarservice",
+      "authorName": "Andercar SERVICE",
+      "authorFollowers": null,
+      "views": 1065141,
+      "likes": 44596,
+      "comments": 688,
+      "shares": 2617,
+      "durationSec": null,
+      "postedAt": "2026-11-23T22:00:00.000Z",
+      "hashtags": [
+        "andercarservice",
+        "oficinapeugeot",
+        "oficinacitroen",
+        "oficinaespecializada",
+        "oficinajeep"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711205009920101652",
+      "url": "https://www.tiktok.com/@stephaniebjones/video/7711205009920101652",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ogcqpAeeoBQKKajoIZAUQlLIGkAwXWHEGeD2Cq~tplv-tiktokx-origin.webp?dr=1370&refresh_token=2f7faaa6&x-expires=1795647600&x-signature=Dt6nLMJCZLrOLgMerp2G15QO0R0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&s=FEED&sc=cover&biz_tag=tt_video",
+      "author": "stephaniebjones",
+      "authorName": "Stephanie Jones",
+      "authorFollowers": null,
+      "views": 2373826,
+      "likes": 486647,
+      "comments": 5316,
+      "shares": 15029,
+      "durationSec": null,
+      "postedAt": "2026-11-23T03:33:53.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711548119086812468",
+      "url": "https://www.tiktok.com/@g1/video/7711548119086812468",
+      "caption": "Punição - A cantora iraniana Parastoo Ahmadi e quatro integrantes de sua banda tiveram penas de chibatadas executadas nesta segunda-feira (23). Ahmadi e seus colegas foram condenados após a artista se apresentar sem o hijab obrigatório em uma transmissão ao vivo. Cada um recebeu 74 chicotadas na cidade de Qom, a 140 km de Teerã. Em um comunicado enviado à BBC, a defesa da cantora informou que foram realizadas diversas tentativas de anular, reduzir ou adiar a execução da pena, todas rejeitadas pelo órgão executor. 🔍 Em dezembro de 2024, Ahmadi usou um vestido sem mangas e apareceu sem o véu islâmico para cantar em um concerto transmitido ao vivo em seu canal no YouTube. O vídeo viralizou e acumulou milhões de visualizações. As leis do Irã proíbem apresentações musicais públicas de mulheres e exigem o uso de hijab e roupas folgadas. Em junho deste ano, um tribunal criminal de Qom condenou Ahmadi e outras oito pessoas por \"ofender a decência pública\" ao publicar \"material obsceno e indecente\". Além das 74 chibatadas, os réus foram proibidos de exercer atividades artísticas e de deixar o país por dois anos. A sentença foi confirmada em segunda instância no fim de setembro. A execução da pena gerou repúdio de artistas e entidades internacionais. O Centro para os Direitos Humanos no Irã classificou a punição como uma \"violação flagrante de direitos fundamentais\" para suprimir as liberdades das mulheres no país. Saiba mais no link do artigo. #g1 #hijab #parastooahmadi #irã #g1mundo #globonews #tiktoknotícias",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okAAYdiIEAw1zsgfb7iOE2ADQOZZmBAkBBnKA2~tplv-tiktokx-origin.webp?dr=1370&refresh_token=de3d6fb6&x-expires=1795647600&x-signature=%2B05SaVh7cXJs%2B7nRvwwsQ8u1WHA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "g1",
+      "authorName": "g1",
+      "authorFollowers": null,
+      "views": 714438,
+      "likes": 25097,
+      "comments": 2301,
+      "shares": 1020,
+      "durationSec": null,
+      "postedAt": "2026-11-24T01:49:43.000Z",
+      "hashtags": [
+        "g1",
+        "hijab",
+        "parastooahmadi",
+        "irã",
+        "g1mundo",
+        "globonews",
+        "tiktoknotícias"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711029266242112788",
+      "url": "https://www.tiktok.com/@milapietrobom/video/7711029266242112788",
+      "caption": "Socorro, como é difícil dias assim 🥲 #diabetes #rotina #piscina #Luisa",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8GxMIeBfIFDpLcRfwheYN0EOMV7FGA9DsEEAG~tplv-tiktokx-origin.webp?dr=1370&refresh_token=faced6c3&x-expires=1795647600&x-signature=e%2Fki2vDQgNchjrIzezakVgZoNVY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "milapietrobom",
+      "authorName": "Milapietrobom",
+      "authorFollowers": null,
+      "views": 4187427,
+      "likes": 373979,
+      "comments": 1603,
+      "shares": 1630,
+      "durationSec": null,
+      "postedAt": "2026-11-22T16:11:52.000Z",
+      "hashtags": [
+        "diabetes",
+        "rotina",
+        "piscina",
+        "luisa"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7699135922901650708",
+      "url": "https://www.tiktok.com/@nestlenanlac/video/7699135922901650708",
+      "caption": "#ad Depois que a gente vira mãe, parece que desbloqueia uns superpoderes, né? 😂💙 Reconhecer o choro, entender “criançês” e desenvolver aquele ouvido que escuta TUDO! Pra mim, isso é a minha Ciência de Mãe: observar, escutar e aprender todos os dias para acompanhar cada fase delas. ✨ #publi #CiênciaDeMãe #NANLACCOMFOR",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQ7AsQaTIAQnt01vYtiYANEDVEjTiBaA04oAB~tplv-tiktokx-origin.webp?dr=1370&refresh_token=9d6e873c&x-expires=1795647600&x-signature=UzGnU%2BXC1lCzPycBMGnBJolr%2Bv0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "nestlenanlac",
+      "authorName": "Nestlé Nanlac",
+      "authorFollowers": null,
+      "views": 64779725,
+      "likes": 111942,
+      "comments": 533,
+      "shares": 4005,
+      "durationSec": null,
+      "postedAt": "2026-10-21T14:59:36.000Z",
+      "hashtags": [
+        "ad",
+        "publi",
+        "ciênciademãe",
+        "nanlaccomfor"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7698001381386358034",
+      "url": "https://www.tiktok.com/@melhorescenasoficial01/video/7698001381386358034",
+      "caption": "Ela deu a ultima pamonha pro vizinho...",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/owujjWiIEAw12HaflyiqUljAM3Ul1CANBAmIBz~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=d144afbd&x-expires=1795651200&x-signature=QF2LyTroPJffOnJwOxNjjMWPDOE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "melhorescenasoficial01",
+      "authorName": "Melhores cenas",
+      "authorFollowers": null,
+      "views": 4756881,
+      "likes": 406150,
+      "comments": 5840,
+      "shares": 40722,
+      "durationSec": null,
+      "postedAt": "2026-10-19T15:00:00.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710607976997932302",
+      "url": "https://www.tiktok.com/@xxxxxttee/video/7710607976997932302",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oUaBPAaiXI4wnBUBs0idVisAIElFBCAgGg02u~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=18129723&x-expires=1795651200&x-signature=dVa5k0ihXZpdIhDB3YzNc8rnkxg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "xxxxxttee",
+      "authorName": "xxxxxttee",
+      "authorFollowers": null,
+      "views": 5453083,
+      "likes": 126816,
+      "comments": 2191,
+      "shares": 18935,
+      "durationSec": null,
+      "postedAt": "2026-11-21T12:58:28.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709919618038549761",
+      "url": "https://www.tiktok.com/@ocastrin/video/7709919618038549761",
+      "caption": "só o meu que veio assim?",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUyoQGAWYg87vGOAHARfYWgkIER3M8DFQifrfe~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=0e73b33b&x-expires=1795651200&x-signature=QN43PEKYSqTXh5spo20xLgYRChQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my3&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "ocastrin",
+      "authorName": "oCastrin",
+      "authorFollowers": null,
+      "views": 1937211,
+      "likes": 227736,
+      "comments": 1511,
+      "shares": 24582,
+      "durationSec": null,
+      "postedAt": "2026-11-19T16:25:51.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709623407498857749",
+      "url": "https://www.tiktok.com/@arquivodomedo3/video/7709623407498857749",
+      "caption": "Nunca pergunte se o seu cachorro sabe falar (1) Essa história de terror começa com uma trend que você nunca deveria fazer com o seu cachorro. O Pipoca é um vira-lata caramelo que nunca latiu na vida. Ninguém adotou ele: ele apareceu sozinho na porta de casa no dia do enterro do avô Zé. A avó Lurdes avisou: nunca pergunta pra um cachorro se ele sabe falar, porque enquanto ninguém pergunta, ele finge. A Júlia riu, ligou a câmera e perguntou mesmo assim. O Pipoca congelou, olhou pro quarto da avó e voltou a encarar ela. Só que, quando ela deu zoom no vídeo, viu a boca dele mexer. E no escuro do quarto ela ouviu o Pipoca puxar o ar, como quem se prepara pra falar. E você, fazia essa trend com o seu cachorro ou deixava ele continuar fingindo? Comenta aí 👇 #historiadeterror #terror #suspensefilme #cachorro #historiasdeterror",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0DbAEoAsQKffFIJ1wefHU3zQQAiJWAb8rICAG~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=b66d5c57&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=hjaX5VcAZGcC8eIRAMJS%2FPGXIpI%3D",
+      "author": "arquivodomedo3",
+      "authorName": "Arquivo do Medo",
+      "authorFollowers": null,
+      "views": 1770462,
+      "likes": 242568,
+      "comments": 4297,
+      "shares": 15857,
+      "durationSec": null,
+      "postedAt": "2026-11-18T22:00:00.000Z",
+      "hashtags": [
+        "historiadeterror",
+        "terror",
+        "suspensefilme",
+        "cachorro",
+        "historiasdeterror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711195376698592533",
+      "url": "https://www.tiktok.com/@juanr.gv2026/video/7711195376698592533",
+      "caption": "Experiencias que dejan helado. Qué historia!! #Videos #historias #paranormal #fantasma #miedo",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAdCWgAIoiX5AAqyF12DIwwcWiIVfAqBIDq2B3~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=74a68cf8&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=PxImxcXc%2BHP5%2B53zGuNz2xSNIl0%3D",
+      "author": "juanr.gv2026",
+      "authorName": "👁️⚡𝑹𝒂𝒎𝒐́𝒏🔥𝑽𝒊𝒅𝒂𝒍👁️",
+      "authorFollowers": null,
+      "views": 1385519,
+      "likes": 66598,
+      "comments": 1951,
+      "shares": 53676,
+      "durationSec": null,
+      "postedAt": "2026-11-23T02:56:31.000Z",
+      "hashtags": [
+        "videos",
+        "historias",
+        "paranormal",
+        "fantasma",
+        "miedo"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711393632544165153",
+      "url": "https://www.tiktok.com/@nochetrasciende/video/7711393632544165153",
+      "caption": "La infidelidad amorosa te deja pensando: “¿qué me faltó?” 💔👀\" #Podcastextraanormal #RelatosDeUltratumba #Paranormal #HistoriasDeTerror #Miedo",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oUjDm6r5DvR7E4QEFFAI7QQDIQ5mB1ABiffC13~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=86e4aee6&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=OWvaSt9uE7NJSV9H7wxWJcZyQbc%3D",
+      "author": "nochetrasciende",
+      "authorName": "Noche Trasciende",
+      "authorFollowers": null,
+      "views": 424347,
+      "likes": 31221,
+      "comments": 614,
+      "shares": 986,
+      "durationSec": null,
+      "postedAt": "2026-11-23T15:45:49.000Z",
+      "hashtags": [
+        "podcastextraanormal",
+        "relatosdeultratumba",
+        "paranormal",
+        "historiasdeterror",
+        "miedo"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710989649463758088",
+      "url": "https://www.tiktok.com/@arquivodomedo3/video/7710989649463758088",
+      "caption": "Nunca chame seu cachorro pelo nome se ele voltar sozinho (1) Essa história de terror começa com um vídeo que todo mundo adora ver: o cachorro voltando pra casa depois de dias sumido. O Thor é um vira-lata preto que latia pra tudo, tinha pavor de trovão e dormia no pé da cama do Davi. Até a noite em que ele latiu pra uma coisa alta e magra parada no meio da mata e sumiu. O seu Bené, o vizinho velho, avisou: se ele voltar sozinho, de madrugada, ninguém chama ele pelo nome, porque cachorro de verdade entra sem ninguém chamar. Às três da manhã, o Thor apareceu no tapete da porta, molhado e parado, esperando. O Davi ficou quieto. A mãe dele, não. Só que, quando o Davi abriu o vídeo pra postar, viu a sombra do Thor na parede da varanda. E ela tava de pé. E você, chamava seu cachorro pelo nome ou deixava ele esperando do lado de fora? Comenta aí 👇 #historiadeterror #terror #suspensefilme #cachorro #historiasdeterror",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oACwaCAAaMAlAIAB8LlvAA58iAYURxAqwVilE~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=e3c47c4b&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=VAfpbzxoXUtA2mrqgWOVivRwgQU%3D",
+      "author": "arquivodomedo3",
+      "authorName": "Arquivo do Medo",
+      "authorFollowers": null,
+      "views": 109106,
+      "likes": 15617,
+      "comments": 290,
+      "shares": 857,
+      "durationSec": null,
+      "postedAt": "2026-11-22T15:00:00.000Z",
+      "hashtags": [
+        "historiadeterror",
+        "terror",
+        "suspensefilme",
+        "cachorro",
+        "historiasdeterror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709623407498857749",
+      "url": "https://www.tiktok.com/@arquivodomedo3/video/7709623407498857749",
+      "caption": "Nunca pergunte se o seu cachorro sabe falar (1) Essa história de terror começa com uma trend que você nunca deveria fazer com o seu cachorro. O Pipoca é um vira-lata caramelo que nunca latiu na vida. Ninguém adotou ele: ele apareceu sozinho na porta de casa no dia do enterro do avô Zé. A avó Lurdes avisou: nunca pergunta pra um cachorro se ele sabe falar, porque enquanto ninguém pergunta, ele finge. A Júlia riu, ligou a câmera e perguntou mesmo assim. O Pipoca congelou, olhou pro quarto da avó e voltou a encarar ela. Só que, quando ela deu zoom no vídeo, viu a boca dele mexer. E no escuro do quarto ela ouviu o Pipoca puxar o ar, como quem se prepara pra falar. E você, fazia essa trend com o seu cachorro ou deixava ele continuar fingindo? Comenta aí 👇 #historiadeterror #terror #suspensefilme #cachorro #historiasdeterror",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0DbAEoAsQKffFIJ1wefHU3zQQAiJWAb8rICAG~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=b66d5c57&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=hjaX5VcAZGcC8eIRAMJS%2FPGXIpI%3D",
+      "author": "arquivodomedo3",
+      "authorName": "Arquivo do Medo",
+      "authorFollowers": null,
+      "views": 1770465,
+      "likes": 242568,
+      "comments": 4297,
+      "shares": 15857,
+      "durationSec": null,
+      "postedAt": "2026-11-18T22:00:00.000Z",
+      "hashtags": [
+        "historiadeterror",
+        "terror",
+        "suspensefilme",
+        "cachorro",
+        "historiasdeterror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710760825929092358",
+      "url": "https://www.tiktok.com/@ultimocenario/video/7710760825929092358",
+      "caption": "Você e a Helena fingindo ser um casal no meio de uma feira… caçando um Skinwalker que pode ter a forma de qualquer pessoa. 👀 Até o seu gato começar a rosnar para uma senhora que vende flores. 🌸 O que você acha que vai acontecer? Comenta aqui 👇 #terror #animação #historiasdeterror",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIXBiB5XRB4AWAACEAABifqKKIgQ1IAx1AsKwU~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=01f48e9f&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=bd7%2BfrNOv6X1qnds7wGBngU4Z38%3D",
+      "author": "ultimocenario",
+      "authorName": "ÚLTIMO CENÁRIO",
+      "authorFollowers": null,
+      "views": 682782,
+      "likes": 78894,
+      "comments": 738,
+      "shares": 1798,
+      "durationSec": null,
+      "postedAt": "2026-11-21T23:10:00.000Z",
+      "hashtags": [
+        "terror",
+        "animação",
+        "historiasdeterror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711396831816633618",
+      "url": "https://www.tiktok.com/@bastosalessa/video/7711396831816633618",
+      "caption": "O clima ajudando 👀 . . . . #flypシ #viral #amor #memes",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8eNGfs3DBArF2zEQEEYGRQqBBcQu4Hgg7RvHA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=6fb3f686&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=IcW8svxXS28bDp39HH4CL6Vws8I%3D",
+      "author": "bastosalessa",
+      "authorName": "Lexa 🍇",
+      "authorFollowers": null,
+      "views": 582407,
+      "likes": 69760,
+      "comments": 320,
+      "shares": 859,
+      "durationSec": null,
+      "postedAt": "2026-11-23T15:58:13.000Z",
+      "hashtags": [
+        "flypシ",
+        "viral",
+        "amor",
+        "memes"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711144350037593352",
+      "url": "https://www.tiktok.com/@eduudark1/video/7711144350037593352",
+      "caption": "Me pagaram 5 mil por mês pra cuidar de uma fazenda no Mato Grosso. Só de noite. Três regras. E uma senha. 🐕 Eu errei em quem confiar. Você teria descoberto antes dele? Comenta 👇 #skinwalker #terror #historiasdeterror #lendas #medo #suspense #trancados #animacao #fazenda #creepypasta Música: \"Oppressive Gloom\" Kevin MacLeod (incompetech.com) CC BY 4.0",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/osKY9XKfAAAyAtZ9AILKGfgGfeW0HKfIMSTAGQ~tplv-tiktokx-origin.image?bas=android_bas&biz_tag=musically_video.video_cover&dr=1370&idc=my2&ps=933b5bde&refresh_token=f50b7a31&s=SEARCH&sc=cover&shcp=c1333099&shp=d05b14bd&t=bacd0480&x-expires=1795651200&x-signature=L%2BbSBG0QNmRmenpik8rwbngb7iY%3D",
+      "author": "eduudark1",
+      "authorName": "Trancados",
+      "authorFollowers": null,
+      "views": 217682,
+      "likes": 21433,
+      "comments": 180,
+      "shares": 1083,
+      "durationSec": null,
+      "postedAt": "2026-11-22T23:38:32.000Z",
+      "hashtags": [
+        "skinwalker",
+        "terror",
+        "historiasdeterror",
+        "lendas",
+        "medo",
+        "suspense",
+        "trancados",
+        "animacao",
+        "fazenda",
+        "creepypasta"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711404312416505140",
+      "url": "https://www.tiktok.com/@juandiego.lb/video/7711404312416505140",
+      "caption": "La historia del coqueto, no creerás la investigación #storytime #historiareal #mexico #misterio #relatos",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUfKDRW0GrvkIgEVaK0FnEcDBl8dBIREifUAAB~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=5129e418&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=6FmpgXQRGNKCk%2B0UV0ztO7fjzCk%3D",
+      "author": "juandiego.lb",
+      "authorName": "Juan Diego LB 2",
+      "authorFollowers": null,
+      "views": 1831305,
+      "likes": 296292,
+      "comments": 446,
+      "shares": 7136,
+      "durationSec": null,
+      "postedAt": "2026-11-23T16:27:15.000Z",
+      "hashtags": [
+        "storytime",
+        "historiareal",
+        "mexico",
+        "misterio",
+        "relatos"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711456278194834706",
+      "url": "https://www.tiktok.com/@fernanhav_/video/7711456278194834706",
+      "caption": "Misterios Aterradores del GTA 6 Parte 3: \"La pareja desaparecida\" #gta #gta6 #gtavi #misterio #terror",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIj0cAKB1BmwMRFiiAAkGAEVBAoEfguwjKIkAl~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=f9fa8ce6&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=jiorv28ec6tNPsCjGNIzNvBqE34%3D",
+      "author": "fernanhav_",
+      "authorName": "Fernanhav",
+      "authorFollowers": null,
+      "views": 1454189,
+      "likes": 235888,
+      "comments": 1258,
+      "shares": 10975,
+      "durationSec": null,
+      "postedAt": "2026-11-23T19:49:07.000Z",
+      "hashtags": [
+        "gta",
+        "gta6",
+        "gtavi",
+        "misterio",
+        "terror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711501114423659808",
+      "url": "https://www.tiktok.com/@adrityaventurastuff/video/7711501114423659808",
+      "caption": "El incidente de Jupiter 2009 @Adrity y @Raúl - Becas y Ayudas 🇪🇸 , unos valientes astronautas que fallecieron en la misión debido a unas criaturas misteriosas, mas podrian haber formado parte de la misión espacial, pero aun se desconoce #Adrityy #pasapasa #olaola #raulbecas #jupiter  Jupiter Incident 2011",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oID2KEoC9QgBtFaE7mef4XEtqT50BRQJJrILAD~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=6c750518&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=GhbhjcdranS64gG5lYfOa1EukLI%3D",
+      "author": "adrityaventurastuff",
+      "authorName": "AdritytuffBoiiiii🌊🌰",
+      "authorFollowers": null,
+      "views": 895332,
+      "likes": 96294,
+      "comments": 1393,
+      "shares": 39720,
+      "durationSec": null,
+      "postedAt": "2026-11-23T22:42:54.000Z",
+      "hashtags": [
+        "adrityy",
+        "pasapasa",
+        "olaola",
+        "raulbecas",
+        "jupiter"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711166716012727574",
+      "url": "https://www.tiktok.com/@laverdadocultaaa/video/7711166716012727574",
+      "caption": "¿Las serpientes huyen de las mujeres embarazadas? Lo investigamos pista por pista: olor, calor y pasos. La respuesta, al final 🐍 #serpientes #mitos #embarazo #misterios #curiosidades",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/okww6AIiNYApaAuAStANOCKAEBm5DIlRABvik~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=538a5856&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=cxBt%2F0FUZtgOb3fOEEHVWzcimAo%3D",
+      "author": "laverdadocultaaa",
+      "authorName": "La verdad Oculta",
+      "authorFollowers": null,
+      "views": 697349,
+      "likes": 66548,
+      "comments": 533,
+      "shares": 2201,
+      "durationSec": null,
+      "postedAt": "2026-11-23T01:05:31.000Z",
+      "hashtags": [
+        "serpientes",
+        "mitos",
+        "embarazo",
+        "misterios",
+        "curiosidades"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710722042714197268",
+      "url": "https://www.tiktok.com/@jeffeter.emanuel2/video/7710722042714197268",
+      "caption": "#biblia #maior #curiosidades",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAgDuODNF6CWAfDwYjK2ACOINpZQQ4CfAWf4sE~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=19fc2aaa&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=kDAC0gOyCGv3rhWFaYFvM3fLx0g%3D",
+      "author": "jeffeter.emanuel2",
+      "authorName": "Jeffeter Emanuel2",
+      "authorFollowers": null,
+      "views": 3938,
+      "likes": 613,
+      "comments": 86,
+      "shares": 13,
+      "durationSec": null,
+      "postedAt": "2026-11-21T20:19:46.000Z",
+      "hashtags": [
+        "biblia",
+        "maior",
+        "curiosidades"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711358337534692628",
+      "url": "https://www.tiktok.com/@joaovitornds/video/7711358337534692628",
+      "caption": "OS OBJETOS MAIS PROCURADOS DO MUNDO #objetos #historia #curiosidades #fatoscuriosos #misterio",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIEEIBBVRPUBAABruiEkflsxye8EqiJgU4D5BE~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=10419268&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=gHxzLHPxzsdAXUC84Kujd%2FPsncU%3D",
+      "author": "joaovitornds",
+      "authorName": "João Vitor 🔎",
+      "authorFollowers": null,
+      "views": 5422,
+      "likes": 457,
+      "comments": 21,
+      "shares": 11,
+      "durationSec": null,
+      "postedAt": "2026-11-23T13:28:50.000Z",
+      "hashtags": [
+        "objetos",
+        "historia",
+        "curiosidades",
+        "fatoscuriosos",
+        "misterio"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711444257969638677",
+      "url": "https://www.tiktok.com/@cladoscuriosos2/video/7711444257969638677",
+      "caption": "coisas que você não sabia para que serviam! #curiosidades #vocesabia #curiosidade #fatoscuriosos",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAIEzBNY7FN0ABcxhry9RIgn1EQefBIDQJG3nI~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=c0aabafb&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=aUXLKHAM09sNjZDOj3QluB9ku%2FQ%3D",
+      "author": "cladoscuriosos2",
+      "authorName": "cladoscuriosos2",
+      "authorFollowers": null,
+      "views": 3507,
+      "likes": 216,
+      "comments": 0,
+      "shares": 1,
+      "durationSec": null,
+      "postedAt": "2026-11-23T19:02:18.000Z",
+      "hashtags": [
+        "curiosidades",
+        "vocesabia",
+        "curiosidade",
+        "fatoscuriosos"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711347160251403541",
+      "url": "https://www.tiktok.com/@cine4qui1/video/7711347160251403541",
+      "caption": "Pé romano #pé #curiosidades #curiosidade #corpo #biotipo",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8AkFxwEiRAABIK6YavBaRAqEiYA1iAEOlRh4~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=3c7ba163&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=ZBsBTCvFsgl1pwnW3tTAu00A3yE%3D",
+      "author": "cine4qui1",
+      "authorName": "Cine4qui",
+      "authorFollowers": null,
+      "views": 5980,
+      "likes": 134,
+      "comments": 26,
+      "shares": 17,
+      "durationSec": null,
+      "postedAt": "2026-11-23T12:45:29.000Z",
+      "hashtags": [
+        "pé",
+        "curiosidades",
+        "curiosidade",
+        "corpo",
+        "biotipo"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709920604253637908",
+      "url": "https://www.tiktok.com/@jack.jacare/video/7709920604253637908",
+      "caption": "É dessa forma que eles nascem sem problemas.  #fatoscuriosos #animais #foryoupage #curiosidade",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4FnrADIfHyfMAl3fy3xS19EAKnFIEV9DQAAzw~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=5b20c172&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=uWty4eDpDv0t7iEbSToc0LfCWY8%3D",
+      "author": "jack.jacare",
+      "authorName": "Jacaré Jack",
+      "authorFollowers": null,
+      "views": 3073048,
+      "likes": 249838,
+      "comments": 1101,
+      "shares": 13596,
+      "durationSec": null,
+      "postedAt": "2026-11-19T16:29:41.000Z",
+      "hashtags": [
+        "fatoscuriosos",
+        "animais",
+        "foryoupage",
+        "curiosidade"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710212713812708626",
+      "url": "https://www.tiktok.com/@fatoscurioso092/video/7710212713812708626",
+      "caption": "@Fatos Curioso @Sr.Saude #fatos #curiosidade #viral",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/occiEL3aEh4CqygAuAUBfAMIaxAiAjBw3MY1IM~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=be648fa7&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=9fXxsbNef6vLnO59Df7OeSGmMVo%3D",
+      "author": "fatoscurioso092",
+      "authorName": "Fatos Curioso",
+      "authorFollowers": null,
+      "views": 2354237,
+      "likes": 126980,
+      "comments": 157,
+      "shares": 614,
+      "durationSec": null,
+      "postedAt": "2026-11-20T11:23:18.000Z",
+      "hashtags": [
+        "fatos",
+        "curiosidade",
+        "viral"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710315302298438932",
+      "url": "https://www.tiktok.com/@usualcontentfy/video/7710315302298438932",
+      "caption": "Siga pra mais curiosidades! #fatoscuriosos #fyp #biologia #tubarao",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okiyqxE3iYFwBabQP1YKiBAmXAvCAIVIAaBQy~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=67531cd7&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=xwlaHDI%2FowSsjEjuQLoNR1dCmJY%3D",
+      "author": "usualcontentfy",
+      "authorName": "Jonny",
+      "authorFollowers": null,
+      "views": 1521358,
+      "likes": 47171,
+      "comments": 125,
+      "shares": 656,
+      "durationSec": null,
+      "postedAt": "2026-11-20T18:01:21.000Z",
+      "hashtags": [
+        "fatoscuriosos",
+        "fyp",
+        "biologia",
+        "tubarao"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710319527803784466",
+      "url": "https://www.tiktok.com/@curi.ar/video/7710319527803784466",
+      "caption": "#facts #mindblown #interestingfacts #3danimation",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUA7aLJGwGsAApRljAArAzlfEe0fe9GI0DIAjA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=7c4112a7&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795586400&x-signature=Vhi%2F78f9Z3Fu1xtzIIPQP58Ab24%3D",
+      "author": "curi.ar",
+      "authorName": "Curiar",
+      "authorFollowers": null,
+      "views": 499260,
+      "likes": 27569,
+      "comments": 125,
+      "shares": 248,
+      "durationSec": null,
+      "postedAt": "2026-11-20T18:17:45.000Z",
+      "hashtags": [
+        "facts",
+        "mindblown",
+        "interestingfacts",
+        "3danimation"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    }
+  ]
+}
