@@ -1,0 +1,912 @@
+{
+  "collectedAt": "2026-11-26T00:07:01.691Z",
+  "region": "BR",
+  "mode": "live",
+  "itemsReceived": 35,
+  "estimatedUsd": 0.0088,
+  "keywords": [
+    "narracao",
+    "ia",
+    "inteligenciaartificial",
+    "historiasdeterror",
+    "terror"
+  ],
+  "actors": {
+    "trending": {
+      "id": "kaitoeasyapi/tiktok-trending-feed-scraper",
+      "input": {
+        "regions": [
+          "BR"
+        ],
+        "maxVideosPerRegion": 15
+      },
+      "returned": 15
+    },
+    "search": {
+      "id": "kaitoeasyapi/tiktok-search-scraper",
+      "input": {
+        "keywords": [
+          "narracao",
+          "ia",
+          "inteligenciaartificial",
+          "historiasdeterror",
+          "terror"
+        ],
+        "region": "BR",
+        "sortType": "1",
+        "publishTime": "7",
+        "maxResultsPerKeyword": 4
+      },
+      "returned": 20
+    }
+  },
+  "items": [
+    {
+      "id": "7709426875365346578",
+      "url": "https://www.tiktok.com/@juninhoegaleguinho/video/7709426875365346578",
+      "caption": "Corrida de Jumentos com Juninho e Galeguinho #bebes #fyp #novelas #vaiprofycaramba #viral",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oITeYVADfAEPAhDYEpO9KAIAEFrjWfNACoEEDO~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=da0a14e1&x-expires=1795737600&x-signature=UVDSGx5lhZEq7%2Fd%2FcMlPNLWxrEE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover&bas=android_sc_bas_pb",
+      "author": "juninhoegaleguinho",
+      "authorName": "Juninho e Galeguinho",
+      "authorFollowers": null,
+      "views": 8499414,
+      "likes": 500989,
+      "comments": 34672,
+      "shares": 17580,
+      "durationSec": null,
+      "postedAt": "2026-11-18T12:00:00.000Z",
+      "hashtags": [
+        "bebes",
+        "fyp",
+        "novelas",
+        "vaiprofycaramba",
+        "viral"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710385446664195346",
+      "url": "https://www.tiktok.com/@mcguedes22/video/7710385446664195346",
+      "caption": "#fy",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ok8IfyGsQNcIoTAClAbGeDKjVxALDtZAelKWQn~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=d766747b&x-expires=1795737600&x-signature=%2FuKHGyKlPP3wor0uYn9X8uYkJBI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&sc=cover&bas=android_sc_bas_pb&biz_tag=tt_video&s=FEED",
+      "author": "mcguedes22",
+      "authorName": "Mary 🕸️🕷️",
+      "authorFollowers": null,
+      "views": 97149,
+      "likes": 4793,
+      "comments": 60,
+      "shares": 30,
+      "durationSec": null,
+      "postedAt": "2026-11-20T22:33:38.000Z",
+      "hashtags": [
+        "fy"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712077924421225767",
+      "url": "https://www.tiktok.com/@championsleague/video/7712077924421225767",
+      "caption": "🤯🤯🤯 #UCL #RealMadridvsPSV",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/okchIKBrDQKIvQRfhEZgfBlAGJsDBF60smNzUE~tplv-tiktokx-origin.webp?dr=1370&refresh_token=e43d4aae&x-expires=1795737600&x-signature=sAeklS3y2g83n6jfpETZOVJaZq8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&sc=cover&item=7712077924421225767&bas=android_sc_bas_pb&biz_tag=tt_video&s=FEED",
+      "author": "championsleague",
+      "authorName": "Champions League",
+      "authorFollowers": null,
+      "views": 5328640,
+      "likes": 834506,
+      "comments": 3898,
+      "shares": 22203,
+      "durationSec": null,
+      "postedAt": "2026-11-25T12:01:12.000Z",
+      "hashtags": [
+        "ucl",
+        "realmadridvspsv"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7707303855280721170",
+      "url": "https://www.tiktok.com/@vvivistore/video/7707303855280721170",
+      "caption": "Mochila Esportiva Reforçada!!! #mochila #escola #trabalho #tiktokshop #tiktokviral",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-v-97b414-sg/o4wFefCdE19gDan3Vf6E1IdQqsE1BDaJ9BEAHD~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=7b8f48d6&x-expires=1795737600&x-signature=6AQlRPWgE3HCAw1g334sQLGA4sU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover&bas=android_sc_bas_pb",
+      "author": "vvivistore",
+      "authorName": "VIVI STORE",
+      "authorFollowers": null,
+      "views": 1054714,
+      "likes": 6790,
+      "comments": 114,
+      "shares": 1328,
+      "durationSec": null,
+      "postedAt": "2026-11-12T15:15:24.000Z",
+      "hashtags": [
+        "mochila",
+        "escola",
+        "trabalho",
+        "tiktokshop",
+        "tiktokviral"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7688532166455610646",
+      "url": "https://www.tiktok.com/@seenbymii/video/7688532166455610646",
+      "caption": "Always 🥹",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/oUGOIyiBr6fCs61BJ1ZzC26I2pidRIAWJBATAw~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=daabda7f&x-expires=1795737600&x-signature=sUr1R1ABQ1ULP7TSMyepfMe7Zh0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover&bas=android_sc_bas_pb",
+      "author": "seenbymii",
+      "authorName": "Seen By Mii",
+      "authorFollowers": null,
+      "views": 1867608,
+      "likes": 149834,
+      "comments": 1818,
+      "shares": 31929,
+      "durationSec": null,
+      "postedAt": "2026-09-23T01:12:10.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7705132938471427358",
+      "url": "https://www.tiktok.com/@kitty._.tale/video/7705132938471427358",
+      "caption": "funny cat cartoons for kids #catvideos #meow #catlover #forkids #dudidudidamdam",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/ocAIC0XcesVg8C2xffMEgQPqq3QjQMWAOcyIM7~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=998fe813&x-expires=1795737600&x-signature=XjtK5jph1MXTGOYVDy5yV31dF5Y%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover&bas=android_sc_bas_pb",
+      "author": "kitty._.tale",
+      "authorName": "kitty._.tale",
+      "authorFollowers": null,
+      "views": 2543350,
+      "likes": 198940,
+      "comments": 7153,
+      "shares": 19621,
+      "durationSec": null,
+      "postedAt": "2026-11-07T01:30:00.000Z",
+      "hashtags": [
+        "catvideos",
+        "meow",
+        "catlover",
+        "forkids",
+        "dudidudidamdam"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708097519791754517",
+      "url": "https://www.tiktok.com/@brenda.stefanyg/video/7708097519791754517",
+      "caption": "Bora crescer 🚀💖 . . . . #livedecrecimiento",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYJAzDeINA8eVDYozQEPj5AJAcIHLcIAGfHVUx~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=124712a1&x-expires=1795737600&x-signature=rfnkzcsye2nKOz9Sq6BaQCbDY1U%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover&bas=android_sc_bas_pb",
+      "author": "brenda.stefanyg",
+      "authorName": "Brenda Stefany",
+      "authorFollowers": null,
+      "views": 297230,
+      "likes": 23353,
+      "comments": 714,
+      "shares": 593,
+      "durationSec": null,
+      "postedAt": "2026-11-14T18:35:15.000Z",
+      "hashtags": [
+        "livedecrecimiento"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7706983670208400653",
+      "url": "https://www.tiktok.com/@foll...girl7/video/7706983670208400653",
+      "caption": "#😘",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/oANED9wSVIAL4VJKJltP0fA6hgEeTBDrqEgRLF~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=46a4a7d3&x-expires=1795737600&x-signature=eocy%2Fqg1Uqgtvjhy%2FSRM%2BqFXGcI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "foll...girl7",
+      "authorName": "pyari___girl91",
+      "authorFollowers": null,
+      "views": 5587770,
+      "likes": 228380,
+      "comments": 4372,
+      "shares": 74408,
+      "durationSec": null,
+      "postedAt": "2026-11-11T18:33:03.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7694549469219654930",
+      "url": "https://www.tiktok.com/@pg_official_store_japan/video/7694549469219654930",
+      "caption": "＼電動歯ブラシ初心者の決定版！標準・やわらか・ホワイトニングの3モード搭載で毎日のオーラルケアを格上げしてくれる優れもの✨／ 10/19(月)までの期間限定で【特別価格9,980円(税込)】で購入できるので、売り切れる前に画面左下のショップリンクから手に入れて下さいね🛒    ※1 物理的なブラッシング効果による ※定価19,800円(税込)からの割引価格 ※特別価格期間：2026年10月19日まで ※使用感には個人差があります #PG #オーラルB  #電動歯ブラシ  #おすすめ  #TikTokShop",
+      "coverUrl": null,
+      "author": "pg_official_store_japan",
+      "authorName": "P&G公式ストア",
+      "authorFollowers": null,
+      "views": 4,
+      "likes": 6,
+      "comments": 7,
+      "shares": 5,
+      "durationSec": null,
+      "postedAt": "2026-10-10T20:00:00.000Z",
+      "hashtags": [
+        "pg",
+        "オーラルb",
+        "電動歯ブラシ",
+        "おすすめ",
+        "tiktokshop"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711220993594805534",
+      "url": "https://www.tiktok.com/@xxxxxusaj/video/7711220993594805534",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/ok9HVrABeAIevVAyEGjWoVCchIIqLICfM4HQQl~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=640fdd3d&x-expires=1795737600&x-signature=0lUEXWUsU6qmy4y%2FUlR0kumoyFM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "xxxxxusaj",
+      "authorName": "xxxxxxx",
+      "authorFollowers": null,
+      "views": 80252,
+      "likes": 3987,
+      "comments": 48,
+      "shares": 60,
+      "durationSec": null,
+      "postedAt": "2026-11-23T04:36:00.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710111075424800013",
+      "url": "https://www.tiktok.com/@xxxxxttee/video/7710111075424800013",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/o4VMgILpfZIjpI3fOBGAgJfqG0rA0F3RM6I0eZ~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=504aa9b1&x-expires=1795737600&x-signature=ae3sNyXI4Mxrz%2B5mVcJOPmqcC7I%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "xxxxxttee",
+      "authorName": "xxxxxttee",
+      "authorFollowers": null,
+      "views": 2833710,
+      "likes": 107498,
+      "comments": 1687,
+      "shares": 28619,
+      "durationSec": null,
+      "postedAt": "2026-11-20T04:49:24.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7702398110366059798",
+      "url": "https://www.tiktok.com/@animalchaos.ai/video/7702398110366059798",
+      "caption": "#Chihuahua #FunnyDog #GangsterDog #PlotTwist #DogBoss",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/oQKjFkfDkIlOV9qCJ0m8H55GICwAfEmAFAABQg~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=37a697a3&x-expires=1795737600&x-signature=y0n%2BU%2BzIGx6piBwkewqvHU1w%2BIo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "animalchaos.ai",
+      "authorName": "Animal Chaos",
+      "authorFollowers": null,
+      "views": 6325557,
+      "likes": 349821,
+      "comments": 4966,
+      "shares": 22506,
+      "durationSec": null,
+      "postedAt": "2026-10-30T13:00:00.000Z",
+      "hashtags": [
+        "chihuahua",
+        "funnydog",
+        "gangsterdog",
+        "plottwist",
+        "dogboss"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7694212848154610951",
+      "url": "https://www.tiktok.com/@pg_official_store_japan/video/7694212848154610951",
+      "caption": "＼使ったら手磨きには戻れない！歯科医発想の丸型回転ブラシが歯を1本ずつ包み込んで、まるで歯科クリニック後のようなツルツル感（※1）へ導くオーラルB iO3s✨／ 2026/10/19までの期間限定で【特別価格9,980円(税込)】とお買い得なので、画面左下のショップリンクからGETして下さいね🛒    ※1 物理的なブラッシング効果による（個人の感想です） ※定価19,800円(税込)からの割引価格 ※割引期間：2026年10月19日まで ※使用感には個人差があります #PG  #オーラルB  #電動歯ブラシ  #おすすめ  #半額",
+      "coverUrl": null,
+      "author": "pg_official_store_japan",
+      "authorName": "P&G公式ストア",
+      "authorFollowers": null,
+      "views": 4,
+      "likes": 6,
+      "comments": 7,
+      "shares": 2,
+      "durationSec": null,
+      "postedAt": "2026-10-08T20:00:00.000Z",
+      "hashtags": [
+        "pg",
+        "オーラルb",
+        "電動歯ブラシ",
+        "おすすめ",
+        "半額"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709809681237134605",
+      "url": "https://www.tiktok.com/@maryrose5805/video/7709809681237134605",
+      "caption": "#OOTD #ootdinspo #ootdfashion #views #viewsproblem😭",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast5-p-0068-tx/o8vXrOQx4AGfAGAzIlHRJjheoILxGfcIJAIZeA~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=cff7c244&x-expires=1795737600&x-signature=STHTMY7T4DwgwEh97sTQe5hIzYo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "maryrose5805",
+      "authorName": "Mary Rose",
+      "authorFollowers": null,
+      "views": 301496,
+      "likes": 13506,
+      "comments": 626,
+      "shares": 165,
+      "durationSec": null,
+      "postedAt": "2026-11-19T09:19:29.000Z",
+      "hashtags": [
+        "ootd",
+        "ootdinspo",
+        "ootdfashion",
+        "views",
+        "viewsproblem"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7707755486069804309",
+      "url": "https://www.tiktok.com/@robertomonteirorv/video/7707755486069804309",
+      "caption": "Mais um caso breve a parte 2",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oktRG3zwLQAcefWeW9cr34EAeAgKLFYHrQ8G9u~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=3db56387&x-expires=1795737600&x-signature=vI6LMY6eJ%2FO8K4ZzSttZwITqi40%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "robertomonteirorv",
+      "authorName": "Roberto Monteiro",
+      "authorFollowers": null,
+      "views": 23713994,
+      "likes": 2431551,
+      "comments": 25521,
+      "shares": 105331,
+      "durationSec": null,
+      "postedAt": "2026-11-13T20:27:59.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709701023505468678",
+      "url": "https://www.tiktok.com/@o_eloizin/video/7709701023505468678",
+      "caption": "Popopopopopo 🔫🔫🔫 #futebol #dublagem #narracao #gol #humor",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0MXEAAqrHG16fXeJ4WQAiMJRfAGqTAQIU8ewL~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=322e7656&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=%2BzJq3CWRxzVulnKN1Yr7xnWRwJo%3D",
+      "author": "o_eloizin",
+      "authorName": "Eloizin",
+      "authorFollowers": null,
+      "views": 1564631,
+      "likes": 284548,
+      "comments": 1886,
+      "shares": 15212,
+      "durationSec": null,
+      "postedAt": "2026-11-19T02:17:43.000Z",
+      "hashtags": [
+        "futebol",
+        "dublagem",
+        "narracao",
+        "gol",
+        "humor"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709989586918706453",
+      "url": "https://www.tiktok.com/@jaunnzin/video/7709989586918706453",
+      "caption": "NÃO VAI CAIR 🔥🔥 . . . #corinthians #botafogo #brasileirao #futebol #narracao",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8eSBQBixMAtiwsfrsXlGGrMfRIA5FtfA08Y9Q~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=0ec1bc42&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=dvfv0U3CPb761Tb8MT5pVIcDfwE%3D",
+      "author": "jaunnzin",
+      "authorName": "Jãunn 🏆",
+      "authorFollowers": null,
+      "views": 450487,
+      "likes": 129824,
+      "comments": 1041,
+      "shares": 8955,
+      "durationSec": null,
+      "postedAt": "2026-11-19T23:30:00.000Z",
+      "hashtags": [
+        "corinthians",
+        "botafogo",
+        "brasileirao",
+        "futebol",
+        "narracao"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709986716215479573",
+      "url": "https://www.tiktok.com/@jaunnzin/video/7709986716215479573",
+      "caption": "Assim que a gente gosta 🦊  . . . #cruzeiro #palmeiras #brasileirao #futebol #narracao",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQEjPXQfsH5bA5DYEAfEFlAoAAIBBARUD2fVYI~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=3dd3fb1c&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=tGkNwrGQ4hYYzBzZZjQUvHI3hF0%3D",
+      "author": "jaunnzin",
+      "authorName": "Jãunn 🏆",
+      "authorFollowers": null,
+      "views": 514192,
+      "likes": 123750,
+      "comments": 798,
+      "shares": 7908,
+      "durationSec": null,
+      "postedAt": "2026-11-19T21:20:00.000Z",
+      "hashtags": [
+        "cruzeiro",
+        "palmeiras",
+        "brasileirao",
+        "futebol",
+        "narracao"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711153254255561990",
+      "url": "https://www.tiktok.com/@canalcombate/video/7711153254255561990",
+      "caption": "GRATIDÃO DE CAMPEÃO! 🥹🦁 Charles do Bronx finalmente conseguiu agradecer pessoalmente a Rhodes Lima e Ana Hissa pela narração histórica de uma das vitórias mais importantes de sua carreira! O campeão não economizou nas palavras para reconhecer quem fez parte daquele momento inesquecível. ❤️🎙️ *Contém legenda automática. #MMAnoCombate #MMA #CharlesDoBronx #RhodesLima #AnaHissa",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0EVSLIDfAOUAyDRCgf5FlAQAVEBWARkB4ArhC~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=04655f06&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=0M5Jd42LhWIcRWN1l3mjN%2FVU3g8%3D",
+      "author": "canalcombate",
+      "authorName": "Combate",
+      "authorFollowers": null,
+      "views": 672801,
+      "likes": 104931,
+      "comments": 661,
+      "shares": 1252,
+      "durationSec": null,
+      "postedAt": "2026-11-23T01:00:00.000Z",
+      "hashtags": [
+        "mmanocombate",
+        "mma",
+        "charlesdobronx",
+        "rhodeslima",
+        "anahissa"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711195824058862879",
+      "url": "https://www.tiktok.com/@corporate.jose/video/7711195824058862879",
+      "caption": "yo no entiendo como tiene el valor 😂 #job #praktikaforbusiness #ia #app #fyp",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/oANn5ZIQIIAW1eBezVLqHCgeU5cgQIA0GC1jCv~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=cf671d6f&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=FOOgUQs7cCMH2Q4%2FYs%2FfgoQX76A%3D",
+      "author": "corporate.jose",
+      "authorName": "corporate.jose",
+      "authorFollowers": null,
+      "views": 3050357,
+      "likes": 311440,
+      "comments": 938,
+      "shares": 92603,
+      "durationSec": null,
+      "postedAt": "2026-11-23T02:58:20.000Z",
+      "hashtags": [
+        "job",
+        "praktikaforbusiness",
+        "ia",
+        "app",
+        "fyp"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710802554568985862",
+      "url": "https://www.tiktok.com/@novelasdakarol/video/7710802554568985862",
+      "caption": "O Destino Roubado | Parte 1 | #ia #fruta #viral",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ogZnEn4AgYeRAE7hrAIAdmFTEvBCckfRC4AyDA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=055b6e5f&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=Lrr8bePGgAiWCm4rG41QojjAPI8%3D",
+      "author": "novelasdakarol",
+      "authorName": "Novelinhas Da Karol",
+      "authorFollowers": null,
+      "views": 2569537,
+      "likes": 277116,
+      "comments": 830,
+      "shares": 3882,
+      "durationSec": null,
+      "postedAt": "2026-11-22T01:32:12.000Z",
+      "hashtags": [
+        "ia",
+        "fruta",
+        "viral"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711861024235752725",
+      "url": "https://www.tiktok.com/@instantia_/video/7711861024235752725",
+      "caption": "O sabonete - Parte 52 #viral #ia #frutas #trend #viralizar",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8IIGFWsBCuADCDpIfIEs4FAE2CTgDlefYCAjN~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=00f1d90a&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=oH%2BhbsNryshKvn8Xa6TbWja50jY%3D",
+      "author": "instantia_",
+      "authorName": "Instant IA",
+      "authorFollowers": null,
+      "views": 423967,
+      "likes": 65758,
+      "comments": 889,
+      "shares": 1438,
+      "durationSec": null,
+      "postedAt": "2026-11-24T21:59:33.000Z",
+      "hashtags": [
+        "viral",
+        "ia",
+        "frutas",
+        "trend",
+        "viralizar"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711487199643979040",
+      "url": "https://www.tiktok.com/@copier_coller1/video/7711487199643979040",
+      "caption": "#ia #brainrots #fruitstory #tiktokfrance🇨🇵",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/oUMILQ7iJlrAEeIaPgEhBFBERDZDxQSmSQf43V~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=ac1b77dc&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=84PgDSLkNf6Yt2y22eQTBcSUmOg%3D",
+      "author": "copier_coller1",
+      "authorName": "copier_coller1",
+      "authorFollowers": null,
+      "views": 528844,
+      "likes": 44943,
+      "comments": 182,
+      "shares": 262,
+      "durationSec": null,
+      "postedAt": "2026-11-23T21:48:55.000Z",
+      "hashtags": [
+        "ia",
+        "brainrots",
+        "fruitstory",
+        "tiktokfrance"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711988684945394951",
+      "url": "https://www.tiktok.com/@yehs.17/video/7711988684945394951",
+      "caption": "Vayan a ver el otro video en mi perfil🤣 #lainteligenciaartificialesinteligente #missuniverse #puertorico #venezuela #IA",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ooIDogtgGqrlPCfUAIeOAgQf5L369WDIlMYjjM~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=9e415dd2&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=FUtACiyZZo3xyakk2CjEfPeU%2Ba0%3D",
+      "author": "yehs.17",
+      "authorName": "Yehs🦕",
+      "authorFollowers": null,
+      "views": 742662,
+      "likes": 126428,
+      "comments": 1807,
+      "shares": 54286,
+      "durationSec": null,
+      "postedAt": "2026-11-25T06:15:02.000Z",
+      "hashtags": [
+        "lainteligenciaartificialesinteligente",
+        "missuniverse",
+        "puertorico",
+        "venezuela",
+        "ia"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711960505404935431",
+      "url": "https://www.tiktok.com/@nando_gutierrezz/video/7711960505404935431",
+      "caption": "El robo descarado del miss universo 2026 JAJAJAJAJ",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ogGRG1eWFeFMWLeIvidCAp4EIDQDYQTAjDQaMQ~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=9751bea9&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=TvFH0QjimE9dmLbKPTB9x48%2B4dM%3D",
+      "author": "nando_gutierrezz",
+      "authorName": "Nicaragua 🇳🇮",
+      "authorFollowers": null,
+      "views": 383572,
+      "likes": 91156,
+      "comments": 873,
+      "shares": 14841,
+      "durationSec": null,
+      "postedAt": "2026-11-25T04:25:53.000Z",
+      "hashtags": [],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709852850544823572",
+      "url": "https://www.tiktok.com/@the.orioon/video/7709852850544823572",
+      "caption": "#noticia #inteligenciaartificial #apocalipse",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQAeDGyIYOG0CQcIGFLrA5PGAewCPG3lecfR5k~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=28acb0f9&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=XpLPLBSvUzBRvcx4x7gEYO42%2Bg8%3D",
+      "author": "the.orioon",
+      "authorName": "The.orioon",
+      "authorFollowers": null,
+      "views": 825521,
+      "likes": 72180,
+      "comments": 1600,
+      "shares": 9574,
+      "durationSec": null,
+      "postedAt": "2026-11-19T12:06:47.000Z",
+      "hashtags": [
+        "noticia",
+        "inteligenciaartificial",
+        "apocalipse"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710048872801832200",
+      "url": "https://www.tiktok.com/@zayrd0/video/7710048872801832200",
+      "caption": "🚨 RECORDE HISTÓRICO! ANTHROPIC FAZ A MAIOR ESTREIA NA BOLSA DE VALORES DA HISTÓRIA! O mundo da tecnologia e dos investimentos está de olho! A Anthropic, empresa responsável pela inteligência artificial Claude, entrou para a história nesta quinta-feira (19), com uma operação bilionária na bolsa americana Nasdaq. 💰 US$ 81,3 BILHÕES! A empresa levantou aproximadamente 81,3 bilhões de dólares em sua oferta pública inicial de ações (IPO), superando o recorde anterior da SpaceX. 📈 AÇÕES DISPARAM NA ESTREIA! As ações foram oferecidas inicialmente por US$ 83 e começaram a ser negociadas a US$ 111,50, uma valorização de aproximadamente 34%. 🏢 QUEM É A ANTHROPIC? É a empresa que desenvolveu o Claude, uma das inteligências artificiais mais conhecidas do mundo, concorrente de ferramentas como o ChatGPT. 🌎 UMA NOVA DISPUTA BILIONÁRIA! A operação mostra como a inteligência artificial está movimentando quantias gigantescas de dinheiro e atraindo investidores de todo o planeta. Amazon e Google também possuem participações importantes na empresa, reforçando a disputa entre as gigantes da tecnologia. ⚠️ Mas existe um desafio: apesar do crescimento acelerado, a empresa ainda enfrenta custos elevados de infraestrutura e pressão para transformar seu crescimento em lucro sustentável. 🔥 A INTELIGÊNCIA ARTIFICIAL ESTÁ MUDANDO O MUNDO E AGORA TAMBÉM ESTÁ REESCREVENDO A HISTÓRIA DA BOLSA DE VALORES! 💬 Você acredita que a inteligência artificial será o maior negócio do século? 📢 Siga o NOTÍCIAS RD para acompanhar as notícias que movimentam o mundo! #NoticiasRD #Anthropic #ClaudeAI #InteligenciaArtificial #BolsaDeValores",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oEf3AfDAAQVAFHWgPofEjSGDAn1Ym5I9AEDatI~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=c0854a20&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=gRimqQB6hsYSQGHdPWjC3qAL%2FHE%3D",
+      "author": "zayrd0",
+      "authorName": "rd'",
+      "authorFollowers": null,
+      "views": 265206,
+      "likes": 34216,
+      "comments": 432,
+      "shares": 2130,
+      "durationSec": null,
+      "postedAt": "2026-11-20T00:47:39.000Z",
+      "hashtags": [
+        "noticiasrd",
+        "anthropic",
+        "claudeai",
+        "inteligenciaartificial",
+        "bolsadevalores"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709910453115309330",
+      "url": "https://www.tiktok.com/@anipeak0/video/7709910453115309330",
+      "caption": "São 3 da manhã e sua prima tá te mandando mensagem… 📱 O problema é que ela tá dormindo na cama de cima do beliche. 😶 Casa da vó, interior, ventilador rangendo, um chinelo se arrastando no corredor… E uma mensagem que muda tudo: \"Eu não tô no quarto.\" Então quem tá na cama de cima? 👀 Assiste até o final. 🫣 👇 Comenta o que você faria: 🛏️ Olhava pra cima 🚪 Corria pra porta Marca aquele primo(a) que dormia no beliche com você. 😅 #terror #historiadeterror #suspense #misterio #3damanha #beliche #casadavo #creepypasta #animacao #reels #viral #storytime #reelsbrasil #medo #fyp",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIeGQoLcAM4n2HOXDAGAgXCvrCWASEAEA6IQef~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=1159666f&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=Jm8YskwAWLcJo%2BjgZ%2FTUTL9KtbA%3D",
+      "author": "anipeak0",
+      "authorName": "AniPeak",
+      "authorFollowers": null,
+      "views": 1881085,
+      "likes": 211180,
+      "comments": 1959,
+      "shares": 9440,
+      "durationSec": null,
+      "postedAt": "2026-11-19T15:50:19.000Z",
+      "hashtags": [
+        "terror",
+        "historiadeterror",
+        "suspense",
+        "misterio",
+        "3damanha",
+        "beliche",
+        "casadavo",
+        "creepypasta",
+        "animacao",
+        "reels",
+        "viral",
+        "storytime",
+        "reelsbrasil",
+        "medo",
+        "fyp"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711195376698592533",
+      "url": "https://www.tiktok.com/@juanr.gv2026/video/7711195376698592533",
+      "caption": "Experiencias que dejan helado. Qué historia!! #Videos #historias #paranormal #fantasma #miedo",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAdCWgAIoiX5AAqyF12DIwwcWiIVfAqBIDq2B3~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=7c1bb7a5&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=RJ%2Bl0doQ0fs2jowgh1LMaa2%2Fk34%3D",
+      "author": "juanr.gv2026",
+      "authorName": "👁️⚡𝑹𝒂𝒎𝒐́𝒏🔥𝑽𝒊𝒅𝒂𝒍👁️",
+      "authorFollowers": null,
+      "views": 2218203,
+      "likes": 120276,
+      "comments": 3226,
+      "shares": 97430,
+      "durationSec": null,
+      "postedAt": "2026-11-23T02:56:31.000Z",
+      "hashtags": [
+        "videos",
+        "historias",
+        "paranormal",
+        "fantasma",
+        "miedo"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711850796136107316",
+      "url": "https://www.tiktok.com/@fsprojeto/video/7711850796136107316",
+      "caption": "Cartório de apelidos  #tiktok #fyo #terror #historias",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0fsAx2AfW1GIAExfyTFpI4DE5ACCQjL9l4AAD~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=e6ee893c&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=drZ%2FAQAAb0c9OoyEbrsP6%2FMhGQk%3D",
+      "author": "fsprojeto",
+      "authorName": "Cidade vizinha",
+      "authorFollowers": null,
+      "views": 854718,
+      "likes": 103083,
+      "comments": 430,
+      "shares": 1804,
+      "durationSec": null,
+      "postedAt": "2026-11-24T21:19:54.000Z",
+      "hashtags": [
+        "tiktok",
+        "fyo",
+        "terror",
+        "historias"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711898775043706119",
+      "url": "https://www.tiktok.com/@contosdocapuz26/video/7711898775043706119",
+      "caption": "Nesse mundo, os mortos voltam pra terminar o que deixaram pela metade 🧟  #historiasanimadas #zumbi #terror #suspense #plottwist",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4bVfADBEVYBkFREr9qknLcEgQeMBbIQP0xiE5~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=1e9541d1&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=UKOFnKnjku%2BNQOcbs%2FPUdzJYMe4%3D",
+      "author": "contosdocapuz26",
+      "authorName": "Contos Do Capuz",
+      "authorFollowers": null,
+      "views": 441040,
+      "likes": 82576,
+      "comments": 132,
+      "shares": 1458,
+      "durationSec": null,
+      "postedAt": "2026-11-25T00:26:06.000Z",
+      "hashtags": [
+        "historiasanimadas",
+        "zumbi",
+        "terror",
+        "suspense",
+        "plottwist"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711799334941068565",
+      "url": "https://www.tiktok.com/@pastasocultas/video/7711799334941068565",
+      "caption": "O Caso Rui Pedro: o desaparecimento de um menino que nunca deixou de ser lembrado O caso Rui Pedro é um dos desaparecimentos mais conhecidos e marcantes de Portugal. Rui Pedro Teixeira Mendonça era um menino português de apenas 11 anos que desapareceu no dia 4 de março de 1998, na região de Lousada, no norte de Portugal. Naquele dia, ele saiu de casa e nunca mais voltou, dando início a uma investigação que atravessaria décadas e despertaria a atenção de todo o país. Segundo relatos e testemunhos apresentados durante as investigações, Rui Pedro teria sido visto entrando em um carro conduzido por Afonso Dias, um homem adulto que conhecia a família. Outra testemunha afirmou que o menino foi levado até uma mulher chamada Alcina Dias. Essas informações se tornaram algumas das principais pistas do caso. A investigação enfrentou diversas dificuldades ao longo dos anos. Foram realizadas buscas, interrogatórios e análises de possíveis avistamentos em diferentes países, mas nenhuma dessas pistas conseguiu revelar definitivamente o paradeiro da criança. Em 2013, Afonso Dias foi condenado a três anos de prisão pelo crime de rapto de Rui Pedro. Ele cumpriu a pena, mas continuou afirmando ser inocente. Em 2019, a Justiça portuguesa declarou a morte presumida de Rui Pedro, embora seu corpo nunca tenha sido encontrado. Para a família, especialmente sua mãe, Filomena Teixeira, a ausência de respostas representou uma dor que atravessou décadas. Até hoje, permanecem perguntas sem respostas: o que realmente aconteceu naquela tarde de março de 1998? Onde está Rui Pedro? E por que seu desaparecimento nunca teve uma explicação definitiva? Mais de duas décadas depois, o desaparecimento de Rui Pedro continua sendo um dos casos mais dolorosos e conhecidos da história criminal portuguesa.                                       #truecrime #truestory #terror #fyp #viral",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYrNUiFkcBxIdAFRfBhIxK7B1BErgFfcwA0DEj~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=8fa8a20a&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=WWa0oo4xjwQhI6tpewA1igzezyM%3D",
+      "author": "pastasocultas",
+      "authorName": "Pastas ocultas",
+      "authorFollowers": null,
+      "views": 731841,
+      "likes": 132247,
+      "comments": 1339,
+      "shares": 3560,
+      "durationSec": null,
+      "postedAt": "2026-11-24T18:00:12.000Z",
+      "hashtags": [
+        "truecrime",
+        "truestory",
+        "terror",
+        "fyp",
+        "viral"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711850796136107316",
+      "url": "https://www.tiktok.com/@fsprojeto/video/7711850796136107316",
+      "caption": "Cartório de apelidos  #tiktok #fyo #terror #historias",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0fsAx2AfW1GIAExfyTFpI4DE5ACCQjL9l4AAD~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=e6ee893c&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=drZ%2FAQAAb0c9OoyEbrsP6%2FMhGQk%3D",
+      "author": "fsprojeto",
+      "authorName": "Cidade vizinha",
+      "authorFollowers": null,
+      "views": 854737,
+      "likes": 103086,
+      "comments": 430,
+      "shares": 1804,
+      "durationSec": null,
+      "postedAt": "2026-11-24T21:19:54.000Z",
+      "hashtags": [
+        "tiktok",
+        "fyo",
+        "terror",
+        "historias"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711113796483304725",
+      "url": "https://www.tiktok.com/@medoobscuro/video/7711113796483304725",
+      "caption": "Ela tem 2,40 m. Você passaria a noite no chão? 👒 #animacao #terror #historiadeterror",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYfYTD3grIBkSKUDB9FEgCDbEAARyJrIISfYQ2~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=119818f0&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=RfY%2Fkpsz%2BSytUpSTYa%2FiympomuQ%3D",
+      "author": "medoobscuro",
+      "authorName": "Medo Obscuro",
+      "authorFollowers": null,
+      "views": 854238,
+      "likes": 86740,
+      "comments": 2089,
+      "shares": 3717,
+      "durationSec": null,
+      "postedAt": "2026-11-22T21:39:57.000Z",
+      "hashtags": [
+        "animacao",
+        "terror",
+        "historiadeterror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711803953729539346",
+      "url": "https://www.tiktok.com/@bigu.us/video/7711803953729539346",
+      "caption": "Se a sua avó que morreu bater na porta… NÃO RESPONDE 😨 Parte 1  #terrorparanormal #historiadeterror #animação #creepypasta #suspense #medo #parte1 #souzeira",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4Qw6vAlEdiAA2FACAU1NKinB0AY4XXAAIaik~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my2&ps=13740610&refresh_token=84282601&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795672800&x-signature=WvHbI9P10mpHjUqEw58L5JRAbEs%3D",
+      "author": "bigu.us",
+      "authorName": "Bigu",
+      "authorFollowers": null,
+      "views": 7060,
+      "likes": 181,
+      "comments": 28,
+      "shares": 8,
+      "durationSec": null,
+      "postedAt": "2026-11-24T21:00:00.000Z",
+      "hashtags": [
+        "terrorparanormal",
+        "historiadeterror",
+        "animação",
+        "creepypasta",
+        "suspense",
+        "medo",
+        "parte1",
+        "souzeira"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    }
+  ]
+}
