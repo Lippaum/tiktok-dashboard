@@ -1,0 +1,912 @@
+{
+  "collectedAt": "2026-11-27T13:40:08.086Z",
+  "region": "BR",
+  "mode": "live",
+  "itemsReceived": 35,
+  "estimatedUsd": 0.0088,
+  "keywords": [
+    "ia",
+    "inteligenciaartificial",
+    "historiasdeterror",
+    "terror",
+    "misterio"
+  ],
+  "actors": {
+    "trending": {
+      "id": "kaitoeasyapi/tiktok-trending-feed-scraper",
+      "input": {
+        "regions": [
+          "BR"
+        ],
+        "maxVideosPerRegion": 15
+      },
+      "returned": 15
+    },
+    "search": {
+      "id": "kaitoeasyapi/tiktok-search-scraper",
+      "input": {
+        "keywords": [
+          "ia",
+          "inteligenciaartificial",
+          "historiasdeterror",
+          "terror",
+          "misterio"
+        ],
+        "region": "BR",
+        "sortType": "1",
+        "publishTime": "7",
+        "maxResultsPerKeyword": 4
+      },
+      "returned": 20
+    }
+  },
+  "items": [
+    {
+      "id": "7709530779281313057",
+      "url": "https://www.tiktok.com/@toiazitas/video/7709530779281313057",
+      "caption": "😴 #dormir #viral #humor #celular #foryour [15:20]",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/okIGreCLHeF4RGHekxLNhDRAIzYW9ohImAeLGw~tplv-tiktokx-origin.webp?dr=1370&refresh_token=15a782ee&x-expires=1795860000&x-signature=vnPBqp5w9mCu1rRRxbnbWZ6gegQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover&item=7709530779281313057",
+      "author": "toiazitas",
+      "authorName": "𝖙𝖔𝖎𝖆’💋",
+      "authorFollowers": null,
+      "views": 6401775,
+      "likes": 1708782,
+      "comments": 6829,
+      "shares": 111104,
+      "durationSec": null,
+      "postedAt": "2026-11-18T15:16:59.000Z",
+      "hashtags": [
+        "dormir",
+        "viral",
+        "humor",
+        "celular",
+        "foryour"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712296739302018311",
+      "url": "https://www.tiktok.com/@norry.ofc/video/7712296739302018311",
+      "caption": "Gente sério sem condições. #taliban #afeganistao #mulher #feminismo #fy",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oEfIICmsbzGTk7rHNUAPIHblwCiSA1A8gYBuHi~tplv-tiktokx-origin.webp?dr=1370&refresh_token=35151730&x-expires=1795860000&x-signature=Enee3MHnNl9IbqGBJxrWXz8nDHk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "norry.ofc",
+      "authorName": "norry.ofc",
+      "authorFollowers": null,
+      "views": 612188,
+      "likes": 225688,
+      "comments": 3811,
+      "shares": 16006,
+      "durationSec": null,
+      "postedAt": "2026-11-26T02:10:26.000Z",
+      "hashtags": [
+        "taliban",
+        "afeganistao",
+        "mulher",
+        "feminismo",
+        "fy"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7694792047387036980",
+      "url": "https://www.tiktok.com/@xgihzinha/video/7694792047387036980",
+      "caption": "Londres 🇬🇧 #foryou #tiktok #europa #londres #viagem",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQzyUIhIDEkRWBZFgEfMAPFR2Fel4qBEyr5ROJ~tplv-tiktokx-origin.webp?dr=1370&refresh_token=cada4b36&x-expires=1795860000&x-signature=bXXoQWFqVH9yZcDzy4GNKJEkSks%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "xgihzinha",
+      "authorName": "gih",
+      "authorFollowers": null,
+      "views": 3550644,
+      "likes": 1117796,
+      "comments": 1087,
+      "shares": 90200,
+      "durationSec": null,
+      "postedAt": "2026-10-09T22:03:44.000Z",
+      "hashtags": [
+        "foryou",
+        "tiktok",
+        "europa",
+        "londres",
+        "viagem"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711794066874223894",
+      "url": "https://www.tiktok.com/@joannex444/video/7711794066874223894",
+      "caption": "ib: @Brooke Monk  #fyp #makeup #grwm #joanne🎀 #foryoupage❤️",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-no1a-p-0037-no/ooERgAQLiQj4vCDWBgfmFPAkEsQweyKTFcBrlE~tplv-tiktokx-origin.webp?dr=1370&refresh_token=4680796c&x-expires=1795860000&x-signature=OgP9GR8uVyYjHS4pWS1bAOYCcBU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "joannex444",
+      "authorName": "joanne🎀",
+      "authorFollowers": null,
+      "views": 20184868,
+      "likes": 983152,
+      "comments": 11460,
+      "shares": 521417,
+      "durationSec": null,
+      "postedAt": "2026-11-24T17:39:43.000Z",
+      "hashtags": [
+        "fyp",
+        "makeup",
+        "grwm",
+        "joanne",
+        "foryoupage"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7706846290851892500",
+      "url": "https://www.tiktok.com/@yutioojk/video/7706846290851892500",
+      "caption": "Cartilha de caligrafia para a fase da alfabetização ( #caligrafia #educacaoinfantil #aprendizado #viraltiktokshop #tiktokshopbr1010 Caderno de caligrafia | Alfabetização | Alfabeto | caderno de alfabeto",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYAIgi2ARvTEqANf0AweDh9Gl9KBECiuUI2B2w~tplv-tiktokx-origin.webp?dr=1370&refresh_token=c0d58808&x-expires=1795860000&x-signature=X%2FEvXXagk5Iya%2Fu5q2kBZ5qiZAc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&s=FEED&sc=cover&biz_tag=tt_video",
+      "author": "yutioojk",
+      "authorName": "yutioojk",
+      "authorFollowers": null,
+      "views": 6095662,
+      "likes": 30667,
+      "comments": 163,
+      "shares": 6090,
+      "durationSec": null,
+      "postedAt": "2026-11-11T09:39:47.000Z",
+      "hashtags": [
+        "caligrafia",
+        "educacaoinfantil",
+        "aprendizado",
+        "viraltiktokshop",
+        "tiktokshopbr1010"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712244531206343943",
+      "url": "https://www.tiktok.com/@amandaguedesss/video/7712244531206343943",
+      "caption": "Ah, mas o feminismo é inútil",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-i-photomode-sg/6f319df6ee744cd49cdb2243ef963369~tplv-photomode-image-cover:640:0:q70.webp?dr=17580&refresh_token=v3_bc8491d7&x-expires=1797069600&x-signature=zX5RflMmZyRoDlzDdPYvsBmegbI%3D&biz_tag=tt_photomode&idc=my&ps=d5b8ac02&s=FEED&sc=cover&shcp=1a816805&shp=d05b14bd&t=5897f7ec&tip=1",
+      "author": "amandaguedesss",
+      "authorName": "Amanda",
+      "authorFollowers": null,
+      "views": 833632,
+      "likes": 383479,
+      "comments": 2500,
+      "shares": 13090,
+      "durationSec": null,
+      "postedAt": "2026-11-25T22:47:45.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7708863431268437269",
+      "url": "https://www.tiktok.com/@erikadaily/video/7708863431268437269",
+      "caption": "#ad Eu amo dias de sol ☀️  Se você também quer garantir o seu, aproveita que tá com mais de 30% OFF na Black da Amazon! #bl_4d5d #EucerinSerumEpigenetic #publi",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIIp7PFEYtsIr9zKXApiiiVommBayvA4Bkh5Y~tplv-tiktokx-origin.webp?dr=1370&refresh_token=cfb2b4de&x-expires=1795860000&x-signature=rrN9Ifz4oj1%2FKw%2BqR31y8ROM3gI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "erikadaily",
+      "authorName": "Erika",
+      "authorFollowers": null,
+      "views": 621787,
+      "likes": 8721,
+      "comments": 48,
+      "shares": 74,
+      "durationSec": null,
+      "postedAt": "2026-11-16T20:07:20.000Z",
+      "hashtags": [
+        "ad",
+        "bl_4d5d",
+        "eucerinserumepigenetic",
+        "publi"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7707710509050613000",
+      "url": "https://www.tiktok.com/@subway.brasil/video/7707710509050613000",
+      "caption": "Natural? Sim 🙂‍↕️  Gostoso? Pra caramba 😋  Frango? Em dobro! 🐔🐔  A matemática do Subway nunca fez tanto sentido 🤓",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIfDO9G3LqK17kuX7j9gAChIQ5MggoHeAVp7fI~tplv-tiktokx-origin.webp?dr=1370&refresh_token=3b3ecc82&x-expires=1795860000&x-signature=LP0efvHM4add3jqy8X%2BfejJzZ8w%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "subway.brasil",
+      "authorName": "Subway Brasil",
+      "authorFollowers": null,
+      "views": 8555647,
+      "likes": 11498,
+      "comments": 267,
+      "shares": 751,
+      "durationSec": null,
+      "postedAt": "2026-11-13T17:33:30.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712207811861859605",
+      "url": "https://www.tiktok.com/@povcain/video/7712207811861859605",
+      "caption": "ogro não, ciclope 👁️",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/oEAADI1oARI2iUKCi6AANEIBHwGOgAEBwmf3C9~tplv-tiktokx-origin.webp?dr=1370&refresh_token=5160de87&x-expires=1795860000&x-signature=0h9ITgYJtM7%2BBx4JtE2FseaKFek%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "povcain",
+      "authorName": "povcain",
+      "authorFollowers": null,
+      "views": 959435,
+      "likes": 197581,
+      "comments": 1615,
+      "shares": 66746,
+      "durationSec": null,
+      "postedAt": "2026-11-25T20:25:16.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712266997899201800",
+      "url": "https://www.tiktok.com/@victorvitorinoss/video/7712266997899201800",
+      "caption": "Corte para “rosto oval com tendência ao coração” 🤎🥹… Lembrando que nem todo rosto tem um formato definido, viu? Muitas vezes, temos uma mistura de características de diferentes formatos, mas sempre existe uma tendência maior para um deles. ✨ Quem aí está gostando de cortes pensados para valorizar cada formato de rosto? 😅 BH/MG #corterepicado #franja #cortefeminino",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4wrZDk8kAI5FRQlgQFgBeUD4fxiSh3EBEBoOQ~tplv-tiktokx-origin.webp?dr=1370&refresh_token=02af887f&x-expires=1795860000&x-signature=2iocyp83Lm5Gfko4fbmGIBcVMXg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "victorvitorinoss",
+      "authorName": "Victor Vitorino",
+      "authorFollowers": null,
+      "views": 1034133,
+      "likes": 113649,
+      "comments": 345,
+      "shares": 3230,
+      "durationSec": null,
+      "postedAt": "2026-11-26T00:15:03.000Z",
+      "hashtags": [
+        "corterepicado",
+        "franja",
+        "cortefeminino"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712493328943566088",
+      "url": "https://www.tiktok.com/@chocolate.cell/video/7712493328943566088",
+      "caption": "",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o4ErBIvlE69FTERAsgrIC8ecRXScDBEzEf2I0c~tplv-tiktokx-origin.webp?dr=1370&refresh_token=59bef347&x-expires=1795860000&x-signature=Hwu1mTWYfEf9odrZvBX961SEpZU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "chocolate.cell",
+      "authorName": "Chocolate.cell",
+      "authorFollowers": null,
+      "views": 424615,
+      "likes": 13038,
+      "comments": 112,
+      "shares": 713,
+      "durationSec": null,
+      "postedAt": "2026-11-26T14:53:15.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711722328228433170",
+      "url": "https://www.tiktok.com/@itau/video/7711722328228433170",
+      "caption": "O que tem na bolsa de uma tenista profissional? 🎾 Corda, viseira e até trevo da sorte. E aí, o que você levaria na sua? Conheça mais dessa dupla no perfil 👜",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8AArV1kAiIQiRKCisAAyEIBFwrOgADBzPfyq6~tplv-tiktokx-origin.webp?dr=1370&refresh_token=7124a784&x-expires=1795860000&x-signature=5BLEyZ82qT7Uy7vn%2Fexj8J23770%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "itau",
+      "authorName": "Itaú",
+      "authorFollowers": null,
+      "views": 2285160,
+      "likes": 13673,
+      "comments": 6,
+      "shares": 288,
+      "durationSec": null,
+      "postedAt": "2026-11-24T13:01:26.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7709891880703544606",
+      "url": "https://www.tiktok.com/@emeka_eze1/video/7709891880703544606",
+      "caption": "The broken egg in the house part 1",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/oQgegRQvGE9fAOMrUWP584Cm8yKRFQWAUegeFF~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=80f8ec2c&x-expires=1795870800&x-signature=OgBbOUXP2V8SwC6MT%2FrkyZ7hMKs%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "emeka_eze1",
+      "authorName": "Emeka_eze",
+      "authorFollowers": null,
+      "views": 23986599,
+      "likes": 584277,
+      "comments": 12276,
+      "shares": 26241,
+      "durationSec": null,
+      "postedAt": "2026-11-19T14:38:23.000Z",
+      "hashtags": [],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7688160666338807070",
+      "url": "https://www.tiktok.com/@m.i.r.a.n.d.a.mae/video/7688160666338807070",
+      "caption": "brb wearin this set ALL FALL 🐻🥥🤎 @Walmart  #OOTD #ootdinspo #ootdfashion #ootds #ootdinspiration",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/oUKEhOEQIEAqiEsftqFVje13ouVHPEAHDBdREh~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=d8dd9a0e&x-expires=1795870800&x-signature=vNBb8%2Fsq6avKCAj5U%2F7y4eyR3EY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&sc=cover&biz_tag=tt_video&s=FEED",
+      "author": "m.i.r.a.n.d.a.mae",
+      "authorName": "miranda mae",
+      "authorFollowers": null,
+      "views": 1198553,
+      "likes": 113275,
+      "comments": 12926,
+      "shares": 13165,
+      "durationSec": null,
+      "postedAt": "2026-09-22T01:10:10.000Z",
+      "hashtags": [
+        "ootd",
+        "ootdinspo",
+        "ootdfashion",
+        "ootds",
+        "ootdinspiration"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7681385009495706900",
+      "url": "https://www.tiktok.com/@star.blue.01/video/7681385009495706900",
+      "caption": "#fyp #paravoce",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okjaKZKEc8I6mJwqAfDIRwqF0fizLHEUBDsBgv~tplv-tiktokx-shrink_ep:640:640:q78.webp?dr=1346&refresh_token=v3_497186db&x-expires=1795870800&x-signature=FnRYuENjltbhqrP8%2F2DCz%2B%2FkHBs%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1a816805&idc=my2&biz_tag=tt_video&s=FEED&sc=cover",
+      "author": "star.blue.01",
+      "authorName": "𝐬𝐭𝐚𝐫.𝐛𝐥𝐮𝐞.𝟎𝟏",
+      "authorFollowers": null,
+      "views": 2111258,
+      "likes": 278740,
+      "comments": 1724,
+      "shares": 16372,
+      "durationSec": null,
+      "postedAt": "2026-09-03T18:57:02.000Z",
+      "hashtags": [
+        "fyp",
+        "paravoce"
+      ],
+      "sources": [
+        "trending"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710802554568985862",
+      "url": "https://www.tiktok.com/@novelasdakarol/video/7710802554568985862",
+      "caption": "O Destino Roubado | Parte 1 | #ia #fruta #viral",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ogZnEn4AgYeRAE7hrAIAdmFTEvBCckfRC4AyDA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=2da9913e&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=Imsmfhj4KowjlQahzZJsTfkC%2BD0%3D",
+      "author": "novelasdakarol",
+      "authorName": "Novelinhas Da Karol",
+      "authorFollowers": null,
+      "views": 2615636,
+      "likes": 282476,
+      "comments": 848,
+      "shares": 3993,
+      "durationSec": null,
+      "postedAt": "2026-11-22T01:32:12.000Z",
+      "hashtags": [
+        "ia",
+        "fruta",
+        "viral"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711750231708290324",
+      "url": "https://www.tiktok.com/@instantia_/video/7711750231708290324",
+      "caption": "O sabonete - Parte 51 #ia #frutas #viral #trend #viralizar",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/ocFXs3ICIImAAuLf0UIFI1B11axiiAatAwCHpg~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=1dba7387&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=DjMo6ux9dCWYwMKrETlArxKV7N8%3D",
+      "author": "instantia_",
+      "authorName": "Instant IA",
+      "authorFollowers": null,
+      "views": 577466,
+      "likes": 73896,
+      "comments": 778,
+      "shares": 1326,
+      "durationSec": null,
+      "postedAt": "2026-11-24T14:49:36.000Z",
+      "hashtags": [
+        "ia",
+        "frutas",
+        "viral",
+        "trend",
+        "viralizar"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712198759261785377",
+      "url": "https://www.tiktok.com/@histoires.ia.animer/video/7712198759261785377",
+      "caption": "#couple #tiktokfrance🇨🇵 #ia #mariage",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/owfRQEuZgtOAYvjOPwBIQ1AdQEFfDrAzBKDmcE~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=d35d7f55&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=QjxnyrCkDUVI%2FMXznOBYD%2FMmPtc%3D",
+      "author": "histoires.ia.animer",
+      "authorName": "Histoires animées",
+      "authorFollowers": null,
+      "views": 105527,
+      "likes": 14982,
+      "comments": 448,
+      "shares": 2909,
+      "durationSec": null,
+      "postedAt": "2026-11-25T19:50:05.000Z",
+      "hashtags": [
+        "couple",
+        "tiktokfrance",
+        "ia",
+        "mariage"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710499596270587167",
+      "url": "https://www.tiktok.com/@aris29282/video/7710499596270587167",
+      "caption": "#AIGenerated #AIContent #AIVideo #MadeWithAI #FYP #ForYou #Viral #Trending #TikTokViral #AIArt #AIAnimation #ExplorePage #MustWatch #CreativeAI #ViralVideos",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast8-p-0068-tx2/oAelCaVAICCIa1AXGyGeqWQTAIPUfZj8mLAII0~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=f8dd38db&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=w1w%2FFuv8qAuxYdFH4sfF2QltddA%3D",
+      "author": "aris29282",
+      "authorName": "aris",
+      "authorFollowers": null,
+      "views": 601650,
+      "likes": 6376,
+      "comments": 17,
+      "shares": 1415,
+      "durationSec": null,
+      "postedAt": "2026-11-21T05:56:45.000Z",
+      "hashtags": [
+        "aigenerated",
+        "aicontent",
+        "aivideo",
+        "madewithai",
+        "fyp",
+        "foryou",
+        "viral",
+        "trending",
+        "tiktokviral",
+        "aiart",
+        "aianimation",
+        "explorepage",
+        "mustwatch",
+        "creativeai",
+        "viralvideos"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712132301898910983",
+      "url": "https://www.tiktok.com/@lucianohangbr/video/7712132301898910983",
+      "caption": "O que eu diria para o Luciano do passado? O @maycondm_ usou inteligência artificial para me levar de volta ao passado. Primeiro, encontrei minha versão de menino. Depois, conversei com aquele jovem que, em 1986, abriu uma pequena loja de tecidos de 45 metros quadrados em Brusque (SC). Se eu pudesse conversar com os dois, diria a mesma coisa: vai ter dia em que vocês vão pensar em desistir. Nesses momentos, lembrem por que começaram e façam o seu melhor todos os dias. Foi assim, um dia de cada vez, que aquela lojinha se transformou na Havan de hoje, com mais de 201 megalojas e 25 mil colaboradores espalhados pelo Brasil. Quanta coisa mudou em 40 anos. E pensar que nada disso teria acontecido se eu tivesse desistido lá atrás. E você, o que diria para sua versão do passado? Um abraço do Véio da Havan! #LucianoHang #VéioDaHavan #Havan40Anos #Empreendedorismo",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUDaAEiA9QfB7F0EVcufAPJ363AKCRgrNrIvAB~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=c104e705&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=r%2FkI3JywHkGumijGCzzlZ5V%2Frls%3D",
+      "author": "lucianohangbr",
+      "authorName": "Véio da Havan",
+      "authorFollowers": null,
+      "views": 281226,
+      "likes": 44789,
+      "comments": 2603,
+      "shares": 2390,
+      "durationSec": null,
+      "postedAt": "2026-11-25T15:32:14.000Z",
+      "hashtags": [
+        "lucianohang",
+        "véiodahavan",
+        "havan40anos",
+        "empreendedorismo"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710711416621206805",
+      "url": "https://www.tiktok.com/@reconhecaseuvalor/video/7710711416621206805",
+      "caption": "A inteligência artificial está nos fazendo questionar algo muito maior do que o futuro da tecnologia: o que significa ser humano? Vivemos em uma época em que uma máquina consegue responder com educação, demonstrar atenção e oferecer soluções, enquanto muitas pessoas já não encontram tempo para ouvir umas às outras. O mais preocupante talvez não seja perceber que a tecnologia está se tornando cada vez mais parecida conosco, mas reconhecer que estamos deixando de praticar aquilo que nos torna humanos. Em muitos relacionamentos, falta paciência para uma conversa, interesse pela dificuldade do outro e disposição para escutar sem julgar. Estamos tão ocupados com nossos próprios problemas que esquecemos como um gesto simples de atenção pode transformar o dia de alguém. A inteligência artificial consegue simular uma conversa acolhedora, mas isso não significa que ela tenha sentimentos ou se importe como uma pessoa. E é justamente aí que surge uma reflexão importante: se valorizamos tanto ser compreendidos, por que temos tanta dificuldade em oferecer compreensão? O verdadeiro desafio do futuro não será apenas aprender a conviver com máquinas inteligentes, mas preservar a empatia, o respeito e a sensibilidade nas relações humanas. A tecnologia pode facilitar nossa vida, responder perguntas e até nos ajudar a tomar decisões, mas não deveria substituir nossa responsabilidade de cuidar uns dos outros. Antes de perguntar se a inteligência artificial vai substituir o ser humano, talvez devêssemos perguntar: estamos oferecendo às pessoas a atenção e o carinho que esperamos receber? @andreavermont @getcut.pro #blackvitalicia #blackandrea #cutpro",
+      "coverUrl": "https://p19-common-sign.tiktokcdn.com/tos-alisg-p-0037/ooJgA8aBdLAAeReAEsIGayeeIAswAZCqGwBXFG~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=927f8552&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=%2FmvLAHOqR26XaOKD4EK49aC0BWg%3D",
+      "author": "reconhecaseuvalor",
+      "authorName": "Reconheça Seu Valor | Reflexão",
+      "authorFollowers": null,
+      "views": 248292,
+      "likes": 30799,
+      "comments": 426,
+      "shares": 5468,
+      "durationSec": null,
+      "postedAt": "2026-11-21T19:38:29.000Z",
+      "hashtags": [
+        "blackvitalicia",
+        "blackandrea",
+        "cutpro"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712641750170438919",
+      "url": "https://www.tiktok.com/@cleoedudafilmes/video/7712641750170438919",
+      "caption": "Além das Aparências | Capítulo 1 O verdadeiro valor de uma pessoa está no seu caráter. 📌 Obra de ficção criada com inteligência artificial, com personagens e acontecimentos fictícios. #AlémDasAparências #Novela #HistóriasQueEnsinam #Reflexão #Humildade #novelas",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/owNIJdAEeAETazArAGrWRmErzID4LEAe6ZAIof~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=0b1334ab&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=QL1MiXEka%2F88lxag9QBT0vWgKhQ%3D",
+      "author": "cleoedudafilmes",
+      "authorName": "cleoeDuda filmes",
+      "authorFollowers": null,
+      "views": 720565,
+      "likes": 28628,
+      "comments": 1456,
+      "shares": 1495,
+      "durationSec": null,
+      "postedAt": "2026-11-27T00:29:23.000Z",
+      "hashtags": [
+        "alémdasaparências",
+        "novela",
+        "históriasqueensinam",
+        "reflexão",
+        "humildade",
+        "novelas"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712190149911694600",
+      "url": "https://www.tiktok.com/@cleoedudafilmes/video/7712190149911694600",
+      "caption": "O que Eduardo não imaginava era que seu passado estaria esperando por ele dentro da sua nova casa. 🎬 Uma obra de ficção criada com inteligência artificial. #AOutraEsposa #Novela #HistoriasEmocionantes #Reflexão #Fé #Superação #novelas",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oMUCBGfAAzjD2qg9AAAV4MfOCLBFHMErgEvIHz~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=a0a55619&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=gVyuZBPkiVClW%2BNFmw%2B9jwx8V8c%3D",
+      "author": "cleoedudafilmes",
+      "authorName": "cleoeDuda filmes",
+      "authorFollowers": null,
+      "views": 288584,
+      "likes": 15245,
+      "comments": 883,
+      "shares": 330,
+      "durationSec": null,
+      "postedAt": "2026-11-25T19:16:45.000Z",
+      "hashtags": [
+        "aoutraesposa",
+        "novela",
+        "historiasemocionantes",
+        "reflexão",
+        "fé",
+        "superação",
+        "novelas"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710936755410701589",
+      "url": "https://www.tiktok.com/@sullivan_bananita/video/7710936755410701589",
+      "caption": "10/10 las historias de terror#lamansionvip #fyp #terror #hotspanish",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUONs5EQIDAW17BfCgFoFfASCEe72IAgDCXjBr~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=02e0688b&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=%2Bvk7fIGCxvmQ2NmFdy8DHgaGFRA%3D",
+      "author": "sullivan_bananita",
+      "authorName": "Sullivan",
+      "authorFollowers": null,
+      "views": 2884550,
+      "likes": 420689,
+      "comments": 808,
+      "shares": 15209,
+      "durationSec": null,
+      "postedAt": "2026-11-22T10:12:56.000Z",
+      "hashtags": [
+        "lamansionvip",
+        "fyp",
+        "terror",
+        "hotspanish"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712248496299969813",
+      "url": "https://www.tiktok.com/@dudin_gamerr/video/7712248496299969813",
+      "caption": "⚠️ CONTEXTO ⚠️ Durante uma gameplay do jogo de terror brasileiro Serra de Deus, do desenvolvedor David Pateti, Jazzghost comentou sobre a história de Rafaela, uma personagem trans que sofreu rejeição e preconceito simplesmente por ser quem é. Ao comentar o destino da personagem no final Justiça, ele reforçou uma mensagem muito importante: devemos respeitar as pessoas, independentemente de quem elas sejam. É muito significativo ver um criador de conteúdo com um público tão grande falando sobre isso, especialmente considerando a influência que ele tem sobre crianças e adolescentes. Respeito não deveria ser algo difícil de entender. Pessoas trans merecem dignidade, acolhimento e respeito 🏳️‍⚧️❤️ #Jazzghost #SerraDeDeus #RespeitoTrans #PessoasTrans #LGBTQIA",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oUQBEQUlpBPAwAAy0RAHPqEAiBwiaIaDlYdAU~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=33335457&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=w9k74Byl8Jo0kFHsWZrRqiJDzVI%3D",
+      "author": "dudin_gamerr",
+      "authorName": "𝖽𝗎𝖽𝗂𝗇",
+      "authorFollowers": null,
+      "views": 601952,
+      "likes": 232292,
+      "comments": 7643,
+      "shares": 8754,
+      "durationSec": null,
+      "postedAt": "2026-11-25T23:03:07.000Z",
+      "hashtags": [
+        "jazzghost",
+        "serradedeus",
+        "respeitotrans",
+        "pessoastrans",
+        "lgbtqia"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7711868488071023879",
+      "url": "https://www.tiktok.com/@arquivosombrio35/video/7711868488071023879",
+      "caption": "O balão confesso que me assustou  #horror #terror #creepy #sobrenatural #historiasdeterror",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oQDkiyEJiYXwB2BAv4APiAXLlG5YAIkEAaBA0~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=22bc891e&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=QdyrWMwimyuaqJiJ%2BPTtk8X3Gu0%3D",
+      "author": "arquivosombrio35",
+      "authorName": "Arquivo Sombrio",
+      "authorFollowers": null,
+      "views": 691652,
+      "likes": 108236,
+      "comments": 2841,
+      "shares": 19181,
+      "durationSec": null,
+      "postedAt": "2026-11-24T22:28:38.000Z",
+      "hashtags": [
+        "horror",
+        "terror",
+        "creepy",
+        "sobrenatural",
+        "historiasdeterror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712599852403772679",
+      "url": "https://www.tiktok.com/@eita_lucass/video/7712599852403772679",
+      "caption": "um curta de terror chamado THAT’S NOT ME que propõem uma situação muito interessante: e se o seu namorado ou namorada na verdade for um clone idêntico da pessoa que você ama de verdade? 👹 #curtasdeterror #terror #resumodefilmes #historiasbizarras #TikTokMeFezAssistir",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/okAA10iIEBgreLCfcqiUIVAxzLiqcEAsBCKRA3~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=a94aaa0e&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=3hdl7lxxF7PAox9Oo35ZN%2FiXzpU%3D",
+      "author": "eita_lucass",
+      "authorName": "lucas da cripta 👻",
+      "authorFollowers": null,
+      "views": 359337,
+      "likes": 43590,
+      "comments": 372,
+      "shares": 3452,
+      "durationSec": null,
+      "postedAt": "2026-11-26T21:46:40.000Z",
+      "hashtags": [
+        "curtasdeterror",
+        "terror",
+        "resumodefilmes",
+        "historiasbizarras",
+        "tiktokmefezassistir"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712480687328185608",
+      "url": "https://www.tiktok.com/@dinahmoraes/video/7712480687328185608",
+      "caption": "assim seriam os filmes de terror no Brasil 😂 #filmes #terror #brasil #humor",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oAXxiQAIQIJcEOADHeWIgGLEEgeSoMAeAAiLAj~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=90a8d7b5&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=jmIvrs6ijPfCOpZf2hOU9Kykj88%3D",
+      "author": "dinahmoraes",
+      "authorName": "Dinah Moraes",
+      "authorFollowers": null,
+      "views": 411833,
+      "likes": 81795,
+      "comments": 178,
+      "shares": 10187,
+      "durationSec": null,
+      "postedAt": "2026-11-26T14:04:12.000Z",
+      "hashtags": [
+        "filmes",
+        "terror",
+        "brasil",
+        "humor"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710257680597912852",
+      "url": "https://www.tiktok.com/@arquivo.oculto.doc/video/7710257680597912852",
+      "caption": "66 DIAS DE TERROR — DIA 26: PALHAÇO. 🤡 Uma mulher está olhando pela janela de um prédio aparentemente muito alto quando percebe uma figura estranha dançando na rua. É um palhaço. Seus movimentos são esquisitos, quase desengonçados. Mas a situação fica ainda mais perturbadora quando ele percebe que está sendo observado. Ela se vira por um instante… e, quando olha novamente, ele está bem atrás dela. Mas afinal, por que palhaços conseguem provocar tanto medo? Existe até um nome popular para esse medo: coulrofobia. Uma das explicações estudadas pela psicologia envolve justamente a maquiagem exagerada, que esconde as expressões naturais do rosto. Você sabe que existe uma pessoa ali, mas não consegue interpretar direito o que ela está sentindo. Some isso a movimentos imprevisíveis, sorrisos artificiais e comportamentos estranhos. E essa associação entre palhaços e coisas macabras é muito mais antiga do que parece. Em 1892, a ópera italiana Pagliacci já apresentava Canio, um palhaço que, tomado pelo ciúme, cometia um assassinato durante uma apresentação. Muito antes de Pennywise, a cultura já explorava o lado perturbador dessas figuras. Talvez o problema nunca tenha sido o nariz vermelho. Talvez seja aquele sorriso que continua no rosto mesmo quando você já não tem certeza do que está por trás dele. #66DiasDeTerror #Palhaços #Terror #Mistério #ArquivoOculto Palhaço assustador, coulrofobia, palhaço assassino, medo de palhaços, Pagliacci, Pennywise, terror psicológico, figuras perturbadoras, histórias macabras, vídeos assustadores.",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0AAFIA3A0rAKrdVHxEmCFAERBnDqgZcjEfAfZ~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=1a7ac9a8&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=kyjGkJA1rrzOwzGxTpCCycFxlp0%3D",
+      "author": "arquivo.oculto.doc",
+      "authorName": "Arquivo Oculto Doc",
+      "authorFollowers": null,
+      "views": 1825,
+      "likes": 75,
+      "comments": 0,
+      "shares": 5,
+      "durationSec": null,
+      "postedAt": "2026-11-20T14:17:42.000Z",
+      "hashtags": [
+        "66diasdeterror",
+        "palhaços",
+        "terror",
+        "mistério",
+        "arquivooculto"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712261638115659029",
+      "url": "https://www.tiktok.com/@souzaj156/video/7712261638115659029",
+      "caption": "#viral #foryou #fyp #terror #scary",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oIAFBESrUE7CxR8ITDHfBFdBoDpyS3Ig4qe5pg~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=1aa0b22d&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=P5XlLM%2BkZrfRdWfg3ERD3n2aXP8%3D",
+      "author": "souzaj156",
+      "authorName": "souzaj",
+      "authorFollowers": null,
+      "views": 523,
+      "likes": 44,
+      "comments": 5,
+      "shares": 1,
+      "durationSec": null,
+      "postedAt": "2026-11-25T23:54:08.000Z",
+      "hashtags": [
+        "viral",
+        "foryou",
+        "fyp",
+        "terror",
+        "scary"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7710377620797508885",
+      "url": "https://www.tiktok.com/@onirotv/video/7710377620797508885",
+      "caption": "Repara no sorriso dela 😨 Você teria percebido? #analoghorror #creepypasta #terror",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o0AAkTwAAiI1AbcAVaBXYnvD2l0wAD77AiNEu~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=d34803c1&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=TdiXXfULcO3GAbg6gn6gOpB48bk%3D",
+      "author": "onirotv",
+      "authorName": "Oniro",
+      "authorFollowers": null,
+      "views": 812443,
+      "likes": 46906,
+      "comments": 1157,
+      "shares": 5337,
+      "durationSec": null,
+      "postedAt": "2026-11-20T22:03:10.000Z",
+      "hashtags": [
+        "analoghorror",
+        "creepypasta",
+        "terror"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712246309238967585",
+      "url": "https://www.tiktok.com/@ahorita_tecuento/video/7712246309238967585",
+      "caption": "Don Beto y Manchitas salen en busca de Toby, pero descubren un oscuro secreto. Ahora, un misterioso hombre quiere arrebatarle al jaguar que tanto ama. 🐆😱 Parte 2. . #HistoriasEmotivas #misterio #mexican #usa #novelas",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-useast2a-p-0037-euttp/osiAIT4f7y9EIxCISZg1IAiO1AsBdAoBAB9WHB~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=07606562&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=ke6MnjYLcUN87lp3Bit6%2FKH3MCc%3D",
+      "author": "ahorita_tecuento",
+      "authorName": "Ahorita te Cuento 🍿",
+      "authorFollowers": null,
+      "views": 2417582,
+      "likes": 328144,
+      "comments": 1178,
+      "shares": 8920,
+      "durationSec": null,
+      "postedAt": "2026-11-25T22:54:39.000Z",
+      "hashtags": [
+        "historiasemotivas",
+        "misterio",
+        "mexican",
+        "usa",
+        "novelas"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712156357440359732",
+      "url": "https://www.tiktok.com/@fatosdesiguais/video/7712156357440359732",
+      "caption": "Decarabia. ⭐ Uma estrela que esconde uma das figuras mais misteriosas da demonologia antiga. Decarabia, o 69º espírito da Ars Goetia, é descrito como um Grande Marquês do Inferno, associado a pássaros, pedras preciosas e poderes sobrenaturais. Mas por que sua primeira forma seria uma estrela? 👁️ 📜 Conheça os mistérios da antiga demonologia. #Decarabia #ArsGoetia #Demonologia #Mistérios #Ocultismo",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/o8BADEwiPkBcEk8AtaAAAAqHJHAHiIncRWYPB~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=973f04d4&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=d3jIZR55IL7G%2BW4b4kx8hBJ7pKU%3D",
+      "author": "fatosdesiguais",
+      "authorName": "fatosdesiguais",
+      "authorFollowers": null,
+      "views": 313769,
+      "likes": 84509,
+      "comments": 954,
+      "shares": 5114,
+      "durationSec": null,
+      "postedAt": "2026-11-25T17:05:35.000Z",
+      "hashtags": [
+        "decarabia",
+        "arsgoetia",
+        "demonologia",
+        "mistérios",
+        "ocultismo"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712232789860437269",
+      "url": "https://www.tiktok.com/@l_explicaofcc/video/7712232789860437269",
+      "caption": "OLHOS CASTANHOS! #curiosidades #misterio",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oU1CAlWfAHzrFBAeErthVWyDgEMCcaAsH8BIIA~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=120d54a2&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=JhIKB9AuXTgLlp7rslVAekB5kKI%3D",
+      "author": "l_explicaofcc",
+      "authorName": "DETETIVE L",
+      "authorFollowers": null,
+      "views": 277906,
+      "likes": 84101,
+      "comments": 3593,
+      "shares": 8072,
+      "durationSec": null,
+      "postedAt": "2026-11-25T22:02:09.000Z",
+      "hashtags": [
+        "curiosidades",
+        "misterio"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    },
+    {
+      "id": "7712489737398930696",
+      "url": "https://www.tiktok.com/@teoriadelperro/video/7712489737398930696",
+      "caption": "Las Rocas de las Tres Ballenas en Tailandia, también conocidas como Hin Sam Wan. #animales #ballenas #datoscuriosos #misterio",
+      "coverUrl": "https://p16-common-sign.tiktokcdn.com/tos-alisg-p-0037/oYwAAI2IPInnsERiAN4qAYBBAEiBAgAzEah5B~tplv-tiktokx-cropcenter:500:800.jpeg?biz_tag=musically_video.video_cover&dr=14577&idc=my&ps=13740610&refresh_token=9632f3ca&shcp=9b759fb9&shp=c1333099&t=4d5b0474&x-expires=1795806000&x-signature=8Efse0PzshhXGGlILoaHoKmZI9U%3D",
+      "author": "teoriadelperro",
+      "authorName": "Teoría del Perro",
+      "authorFollowers": null,
+      "views": 402023,
+      "likes": 60179,
+      "comments": 1040,
+      "shares": 4854,
+      "durationSec": null,
+      "postedAt": "2026-11-26T14:39:23.000Z",
+      "hashtags": [
+        "animales",
+        "ballenas",
+        "datoscuriosos",
+        "misterio"
+      ],
+      "sources": [
+        "search"
+      ],
+      "aiMeta": false
+    }
+  ]
+}
